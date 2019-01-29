@@ -23,12 +23,11 @@
     </header>
     <div id="container">
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
-         <div id="main" role="main">
 
-	   {% include navigationbar.html %}
-      
-        <span class="blc"></span><span class="trc"></span>
-        </div> <!-- main -->
+
+	     {% include navigationbar.html %}
+
+
         <article class="markdown-body">
           {{ content }}
         </article>
