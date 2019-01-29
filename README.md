@@ -1,4 +1,3 @@
-## Reinforcement Learning and Artificial Intelligence Laboratory
 
 <img src="images/RLAIgroup2016.jpg" alt="RLAI group" class="inline"/>
 
