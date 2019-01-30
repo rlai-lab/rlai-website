@@ -10,8 +10,8 @@
 
 {% for pubyr in yrfiles %}
 
-<h3>{{ pubyr }}<\h3>
+        <h3>{{ pubyr.name }}<\h3>
 
-{% include pubyr.path %}
+           {% include pubyr.path %}
 
 {% endfor %}
