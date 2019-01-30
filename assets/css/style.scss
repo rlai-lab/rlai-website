@@ -18,10 +18,9 @@ h1.titlenoitalics {
 
 #menu
 {
-position: relative;
-right: 0em;
-left: 20em;
-bottom: 0em;
+padding: 20px 20px 0;
+color: #fff;
+font-size: 17px;
 }
 
 #menu ul
@@ -33,6 +32,7 @@ list-style: none;
 {
 float: left;
 }
+
 #menu li a
 {
 margin-left: 0.5em;

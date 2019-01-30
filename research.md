@@ -6,9 +6,9 @@
 
 <h2>Publications by Year</h2>
 
-{% assign yrfiles = site.static_files | where: "arepubs", true %}
+{% assign yrfiles = site.html_pages | where: "arepubs", true %}
 
-{% for pubyr in yrfiles %}
+{% for pubyr in yrfiles | sort: "name"  | reverse %}
 
         <h3>{{ pubyr.name }}<\h3>
 
