@@ -1,3 +1,10 @@
-title: RLAI
+title: RLAI Lab
 description: The Reinforcement Learning and Artificial Intelligence Lab
 theme: jekyll-theme-time-machine
+show_downloads: false
+
+defaults:
+  - scope:
+      path: "publications/"
+    values:
+      arepubs: true
