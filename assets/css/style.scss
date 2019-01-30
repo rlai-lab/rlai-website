@@ -30,18 +30,21 @@ list-style: none;
 
 #menu li
 {
-float: left;
+    float: left;
+    color: #fff
 }
 
 #menu li a
 {
 margin-left: 0.5em;
 padding: 1.1em 1.4em 1.0em 1.4em;
+color: #fff
 }
 
 #menu li a.active
 {
-font-weight: bold;
+    font-weight: bold;
+    color: #fff
 }
 
 
