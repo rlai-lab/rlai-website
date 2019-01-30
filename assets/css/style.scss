@@ -1,0 +1,56 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Change title */
+
+h1.titlenoitalics {
+  margin: 30px 20px 10px;
+  font-size: 60px;
+  font-weight: bold;
+  font-style: normal;
+  font-family:Georgia, serif;
+  text-align: center;
+}
+
+/* Menu */
+
+#menu
+{
+position: absolute;
+right: 0em;
+left: 20em;
+bottom: 0em;
+}
+
+#menu ul
+{
+list-style: none;
+}
+
+#menu li
+{
+float: left;
+}
+#menu li a
+{
+margin-left: 0.5em;
+display: block;
+padding: 1.1em 1.4em 1.0em 1.4em;
+background: #999;
+border: solid 1px #fff;
+color: #616161;
+font-size: 1.0em;
+text-decoration: none;
+}
+
+#menu li a.active
+{
+background: #999;
+font-weight: bold;
+color: #fff;
+border: solid 1px #A94B4B;
+}
+
+
