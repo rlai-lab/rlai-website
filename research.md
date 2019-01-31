@@ -6,12 +6,11 @@
 
 <h2>Publications by Year</h2>
 
-{% assign yrfiles = site.html_pages | where: "arepubs", true %}
+{% for pubyr in site.publications | sort: "name"  | reverse %}
 
-{% for pubyr in yrfiles | sort: "name"  | reverse %}
+    <h3>{{ pubyr.name }}<\h3>
 
-        <h3>{{ pubyr.name }}<\h3>
-
-           {% include pubyr.path %}
+      {{ pubyr.content }}
 
 {% endfor %}
+
