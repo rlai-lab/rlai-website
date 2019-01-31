@@ -10,7 +10,7 @@
 
     <h3>{{ pubyr.name }}</h3>
 
-      {{ pubyr.content }}
+      {{ pubyr.content | markdownify }}
 
 {% endfor %}
 
