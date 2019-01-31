@@ -1,21 +1,23 @@
 
 <p class="tagline">
+&nbsp;&nbsp;
 {% if page.name == 'index.md' %}				
    <a href="{{ page.url_prefix }}{{ page.url_prefix }}index.html" class="active">About</a>
 {% else %}
    <a href="{{ page.url_prefix }}index.html">About</a>
 {% endif %}
+&nbsp;&nbsp;
 {% if page.name == 'people.md' %}				
    <a href="{{ page.url_prefix }}people.html" class="active">People</a>
 {% else %}
    <a href="{{ page.url_prefix }}people.html">People</a>
 {% endif %}
+&nbsp;&nbsp;
 {% if page.name == 'research.md' %}				
    <a href="{{ page.url_prefix }}research.html" class="active">Research</a>
 {% else %}
    <a href="{{ page.url_prefix }}research.html">Research</a>
 {% endif %}
-
 </p>
 
 <!--		<div id="menu">
@@ -36,6 +38,5 @@
 				  <li><a href="{{ page.url_prefix }}research.html">Research</a></li>
                                 {% endif %}					
 			</ul>
-		</div> <!-- menu -->
-
+		</div>
 -->

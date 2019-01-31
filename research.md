@@ -1,4 +1,5 @@
 <h2>Research Projects by Topic</h2>
+
 <ul>
  	<li><a href="projects/offpolicy.html">Off-policy policy evaluation</a></li>
  	<li><a href="projects/stepsizes.html">Stepsize selection</a></li>
@@ -10,7 +11,7 @@
 
     <h3>{{ pubyr.name }}</h3>
 
-      {{ pubyr.content | markdownify }}
+     <p> {{ pubyr.content | markdownify }}</p>
 
 {% endfor %}
 
