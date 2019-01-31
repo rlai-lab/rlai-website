@@ -3,7 +3,7 @@
 		<div id="menu">
 			<ul>
 				{% if page.name == 'index.md' %}				
-				  <li><a href="{{ page.url_prefix }}{{ page.url_prefix }}index.html" class="active">About</a></li>
+				  <li><p class="tagline"><a href="{{ page.url_prefix }}{{ page.url_prefix }}index.html" class="active">About</a></p></li>
 				{% else %}
 				  <li><a href="{{ page.url_prefix }}index.html">About</a></li>
 				{% endif %}

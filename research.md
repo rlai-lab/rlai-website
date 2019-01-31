@@ -8,7 +8,7 @@
 
 {% for pubyr in site.publications | sort: "name"  | reverse %}
 
-    <h3>{{ pubyr.name }}<\h3>
+    <h3>{{ pubyr.name }}</h3>
 
       {{ pubyr.content }}
 
