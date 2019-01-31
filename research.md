@@ -7,7 +7,8 @@
 
 <h2>Publications by Year</h2>
 
-{% for pubyr in site.publications | sort: "name"  | reverse %}
+{% assign sortedyrs = (site.publications | sort: 'name') | reverse %}
+{% for pubyr in sortedyrs %}
 
     <h3>{{ pubyr.name }}</h3>
 
