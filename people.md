@@ -82,5 +82,6 @@
  	<li>Muhammad Zaheer</li>
  	<li><a href="https://github.com/ShangtongZhang">Shangtong Zhang</a></li>
 </ul>
+
 <h2>Alumni</h2>
-<a href="alumni.html">See the complete list here</a>
+[See the complete list here](documents/alumni.md).
