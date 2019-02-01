@@ -10,7 +10,7 @@
 {% assign sortedyrs = (site.publications | sort: 'name') | reverse %}
 {% for pubyr in sortedyrs %}
 
-    <h3>{{ pubyr.name }}</h3>
+    <p>{{ pubyr.name }}</p>
 
      <p> {{ pubyr.content | markdownify }}</p>
 
