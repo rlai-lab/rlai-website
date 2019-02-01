@@ -14,6 +14,14 @@ h1.titlenoitalics {
   text-align: center;
 }
 
+p.tagline a{
+  color: #fff;
+}
+
+p.tagline a.active{
+  font-weight: bold;
+}
+
 /* Menu */
 
 #menu
