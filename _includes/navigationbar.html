@@ -24,4 +24,10 @@
 {% else %}
    <a href="{{ page.url_prefix }}resources.html">Resources</a>
 {% endif %}
+&nbsp;&nbsp; &nbsp;&nbsp;
+{% if page.name == 'contact.md' %}				
+   <a href="{{ page.url_prefix }}contact.html" class="active">Contact</a>
+{% else %}
+   <a href="{{ page.url_prefix }}contact.html">Contact</a>
+{% endif %}
 </p>
