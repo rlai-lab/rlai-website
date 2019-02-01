@@ -16,6 +16,6 @@ Edmonton, AB, Canada  T6G 2E8
 <h2>Joining RLAI</h2>
 To apply to study with one of the professors in the RLAI Group, please apply to the <a href="https://uofa.ualberta.ca/computing-science/graduate-studies/programs-and-admissions" target="_blank" rel="noopener">Department of Computing Science</a>.
 
-To view other job openings, see <a href="documents/positions.html">Positions</a>.
+To view other job openings, see [Positions](documents/positions.md).
 
 
