@@ -18,4 +18,10 @@
 {% else %}
    <a href="{{ page.url_prefix }}research.html">Research</a>
 {% endif %}
+&nbsp;&nbsp; &nbsp;&nbsp;
+{% if page.name == 'resources.md' %}				
+   <a href="{{ page.url_prefix }}resources.html" class="active">Resources</a>
+{% else %}
+   <a href="{{ page.url_prefix }}resources.html">Resources</a>
+{% endif %}
 </p>
