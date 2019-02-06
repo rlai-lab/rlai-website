@@ -26,7 +26,7 @@
 <h3>{{ yr.yearname }}</h3>
 
 <ul>
-{% for pub in yr.pubs %}
+{% for pub in yr.publications %}
 <li>
 {{ pub.title }}. {{ pub.authors }}. <i>{{ pub.conference }}</i>, yr.yearname.
 {% if pub.pdf %}
