@@ -1,222 +1,222 @@
 
 - name: Martin Mueller
-   website: "http://webdocs.cs.ualberta.ca/~mmueller/"
-   status: faculty
+  website: "http://webdocs.cs.ualberta.ca/~mmueller/"
+  status: faculty
 
 - name: Matthew E. Taylor
-   status: faculty
+  status: faculty
 
 
 
 - name: Huizhen Yu
-   status: research associate
+  status: research associate
 
 - name: Banafshe Rafiee
-   status: research associate
+  status: research associate
 
 - name: Omid Namaki Shoushtari
-   status: research associate
+  status: research associate
 
 
 
 - name: Johannes Günther
-   status: postdoc
+  status: postdoc
 
 - name: - name: Johannes Günther
-   status: postdoc
+  status: postdoc
    
 
 
 - name: Mohammad Mahdi Ajallooeian
-   website: "https://ca.linkedin.com/in/mohammad-mahdi-ajallooeian-a2679b2a"
-   status: phd
+  website: "https://ca.linkedin.com/in/mohammad-mahdi-ajallooeian-a2679b2a"
+  status: phd
 
 - name: Kris De Asis
-   website: "http://meep.cubing.net/portfolio"
-   status: phd
-   alumni: msc
+  website: "http://meep.cubing.net/portfolio"
+  status: phd
+  alumni: msc
 
 - name: Sina Ghiassian
-   status: phd
+  status: phd
 
 - name: 
-   website: 
-   status: phd
+  website: 
+  status: phd
 
 - name: Ruitong Huang
-   website: "http://webdocs.cs.ualberta.ca/~ruitong/"
-   status: phd
+  website: "http://webdocs.cs.ualberta.ca/~ruitong/"
+  status: phd
 
 - name: Pooria Joulani
-   website: "http://pooriajoulani.github.io"
-   status: phd
+  website: "http://pooriajoulani.github.io"
+  status: phd
 
 - name: Alex Kearney
-   website: "http://alexkearney.com "
-   status: phd
+  website: "http://alexkearney.com "
+  status: phd
 
 - name: Raksha Kumaraswamy
-   website: "https://webdocs.cs.ualberta.ca/~kumarasw/"
-   status: phd
+  website: "https://webdocs.cs.ualberta.ca/~kumarasw/"
+  status: phd
 
 - name: Lei Le
-   website: "http://homes.soic.indiana.edu/leile/"
-   status: phd
+  website: "http://homes.soic.indiana.edu/leile/"
+  status: phd
 
 - name: Marlos C. Machado
-   website: "https://webdocs.cs.ualberta.ca/~machado "
-   status: phd
+  website: "https://webdocs.cs.ualberta.ca/~machado "
+  status: phd
 
 - name: Kory Mathewson
-   website: "http://korymathewson.com/academic/"
-   status: phd
+  website: "http://korymathewson.com/academic/"
+  status: phd
 
 - name: Dustin Morrill
-   website: "http://dmorrill10.github.io/"
-   status: phd
+  website: "http://dmorrill10.github.io/"
+  status: phd
 
 - name: Yangchen Pan
-   status: phd
+  status: phd
 
 - name: Andrew Patterson
-   website: "http://andnp.github.io/"
-   status: phd
+  website: "http://andnp.github.io/"
+  status: phd
 
 - name: Roshan Shariff
-   website: "https://sites.ualberta.ca/~rshariff/"
-   status: phd
+  website: "https://sites.ualberta.ca/~rshariff/"
+  status: phd
 
 - name: Craig Sherstan
-   website: "http://sherstan.com "
-   status: phd
+  website: "http://sherstan.com "
+  status: phd
 
 - name: Matthew Schlegel 
-   website: "http://mkschleg.github.io/"
-   status: phd
+  website: "http://mkschleg.github.io/"
+  status: phd
 
 - name: Yi Wan
-   website: "https://sites.google.com/ualberta.ca/yiwan/"
-   status: phd
+  website: "https://sites.google.com/ualberta.ca/yiwan/"
+  status: phd
 
 - name: Kenny Youn
-   website: "https://scholar.google.ca/citations?user=zI2uHi8AAAAJ "
-   status: phd
+  website: "https://scholar.google.ca/citations?user=zI2uHi8AAAAJ "
+  status: phd
 
 - name: Farzane Aminmansour 
-   status: msc
+  status: msc
 
 - name: Dylan Ashley
-   website: "http://dylanashley.io "
-   status: msc
+  website: "http://dylanashley.io "
+  status: msc
 
 - name: James Bell 
-   status: msc
+  status: msc
 
 - name: Brendan Bennett
-   website: "http://webdocs.cs.ualberta.ca/~babennet/"
-   status: msc
+  website: "http://webdocs.cs.ualberta.ca/~babennet/"
+  status: msc
 
 - name: Eugene Chen
-   website: "http://www.ideaowl.com/"
-   status: msc
+  website: "http://www.ideaowl.com/"
+  status: msc
 
 - name: Wesley Chung
-   status: msc
+  status: msc
 
 - name: Michael Disyak
-   status: msc
+  status: msc
 
 - name: Shibhansh Dohare
-   website: "http://shibhansh.github.io/"
-   status: msc
+  website: "http://shibhansh.github.io/"
+  status: msc
 
 - name: Zach Holland
-   website: "https://www.linkedin.com/in/zach-holland/"
-   status: Research Engineer, Deepmind
-   alumni: msc
+  website: "https://www.linkedin.com/in/zach-holland/"
+  status: Research Engineer, Deepmind
+  alumni: msc
 
 - name: Ehsan Imani
-   website: "https://webdocs.cs.ualberta.ca/~imani/"
-   status: msc
+  website: "https://webdocs.cs.ualberta.ca/~imani/"
+  status: msc
 
 - name: Andrew Jacobsen
-   status: msc
+  status: msc
 
 - name: Taher Jaferjee
-   status: msc
+  status: msc
 
 - name: Shun Jie Lau
-   status: msc
+  status: msc
 
 - name: Fushan Li
-   website: "https://fushanli.github.io/"
-   status: msc
+  website: "https://fushanli.github.io/"
+  status: msc
 
 - name: Sungsu Lim
-   website: "https://sites.ualberta.ca/~sungsu/"
-   status: msc
+  website: "https://sites.ualberta.ca/~sungsu/"
+  status: msc
 
 - name: Cam Linke
-   website: "http://camlinke.com "
-   status: msc
+  website: "http://camlinke.com "
+  status: msc
 
 - name: Vincent Liu
-   website: "https://vincentliu3.github.io/"
-   status: msc
+  website: "https://vincentliu3.github.io/"
+  status: msc
 
 - name: Chen Ma
-   website: "http://chenchloema.github.io/"
-   status: msc
+  website: "http://chenchloema.github.io/"
+  status: msc
 
 - name: Abhishek Naik
-   website: "http://abhisheknaik96.github.io/"
-   status: msc
+  website: "http://abhisheknaik96.github.io/"
+  status: msc
 
 - name: Somjit Nath
-   website: "https://sites.google.com/prod/view/somjit77/"
-   status: msc
+  website: "https://sites.google.com/prod/view/somjit77/"
+  status: msc
 
 - name: Arash Pourzarabi
-   status: msc
+  status: msc
 
 - name: David Quail
-   status: msc
+  status: msc
 
 - name: Parash Rahman
-   website: "http://parash.ca/"
-   status: msc
+  website: "http://parash.ca/"
+  status: msc
 
 - name: Amir Samani
-   website: "https://amir-19.github.io/"
-   status: msc
+  website: "https://amir-19.github.io/"
+  status: msc
 
 - name: Tian Tian 
-   status: phd
+  status: phd
 
 - name: Han Wang
-   status: msc
+  status: msc
 
 
 - name: Jaden Travnik
-   website: "https://sites.ualberta.ca/~travnik/"
-   alumni: msc
+  website: "https://sites.ualberta.ca/~travnik/"
+  alumni: msc
 
 - name: Vivek Veeriah Jeya Veeraiah
-   website: "https://scholar.google.com/citations?user=1ySfO9MAAAAJ "
-   alumni: msc
+  website: "https://scholar.google.com/citations?user=1ySfO9MAAAAJ "
+  alumni: msc
 
 - name: Yifan Wu
-   status: msc
+  status: msc
 
 - name: Niko Yasui
-   website: "http://yasuiniko.com/"
-   status: msc
+  website: "http://yasuiniko.com/"
+  status: msc
 
 - name: Muhammad Zaheer
-   status: msc
+  status: msc
 
 - name: Shangtong Zhang
-   website: "https://github.com/ShangtongZhang"
-   alumni: msc
+  website: "https://github.com/ShangtongZhang"
+  alumni: msc
 
  
