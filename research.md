@@ -33,7 +33,6 @@
 <a href=" {{ pub.pdf }}">[pdf]</a>
 {% endif %}
 </li>
-</br>
 {% endfor %}
 </ul>
 
