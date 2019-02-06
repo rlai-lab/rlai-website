@@ -1,0 +1,9 @@
+yearname: 2019
+publications:
+
+- id: liu2019theutility
+  title: The Utility of Sparse Representations for Control in Reinforcement Learning
+  authors: Vincent Liu, Raksha Kumaraswamy, Lei Le and Martha White
+  conference: AAAI Conference on Artificial Intelligence
+  pdf: https://arxiv.org/abs/1811.06626
+

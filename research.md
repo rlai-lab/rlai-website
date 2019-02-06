@@ -9,6 +9,7 @@
 
 <!-- Super important: do not indent the content line, because then it -->
 <!-- gets treated like code -->
+<!-- Old stuff now, Alex has a better suggestion
 {% assign sortedyrs = (site.publications | sort: 'name') | reverse %}
 {% for pubyr in sortedyrs %}
 
@@ -17,4 +18,23 @@
 {{ pubyr.content | markdownify }}
 
 {% endfor %}
+-->
 
+{% for yr_hash in site.data.publications %}
+{% assign yr = yr_hash[1] %}
+
+<h3>{{ yr.yearname }}</h3>
+
+<ul>
+{% for pub in yr.pubs %}
+<li>
+{{ pub.title }}. {{ pub.authors }}. <i>{{ pub.conference }}</i>, yr.yearname.
+{% if pub.pdf %}
+<a href=" {{ pub.pdf }}">[pdf]</a>
+{% endif %}
+</li>
+</br>
+{% endfor %}
+</ul>
+
+{% endfor %}

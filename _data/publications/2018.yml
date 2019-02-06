@@ -1,0 +1,9 @@
+yearname: 2018
+publications:
+
+- id: imani2018anoff
+  title: An Off-policy Policy Gradient Theorem Using Emphatic Weightings
+  authors: Ehsan Imani, Eric Graves and Martha White
+  conference: Advances in Neural Information Processing Systems
+  pdf: https://arxiv.org/abs/1811.09013
+
