@@ -14,7 +14,7 @@
 
 <ul>
 {% for af in site.data.people %}
-{% if af.status && af.status ==  'faculty' %}
+{% if af.status ==  'faculty' %}
 <li>
 {% if af. website %}
     <a href="{{ af.website }}">
@@ -33,7 +33,7 @@
 
 <ul>
 {% for af in site.data.people %}
-{% if af.status && af.status ==  'research associate' %}
+{% if af.status ==  'research associate' %}
 <li>
 {% if af. website %}
     <a href="{{ af.website }}">
@@ -52,7 +52,7 @@
 
 <ul>
 {% for af in site.data.people %}
-{% if af.status && af.status ==  'postdoc' %}
+{% if af.status ==  'postdoc' %}
 <li>
 {% if af. website %}
     <a href="{{ af.website }}">
@@ -73,7 +73,7 @@
 
 <ul>
 {% for af in site.data.people %}
-{% if af.status && af.status ==  'phd' %}
+{% if af.status ==  'phd' %}
 <li>
 {% if af. website %}
     <a href="{{ af.website }}">
@@ -91,7 +91,7 @@
 
 <ul>
 {% for af in site.data.people %}
-{% if af.status && af.status ==  'msc' %}
+{% if af.status ==  'msc' %}
 <li>
 {% if af. website %}
     <a href="{{ af.website }}">
