@@ -29,7 +29,7 @@
 
 <ul>
 {% for af in site.data.people %}
-{% if af.alumni ==  'postdoc %}
+{% if af.alumni ==  'postdoc' %}
 <li>
 {% if af. website %}
     <a href="{{ af.website }}">
