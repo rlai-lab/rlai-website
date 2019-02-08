@@ -248,7 +248,7 @@ publications:
 
 
 - id: 0cb9363cc4941c23080717a87b5568001ccc9fb6
-  title: CFR-D: Solving Imperfect Information Games Using Decomposition
+  title: "CFR-D: Solving Imperfect Information Games Using Decomposition"
   authors: Neil Burch, Michael H. Bowling
   conference: ArXiv
   pdf: https://pdfs.semanticscholar.org/0cb9/363cc4941c23080717a87b5568001ccc9fb6.pdf
@@ -262,7 +262,7 @@ publications:
 
 
 - id: 331223a42bbd932584f826a2c73bad0e1fbc9498
-  title: Baseline: practical control variates for agent evaluation in zero-sum domains
+  title: "Baseline: practical control variates for agent evaluation in zero-sum domains"
   authors: Joshua Davidson, Christopher Archibald, Michael H. Bowling
   conference: AAMAS
   pdf: https://pdfs.semanticscholar.org/c8fe/1b0f39ba689642d2a7a2733f8d178ccf1220.pdf
