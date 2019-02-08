@@ -1,0 +1,388 @@
+yearname: 2012
+publications:
+
+
+- id: 188cb1e85a59d286240b896cfea4d17bf35e2f3c
+  title: Temporal-difference search in computer Go
+  authors: David Silver, Richard S. Sutton, Martin Müller
+  conference: Machine Learning
+  pdf: http://doi.org/10.1007/s10994-012-5280-0
+
+
+- id: 3772e468e3ed4d00571818d693b522978e368172
+  title: "Reinforcement Learning : An Introduction Second edition , in progress"
+  authors: Richard S. Sutton, Andrew G. Barto
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/83c8/b4938ce24eb84f8388faa36810c5432dfa2e.pdf
+
+
+- id: 1064c3f020c99d04797050689aee193381370b7b
+  title: Model-Free reinforcement learning with continuous action in practice
+  authors: Thomas Degris, Patrick M. Pilarski, Richard S. Sutton
+  conference: 2012 American Control Conference (ACC)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6315022
+
+
+- id: 6d500ee64b8b99af060fb8cf234f1e0f909dffcb
+  title: Prediction and Anticipation for Adaptive Artificial Limbs
+  authors: Patrick M. Pilarski, Michael Rory Dawson, Thomas Degris, Jason P. Carey, K. Ming Chan, Jacqueline S. Hebert, Richard S. Sutton, REDICTING
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/6d50/0ee64b8b99af060fb8cf234f1e0f909dffcb.pdf
+
+
+- id: 5eadabc0eac7481270b7b37143ec5b62e814df60
+  title: Dynamic switching and real-time machine learning for improved human control of assistive biomedical robots
+  authors: Patrick M. Pilarski, Michael Rory Dawson, Thomas Degris, Jason P. Carey, Richard S. Sutton
+  conference: 2012 4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6290309
+
+
+- id: cf80c8f566f7ba185a62c0b798bf7ae8881b80ae
+  title: Evaluating the TD model of classical conditioning.
+  authors: Elliot A. Ludvig, Richard S. Sutton, E. James Kehoe
+  conference: Learning & behavior
+  pdf: https://pdfs.semanticscholar.org/cf80/c8f566f7ba185a62c0b798bf7ae8881b80ae.pdf
+
+
+- id: a21cbe9614ba2fb3f61cfe134777310b61b40cd7
+  title: Multi-timescale Nexting in a Reinforcement Learning Robot
+  authors: Joseph Modayil, Adam White, Richard S. Sutton
+  conference: SAB
+  pdf: http://doi.org/10.1007/978-3-642-33093-3_30
+
+
+- id: 3d0e07b38df2459cb229c71a62495813c720bdae
+  title: Tuning-free step-size adaptation
+  authors: Ashique Rupam Mahmood, Richard S. Sutton, Thomas Degris, Patrick M. Pilarski
+  conference: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6288330
+
+
+- id: 8fb6da88402da1871e1e2e24ff5494b8dbffbcb7
+  title: Online Representation Search and Its Interactions with Unsupervised Learning
+  authors: Ashique Rupam Mahmood, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/8fb6/da88402da1871e1e2e24ff5494b8dbffbcb7.pdf
+
+
+- id: 870f498ce66b97c4a845edefb32c4133b522a347
+  title: Acquiring a broad range of empirical knowledge in real time by temporal-difference learning
+  authors: Joseph Modayil, Adam White, Patrick M. Pilarski, Richard S. Sutton
+  conference: 2012 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6378016
+
+
+- id: 08c35f11f0b8b84173d11d19adac317c266e34a2
+  title: Scaling life-long off-policy learning
+  authors: Adam White, Joseph Modayil, Richard S. Sutton
+  conference: 2012 IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+  pdf: https://arxiv.org/pdf/1206.6262.pdf
+
+
+- id: 6228ffe7300fcb306d860327857e495c038b09f4
+  title: Linear Off-Policy Actor-Critic
+  authors: Thomas Degris, Martha White, Richard S. Sutton
+  conference: ICML
+  pdf: https://pdfs.semanticscholar.org/6228/ffe7300fcb306d860327857e495c038b09f4.pdf
+
+
+- id: 3434f3ca3ea91399eb3eefbc6334856c2d9d1b87
+  title: "Between Instruction and Reward: Human-Prompted Switching."
+  authors: Patrick M. Pilarski, Richard S. Sutton
+  conference: AAAI 2012
+  pdf: http://www.aaai.org/ocs/index.php/FSS/FSS12/paper/view/5496
+
+
+- id: 2f857f2c1270362e969ea31cecc9f3ce22635ba3
+  title: Acquiring Diverse Predictive Knowledge in Real Time by Temporal-difference Learning
+  authors: Joseph Modayil, Adam White, Patrick M. Pilarski, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/2f85/7f2c1270362e969ea31cecc9f3ce22635ba3.pdf
+
+
+- id: 0067343a36c0292f36e627eb353f751c8a39f99a
+  title: Off-Policy Actor-Critic
+  authors: Thomas Degris, Martha White, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1205.4839.pdf
+
+
+- id: aadd07b800c8a13809de309e1c056cd724b6d73f
+  title: "Regularizers versus Losses for Nonlinear Dimensionality Reduction: A Factored View with New Convex Relaxations"
+  authors: James Neufeld, Yaoliang Yu, Xinhua Zhang, Ryan Kiros, Dale Schuurmans
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1206.6455.pdf
+
+
+- id: 342af9ab97d73bfb4d5ee25316617392915a3d8a
+  title: A Polynomial-time Form of Robust Regression
+  authors: Yaoliang Yu, Özlem Aslan, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/d0af/14decd0fa1f30cb17251da2e936303c3d140.pdf
+
+
+- id: 004c4ea284409e9ae338147bdd4f4d2aae955fd3
+  title: An experimental methodology for response surface optimization methods
+  authors: Daniel J. Lizotte, Russell Greiner, Dale Schuurmans
+  conference: J. Global Optimization
+  pdf: https://pdfs.semanticscholar.org/004c/4ea284409e9ae338147bdd4f4d2aae955fd3.pdf
+
+
+- id: 4b73c66e745851f8228a929d451df5273824c5bf
+  title: Linear Coherent Bi-Clustering via Beam Searching and Sample Set Clustering
+  authors: Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin, Dale Schuurmans
+  conference: Discrete Math., Alg. and Appl.
+  pdf: https://pdfs.semanticscholar.org/4b73/c66e745851f8228a929d451df5273824c5bf.pdf
+
+
+- id: 1e4c717a8a5eed5c3385b77641ebe3d8c4ceb3ac
+  title: An efficient algorithm for maximal margin clustering
+  authors: Jiming Peng, Lopamudra Mukherjee, Vikas Singh, Dale Schuurmans, Linli Xu
+  conference: J. Global Optimization
+  pdf: https://pdfs.semanticscholar.org/84f3/ccebff765f8a0a57ce747d0f437f7aff9c97.pdf
+
+
+- id: 350933e6cb5a7abe351a98d0303b648cd0aa9ed9
+  title: Regularizers versus Losses for Nonlinear Dimensionality Reduction
+  authors: Yaoliang Yu, James Neufeld, Ryan Kiros, Xinhua Zhang, Dale Schuurmans
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/3509/33e6cb5a7abe351a98d0303b648cd0aa9ed9.pdf
+
+
+- id: 3e62f9a4032bc1ff14bb711646024ba07c7f8ac8
+  title: Sparse Learning Based Linear Coherent Bi-clustering
+  authors: Yi Shi, Xiaoping Liao, Xinhua Zhang, Guohui Lin, Dale Schuurmans
+  conference: WABI
+  pdf: https://pdfs.semanticscholar.org/c76b/bc78221568bf2caf1bf9190de576455f979d.pdf
+
+
+- id: 9432fbcdb629d2cfd60e5011063b2cee6a0fe52f
+  title: Semi-supervised Multi-label Classification - A Simultaneous Large-Margin, Subspace Learning Approach
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: ECML/PKDD
+  pdf: https://pdfs.semanticscholar.org/9432/fbcdb629d2cfd60e5011063b2cee6a0fe52f.pdf
+
+
+- id: c4032edf6e5cde8a5e531178c447a2b989afdd19
+  title: Protein Phosphorylation Site Prediction via Feature Discovery Support Vector Machine
+  authors: Yi Shi, Bo Yuan, Guohui Lin, Dale Schuurmans
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/c403/2edf6e5cde8a5e531178c447a2b989afdd19.pdf
+
+
+- id: 2049cfdaa00653b5ad71629d7e54ba550ca7914c
+  title: "Accelerated Training for Matrix-norm Regularization: A Boosting Approach"
+  authors: Xinhua Zhang, Yaoliang Yu, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/b31c/3fda77f1758e95f99ab1826008575345a2e7.pdf
+
+
+- id: 37a9d56dd3676055f648a5639633436a4abe1458
+  title: Generalized Optimal Reverse Prediction
+  authors: Martha White, Dale Schuurmans
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/37a9/d56dd3676055f648a5639633436a4abe1458.pdf
+
+
+- id: 19b583e9d367a9e14d443b152e0f930b232d98c5
+  title: The Latent Maximum Entropy Principle
+  authors: Shaojun Wang, Dale Schuurmans, Yunxin Zhao
+  conference: TKDD
+  pdf: http://dl.acm.org/citation.cfm?id=2297460
+
+
+- id: 0fe77f80845e4f93ebb9e385e127e37e6eb8efea
+  title: Convex Multi-view Subspace Learning
+  authors: Martha White, Yaoliang Yu, Xinhua Zhang, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/7cb4/bb6a0d7d67d824672e9b0327c431fc588770.pdf
+
+
+- id: 1d622cb0a0571a2e11afe66517582b88f3b86907
+  title: "Statistical linear estimation with penalized estimators: an application to reinforcement learning"
+  authors: Bernardo Ávila Pires, Csaba Szepesvári
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1206.6444.pdf
+
+
+- id: 4011ed952013013c179ee331bb7527a4651fb89e
+  title: Evaluation and Analysis of the Performance of the EXP3 Algorithm in Stochastic Environments
+  authors: Yevgeny Seldin, Csaba Szepesvári, Peter Auer, Yasin Abbasi-Yadkori
+  conference: EWRL
+  pdf: https://pdfs.semanticscholar.org/4011/ed952013013c179ee331bb7527a4651fb89e.pdf
+
+
+- id: 63c395ffc85c528b9928ffa4c058422b000f1c4e
+  title: Analysis of Kernel Mean Matching under Covariate Shift
+  authors: Yaoliang Yu, Csaba Szepesvári
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1206.4650.pdf
+
+
+- id: deebcd99760f020980f720e867c3cb90249c0bc6
+  title: A Randomized Strategy for Learning to Combine Many Features
+  authors: Arash Afkanpour, András György, Csaba Szepesvári, Michael H. Bowling
+  conference: ArXiv
+  pdf: https://pdfs.semanticscholar.org/deeb/cd99760f020980f720e867c3cb90249c0bc6.pdf
+
+
+- id: c6c0529cd038e33a34ef09ce22db3ba2074119c3
+  title: An adaptive algorithm for finite stochastic partial monitoring
+  authors: Gábor Bartók, Navid Zolghadr, Csaba Szepesvári
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1206.6487.pdf
+
+
+- id: b3691b61b80eb51e3dc0727af9e5b1ebc1928a0e
+  title: Partial Monitoring with Side Information
+  authors: Gábor Bartók, Csaba Szepesvári
+  conference: ALT
+  pdf: https://pdfs.semanticscholar.org/b369/1b61b80eb51e3dc0727af9e5b1ebc1928a0e.pdf
+
+
+- id: 5208a9c2dd387b0bf9df8ba5f4b5f011b2462917
+  title: "The grand challenge of computer Go: Monte Carlo tree search and extensions"
+  authors: Sylvain Gelly, Levente Kocsis, Marc Schoenauer, Michèle Sebag, David Silver, Csaba Szepesvári, Olivier Teytaud
+  conference: Commun. ACM
+  pdf: http://dl.acm.org/citation.cfm?id=2093574
+
+
+- id: 284b4cec389e378c3b4e4af5af5c6fec1f717883
+  title: Deep Representations and Codes for Image Auto-Annotation
+  authors: Ryan Kiros, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/46bc/c62816aa68c5f3393f90a9cc71b025d75b55.pdf
+
+
+- id: 4eec260659875a1e2a9e0df0f11759c520bba37c
+  title: The adversarial stochastic shortest path problem with unknown transition probabilities
+  authors: Gergely Neu, András György, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/4eec/260659875a1e2a9e0df0f11759c520bba37c.pdf
+
+
+- id: 06fb74547a0d07c595cc3c216f5b7c7a68789be7
+  title: Online-to-Confidence-Set Conversions and Application to Sparse Stochastic Bandits
+  authors: Yasin Abbasi-Yadkori, Dávid Pál, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/4528/f408d08bdfa6dd09cba5320588b63ec2e878.pdf
+
+
+- id: 4662a68907bcd2f0c501e85a6f11062a28595619
+  title: Approximate policy iteration with linear action models
+  authors: Hengshuai Yao, Csaba Szepesvári
+  conference: AAAI 2012
+  pdf: http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5139
+
+
+- id: 3bc7f229d6e3411904bdcbb60574d9a56fe98284
+  title: "Recruiting a New Substrate for Triacylglycerol Synthesis in Plants: The Monoacylglycerol Acyltransferase Pathway"
+  authors: James Robertson Petrie, Thomas Vanhercke, Pushkar Shrestha, Anna El Tahchy, Adam White, Xue-Rong Zhou, Qing Liu, Maged Peter Mansour, Peter David Nichols, Surinder Pal Singh
+  conference: PloS one
+  pdf: https://pdfs.semanticscholar.org/3bc7/f229d6e3411904bdcbb60574d9a56fe98284.pdf
+
+
+- id: 7a2b8ae806db85b09e75a7f6887d456d55a40a2c
+  title: "Clouds in Space: Scientific Computing using Windows Azure"
+  authors: Steven J. Johnston, Neil S. O'Brien, Hugh G. Lewis, Elizabeth E. Hart, Adam White, Simon J. Cox
+  conference: "Journal of Cloud Computing: Advances, Systems and Applications"
+  pdf: http://doi.org/10.1186/2192-113X-2-2
+
+
+- id: d4c052630d915760515a8517508287c45c908c7f
+  title: "Correction: Recruiting a New Substrate for Triacylglycerol Synthesis in Plants: The Monoacylglycerol Acyltransferase Pathway"
+  authors: James Robertson Petrie, Thomas Vanhercke, Pushkar Shrestha, Anna El Tahchy, Adam White, Xue-Rong Zhou, Qing Liu, Maged Peter Mansour, Peter David Nichols, Surinder Pal Singh
+  conference: 
+  pdf: 
+
+
+- id: 158ee323ab1825800d6c39005013bd412b94f0c9
+  title: "Hand Lesions : An Unusual Presentation to the Acute Medical Take"
+  authors: Adam White, Alison Bateson
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/158e/e323ab1825800d6c39005013bd412b94f0c9.pdf
+
+
+- id: e7ed1af9ec9417d6a9c7eec38cb8d40d3d3fb000
+  title: "Quitlines and nicotine replacement for smoking cessation: do we need to change policy?"
+  authors: John P Pierce, Sharon E Cummins, Martha White, Aimee Humphrey, Karen Messer
+  conference: Annual review of public health
+  pdf: https://pdfs.semanticscholar.org/e7ed/1af9ec9417d6a9c7eec38cb8d40d3d3fb000.pdf
+
+
+- id: 69548c83f13f97af47f0d3c61b669f2ed7a87146
+  title: Context Tree Switching
+  authors: Joel Veness, Kee Siong Ng, Marcus Hutter, Michael H. Bowling
+  conference: 2012 Data Compression Conference
+  pdf: https://arxiv.org/pdf/1111.3182.pdf
+
+
+- id: 08edb4368f685baa3c5081306ead569a7fdc879b
+  title: Finding Optimal Abstract Strategies in Extensive-Form Games
+  authors: Michael Johanson, Nolan Bard, Neil Burch, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/3acc/b8327bcb4b3197a89f41e714f506f1198016.pdf
+
+
+- id: 5f20f07013d2c1d1e442af5cb460f1f1bcb4aa47
+  title: Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization
+  authors: Michael Johanson, Nolan Bard, Marc Lanctot, Richard G. Gibson, Michael H. Bowling
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/7acd/209a8ae26348c5dc96aedd7b58d95fbf49bf.pdf
+
+
+- id: 67ef70b0dede4a6b88f9b839ce732cbe3b1f6c74
+  title: Keynotes [abstracts of three keynote presentations]
+  authors: Jeff Orkin, Gillian Smith, Michael H. Bowling
+  conference: CIG
+  pdf: http://doi.org/10.1109/CIG.2012.6374125
+
+
+- id: 3689115fa21e16d50030aaec01822af996f3e4e7
+  title: Investigating Contingency Awareness Using Atari 2600 Games
+  authors: Marc G. Bellemare, Joel Veness, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/6179/bc3897021f715f86be635ca57a127f5f7be3.pdf
+
+
+- id: 18f2b50fcc4eb4da02fb1c201457ed0eb58c2f55
+  title: Linear Fitted-Q Iteration with Multiple Reward Functions
+  authors: Daniel J. Lizotte, Michael H. Bowling, Susan A. Murphy
+  conference: ICAPS
+  pdf: https://pdfs.semanticscholar.org/f5b4/a290805cf621c1d61d5e3a1481ec215aaf4e.pdf
+
+
+- id: 436f719954d9b5360b34234a68c4b61d7ac0403c
+  title: On Local Regret
+  authors: Michael H. Bowling, Martin Zinkevich
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1206.3318.pdf
+
+
+- id: b69858e6a97d4bc898c78be464513a0ddd5eca1f
+  title: Sketch-Based Linear Value Function Approximation
+  authors: Marc G. Bellemare, Joel Veness, Michael H. Bowling
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/b698/58e6a97d4bc898c78be464513a0ddd5eca1f.pdf
+
+
+- id: 4f21f835c5c94636a5b12a4193dcede02fa70d2a
+  title: Tractable Objectives for Robust Policy Optimization
+  authors: Katherine Chen, Michael H. Bowling
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/4f21/f835c5c94636a5b12a4193dcede02fa70d2a.pdf
+
+
+- id: 1c57625f543683aafd32c7c45375710a28cacf00
+  title: Generalized sampling and variance in counterfactual regret minimization
+  authors: Richard G. Gibson, Marc Lanctot, Neil Burch, Duane Szafron, Michael H. Bowling
+  conference: AAAI 2012
+  pdf: http://doi.org/10.7939/R3M61BP9B
+
+
+- id: 11ee63f0c3a3479ab646ffbce27af5b18b693089
+  title: No-Regret Learning in Extensive-Form Games with Imperfect Recall
+  authors: Marc Lanctot, Richard G. Gibson, Neil Burch, Michael H. Bowling
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1205.0622.pdf
+

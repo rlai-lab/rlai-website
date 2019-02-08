@@ -1,0 +1,178 @@
+yearname: 2003
+publications:
+
+
+- id: 45ffdf0617e653d6bab84790c3c39278b9413013
+  title: iCORE Research Grant Proposal Reinforcement Learning and Artificial Intelligence
+  authors: Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/45ff/df0617e653d6bab84790c3c39278b9413013.pdf
+
+
+- id: b128d69fa7ccba2a80a6029d2208feddb246b6bd
+  title: Applying Machine Learning to Text Segmentation for Information Retrieval
+  authors: Xiangji Huang, Fuchun Peng, Dale Schuurmans, Nick Cercone, Stephen E. Robertson
+  conference: Information Retrieval
+  pdf: http://doi.org/10.1023/A%3A1026028229881
+
+
+- id: 5f3d8142c97387a8b9b0d2060767bf00e85131be
+  title: Language and task independent text categorization with simple language models
+  authors: Fuchun Peng, Dale Schuurmans, Shaojun Wang
+  conference: HLT-NAACL 2003
+  pdf: http://doi.org/10.3115/1073445.1073470
+
+
+- id: 01e00db8b6fc4266e82ab8a05f179b44bb937fd7
+  title: Automatic basis selection techniques for RBF networks
+  authors: Ali Ghodsi, Dale Schuurmans
+  conference: Neural Networks
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/12850038
+
+
+- id: 83f0e3a2d88c5ce2d01772fecaa29ccd905b0bc3
+  title: Semantic n-gram language modeling with the latent maximum entropy principle
+  authors: Shaojun Wang, Dale Schuurmans, Fuchun Peng, Yunxin Zhao
+  conference: ICASSP
+  pdf: https://pdfs.semanticscholar.org/83f0/e3a2d88c5ce2d01772fecaa29ccd905b0bc3.pdf
+
+
+- id: 30f845d4e380fee3da19b12ca04d2dcdeef8ecb3
+  title: Learning Mixture Models with the Latent Maximum Entropy Principle
+  authors: Shaojun Wang, Dale Schuurmans, Fuchun Peng, Yunxin Zhao
+  conference: ICML
+  pdf: https://pdfs.semanticscholar.org/30f8/45d4e380fee3da19b12ca04d2dcdeef8ecb3.pdf
+
+
+- id: ec8b69298c69bec6dde4fb4a468435a921d3a103
+  title: Model-Based Least-Squares Policy Evaluation
+  authors: Fletcher Lu, Dale Schuurmans
+  conference: 
+  pdf: http://doi.org/10.1007/3-540-44886-1_26
+
+
+- id: 205898ed404e78cebaae84fe9bb40790241a080c
+  title: Learning Continuous Latent Variable Models with Bregman Divergences
+  authors: Shaojun Wang, Dale Schuurmans
+  conference: ALT
+  pdf: https://pdfs.semanticscholar.org/2058/98ed404e78cebaae84fe9bb40790241a080c.pdf
+
+
+- id: 2e73186b63518286987e9d70aee9bfcbc87a31ac
+  title: Face Alignment Using Statistical Models and Wavelet Features
+  authors: Feng Jiao, Stan Z. Li, Harry Shum, Dale Schuurmans
+  conference: CVPR
+  pdf: https://pdfs.semanticscholar.org/2e73/186b63518286987e9d70aee9bfcbc87a31ac.pdf
+
+
+- id: ee6e1b51ac2cc88b0d06f582f9a3e794f20cccc9
+  title: Session Boundary Detection for Association Rule Learning Using n-Gram Language Models
+  authors: Xiangji Huang, Fuchun Peng, Aijun An, Dale Schuurmans, Nick Cercone
+  conference: Canadian Conference on AI
+  pdf: http://doi.org/10.1007/3-540-44886-1_19
+
+
+- id: a8c676f676ee52c41d3fdce991061ef20bfff89b
+  title: Constraint-Based Optimization with the Minimax Decision Criterion
+  authors: Craig Boutilier, Relu Patrascu, Pascal Poupart, Dale Schuurmans
+  conference: CP
+  pdf: https://pdfs.semanticscholar.org/a8c6/76f676ee52c41d3fdce991061ef20bfff89b.pdf
+
+
+- id: 68816917b0cc0b67d2bf91956c9fcdb2dbff9baa
+  title: Boltzmann Machine Learning with the Latent Maximum Entropy Principle
+  authors: Shaojun Wang, Dale Schuurmans, Fuchun Peng, Yunxin Zhao
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1212.2514.pdf
+
+
+- id: 24fb450d251b2bfe3341b1687891bea0eb1aaca2
+  title: Text classification in Asian languages without word segmentation
+  authors: Fuchun Peng, Xiangji Huang, Dale Schuurmans, Shaojun Wang
+  conference: IRAL
+  pdf: https://pdfs.semanticscholar.org/3b6d/4f1d70aa74574a05a10f5eceb053e7543af6.pdf
+
+
+- id: 81fb96c299c4c633b8f345e4d5b94f6298bd1c51
+  title: Latent Maximum Entropy Approach for Semantic N-gram Language Modeling
+  authors: Shaojun Wang, Dale Schuurmans, Fuchun Peng
+  conference: AISTATS
+  pdf: http://research.microsoft.com/en-us/um/cambridge/events/aistats2003/proceedings/169.pdf
+
+
+- id: 23e7f241a4d8efc893735d5f85474d167cd1ab45
+  title: Language Independent Authorship Attribution with Character Level N-Grams
+  authors: Fuchun Peng, Dale Schuurmans, Vlado Keselj, Shaojun Wang
+  conference: EACL
+  pdf: https://pdfs.semanticscholar.org/23e7/f241a4d8efc893735d5f85474d167cd1ab45.pdf
+
+
+- id: f7f1b18eb94f232662f355eb32b7e8adb6f7090d
+  title: Combining Naive Bayes and n-Gram Language Models for Text Classification
+  authors: Fuchun Peng, Dale Schuurmans
+  conference: ECIR
+  pdf: https://pdfs.semanticscholar.org/f7f1/b18eb94f232662f355eb32b7e8adb6f7090d.pdf
+
+
+- id: 50d6ec66e71b91f9c64524fac43c86d0b6f909a1
+  title: Monte Carlo Matrix Inversion Policy Evaluation
+  authors: Fletcher Lu, Dale Schuurmans
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1212.2471.pdf
+
+
+- id: 9f7b97ad2dbed114ab67f59a2de396bd0cecd1c3
+  title: Sequential Importance Sampling for Visual Tracking Reconsidered
+  authors: Péter Torma, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/9f7b/97ad2dbed114ab67f59a2de396bd0cecd1c3.pdf
+
+
+- id: 806b9282b8247993ddd1679584853279f4957194
+  title: Aortic valve calcification on computed tomography predicts the severity of aortic stenosis.
+  authors: S Joanna Cowell, David E. Newby, James Burton, Adam White, David B. Northridge, Nicholas A. Boon, John Z. Reid
+  conference: Clinical radiology
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/12943644
+
+
+- id: a316d590d07bfb73260c4610b97c5044e281daeb
+  title: "Correlation between religion and happiness: a replication."
+  authors: Leslie J. Francis, Mandy Robbins, Adam White
+  conference: Psychological reports
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/12674256
+
+
+- id: 94084690d3c8feec17ee41f4cecc912b8b8208e4
+  title: Changes in youth smoking participation in California in the 1990s
+  authors: Elizabeth A. Gilpin, Sherry L Emery, Martha White, John P Pierce
+  conference: Cancer Causes & Control
+  pdf: http://doi.org/10.1023/B%3ACACO.0000007971.36237.a5
+
+
+- id: 343a2da3b11d5b5d471e16e563efc53462e0d427
+  title: A Formalization of Equilibria for Multiagent Planning
+  authors: Michael H. Bowling, Rune M. Jensen, Manuela M. Veloso
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/fbce/317bb33cf1e0b299d960f022a6490b927c88.pdf
+
+
+- id: 16b1644e1adf1f287e36f23f51d4aa96fc3729a2
+  title: Simultaneous adversarial multi-robot learning
+  authors: Michael H. Bowling, Manuela M. Veloso
+  conference: IJCAI 2003
+  pdf: http://ijcai.org/Proceedings/03/Papers/102.pdf
+
+
+- id: 040f59b2c194a379671cb7d8a459b190478447e9
+  title: Multi-robot team response to a multi-robot opponent team
+  authors: James Bruce, Michael H. Bowling, Brett Browning, Manuela M. Veloso
+  conference: ICRA
+  pdf: https://pdfs.semanticscholar.org/040f/59b2c194a379671cb7d8a459b190478447e9.pdf
+
+
+- id: 6baceac6a747645783ad851d7b98941805083f50
+  title: Plays as Team Plans for Coordination and Adaptation
+  authors: Michael H. Bowling, Brett Browning, Allen Chang, Manuela M. Veloso
+  conference: RoboCup
+  pdf: https://pdfs.semanticscholar.org/6ca9/f0442d9baa9d3817b2cff2e7104a8efe82cd.pdf
+

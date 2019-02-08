@@ -1,0 +1,290 @@
+yearname: 2006
+publications:
+
+
+- id: 127dd1eeca72a36a48d4f0a7255ee94dc07a27ed
+  title: Incremental Least-Squares Temporal Difference Learning
+  authors: Alborz Geramifard, Michael H. Bowling, Richard S. Sutton
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/4cbe/e742f144aee9de3ec22f2c4f7895a90736bc.pdf
+
+
+- id: c3d6ce6b3f67fd763eaf7b306992e6e6bfe2f12a
+  title: Gain Adaptation Beats Least Squares ?
+  authors: Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/c3d6/ce6b3f67fd763eaf7b306992e6e6bfe2f12a.pdf
+
+
+- id: 8abb7ce9d4632318c873010a00def7392409a24e
+  title: "iLSTD: Eligibility Traces and Convergence Analysis"
+  authors: Alborz Geramifard, Michael H. Bowling, Martin Zinkevich, Richard S. Sutton
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/8abb/7ce9d4632318c873010a00def7392409a24e.pdf
+
+
+- id: 2c360266400c81185c3a99b676cfb0933f7c2818
+  title: Robust Support Vector Machine Training via Convex Outlier Ablation
+  authors: Linli Xu, Koby Crammer, Dale Schuurmans
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/2c36/0266400c81185c3a99b676cfb0933f7c2818.pdf
+
+
+- id: 53740688f248bc05b9043b0c31ccebf5257954dd
+  title: Stochastic Analysis of Lexical and Semantic Enhanced Structural Language Model
+  authors: Shaojun Wang, Shaomin Wang, Li Cheng, Russell Greiner, Dale Schuurmans
+  conference: ICGI
+  pdf: https://pdfs.semanticscholar.org/5374/0688f248bc05b9043b0c31ccebf5257954dd.pdf
+
+
+- id: 1a9935019699e90b64b3dbe6d532de30fda05bd3
+  title: implicit Online Learning with Kernels
+  authors: Li Cheng, S. V. N. Vishwanathan, Dale Schuurmans, Shaojun Wang, Terry Caelli
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/1a99/35019699e90b64b3dbe6d532de30fda05bd3.pdf
+
+
+- id: 661d10e975540af2f8bae23c08aebc96dad224bb
+  title: Improved Large Margin Dependency Parsing via Local Constraints and Laplacian Regularization
+  authors: Qin Iris Wang, Colin Cherry, Daniel J. Lizotte, Dale Schuurmans
+  conference: CoNLL
+  pdf: https://pdfs.semanticscholar.org/661d/10e975540af2f8bae23c08aebc96dad224bb.pdf
+
+
+- id: 1f8a8c0328e339befa61e86f82a5d14846ebb6fe
+  title: Constraint-based optimization and utility elicitation using the minimax decision criterion
+  authors: Craig Boutilier, Relu Patrascu, Pascal Poupart, Dale Schuurmans
+  conference: Artif. Intell.
+  pdf: http://doi.org/10.1016/j.artint.2006.02.003
+
+
+- id: 464934d0c11cb867563b69c0a89a6c99d73f19ce
+  title: Compact, Convex Upper Bound Iteration for Approximate POMDP Planning
+  authors: Tao Wang, Pascal Poupart, Michael H. Bowling, Dale Schuurmans
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/4649/34d0c11cb867563b69c0a89a6c99d73f19ce.pdf
+
+
+- id: 166419c83558664cf8dbd227bdaa0b4e53d478ef
+  title: "Learning to Model Spatial Dependency: Semi-Supervised Discriminative Random Fields"
+  authors: Chi-Hoon Lee, Shaojun Wang, Feng Jiao, Dale Schuurmans, Russell Greiner
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/af32/be8c8beb34bf70ebb6e3fa87ad31f420a1a9.pdf
+
+
+- id: 07fe4e36be3ab95ee9e0c86b6733e46d83de53e9
+  title: Information Marginalization on Subgraphs
+  authors: Jiayuan Huang, Tingshao Zhu, Russell Greiner, Dengyong Zhou, Dale Schuurmans
+  conference: PKDD
+  pdf: https://pdfs.semanticscholar.org/3f69/baf3c0e100f78e474ddc0d00fae11c418f58.pdf
+
+
+- id: c100c429b227f37f4ce7d6ca3c6a1332aca5822b
+  title: Graphical Models and Point Pattern Matching
+  authors: Tibério S. Caetano, Terry Caelli, Dale Schuurmans, Dante Augusto Couto Barone
+  conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1677520
+
+
+- id: 02b36e0afd715fc7976d0d4e883415bfdf509ff6
+  title: "Convex Structure Learning for Bayesian Networks: Polynomial Feature Selection and Approximate Ordering"
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1206.6832.pdf
+
+
+- id: b2bf901f6f53106900cbea13164a2ee8800660b9
+  title: An Online Discriminative Approach to Background Subtraction
+  authors: Li Cheng, Shaojun Wang, Dale Schuurmans, Terry Caelli, S. V. N. Vishwanathan
+  conference: 2006 IEEE International Conference on Video and Signal Based Surveillance
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4020661
+
+
+- id: 086479cb33051b12cbc82c6c81ce386e52a39eaf
+  title: Protein fold recognition using the gradient boost algorithm.
+  authors: Feng Jiao, Jinbo Xu, Libo Yu, Dale Schuurmans
+  conference: Computational systems bioinformatics. Computational Systems Bioinformatics Conference
+  pdf: https://pdfs.semanticscholar.org/6857/d4d2c3308e2d5d869d3bbd6299729bf197e2.pdf
+
+
+- id: 2baba19653aaa6768f3df22f97a80d537ba329f8
+  title: Discriminative unsupervised learning of structured predictors
+  authors: Linli Xu, Dana F. Wilkinson, Finnegan Southey, Dale Schuurmans
+  conference: ICML 2006
+  pdf: http://dl.acm.org/citation.cfm?id=1143977
+
+
+- id: affd7cc1f8e8662e3b3aa59dcfc25e3345b76d17
+  title: Web communities identification from random walks
+  authors: Jiayuan Huang, Tingshao Zhu, Dale Schuurmans
+  conference: PKDD
+  pdf: http://doi.org/10.1007/11871637_21
+
+
+- id: 1d0a2a5a170cb06b4aa47c20df0d29b0e5d96946
+  title: Semi-Supervised Conditional Random Fields for Improved Sequence Segmentation and Labeling
+  authors: Feng Jiao, Shaojun Wang, Chi-Hoon Lee, Russell Greiner, Dale Schuurmans
+  conference: ACL
+  pdf: https://pdfs.semanticscholar.org/1d0a/2a5a170cb06b4aa47c20df0d29b0e5d96946.pdf
+
+
+- id: c98ea1aa7ee63c3185fb7744685ddb7f52d03e10
+  title: "Local Importance Sampling: A Novel Technique to Enhance Particle Filtering"
+  authors: Péter Torma, Csaba Szepesvári
+  conference: Journal of Multimedia
+  pdf: https://pdfs.semanticscholar.org/d339/f107a8dba1083f3f8e95482840301009126d.pdf
+
+
+- id: 0ba5dec32e49e6f92dc97be1ea9b144b93d20945
+  title: Universal parameter optimisation in games based on SPSA
+  authors: Levente Kocsis, Csaba Szepesvári
+  conference: Machine Learning
+  pdf: http://doi.org/10.1007/s10994-006-6888-8
+
+
+- id: 20903c7600786ee925da6d55974f3dbff7614f8c
+  title: "RSPSA: Enhanced Parameter Optimization in Games"
+  authors: Levente Kocsis, Csaba Szepesvári, Mark H. M. Winands
+  conference: ACG
+  pdf: https://pdfs.semanticscholar.org/2090/3c7600786ee925da6d55974f3dbff7614f8c.pdf
+
+
+- id: b2c20a877a891ea97179658c06a6d552b50cba6e
+  title: Improved Monte-Carlo Search
+  authors: Levente Kocsis, Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/b2c2/0a877a891ea97179658c06a6d552b50cba6e.pdf
+
+
+- id: b18362ee862e51c94880e62a2e7d306bca5bd30a
+  title: Learning Near-Optimal Policies with Bellman-Residual Minimization Based Fitted Policy Iteration and a Single Sample Path
+  authors: András Antos, Csaba Szepesvári, Rémi Munos
+  conference: COLT
+  pdf: http://doi.org/10.1007/11776420_42
+
+
+- id: 1b91fe34fa81fad1e5e3223182f5ed67ca038a97
+  title: Use of variance estimation in the multi-armed bandit problem
+  authors: Jean-Yves Audibert, Rémi Munos, Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/73da/f524e0ddc1f5a27556d5621ddcb25424b217.pdf
+
+
+- id: 6661e57237e4e8739b7a4946c4d3d4875376c068
+  title: Bandit Based Monte-Carlo Planning
+  authors: Levente Kocsis, Csaba Szepesvári
+  conference: ECML
+  pdf: https://pdfs.semanticscholar.org/5d89/b6f31b41b2c52a8fd95657721eea3f66bc2c.pdf
+
+
+- id: c120b5861929621436fd13bc68b1400fadc93a5c
+  title: A method for cytometric image parameterization.
+  authors: Patrick M. Pilarski, Christopher J. Backhouse
+  conference: Optics express
+  pdf: https://pdfs.semanticscholar.org/c120/b5861929621436fd13bc68b1400fadc93a5c.pdf
+
+
+- id: 533fa670bd278bd03833e29eb769f58ee31b8400
+  title: Feature construction for reinforcement learning in hearts
+  authors: Nathan R. Sturtevant, Adam M. White
+  conference: Computers and Games
+  pdf: http://doi.org/10.1007/978-3-540-75538-8_11
+
+
+- id: 7d5806cb857a9c8dbf58a518ff35cd530a71e86c
+  title: "Mercury ITIL Foundation : Mapping ITIL To The Real World"
+  authors: Adam White
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/7d58/06cb857a9c8dbf58a518ff35cd530a71e86c.pdf
+
+
+- id: c0c5584ab078bfb8cb9fc6f16668257b05302aa5
+  title: Factors associated with non-participation in a physical activity promotion trial.
+  authors: David J Chinn, Martha White, Denise Howel, J O E Harland, Chris Drinkwater
+  conference: Public health
+  pdf: https://pdfs.semanticscholar.org/c0c5/584ab078bfb8cb9fc6f16668257b05302aa5.pdf
+
+
+- id: 7bbc696186aad1b5caf17544c5e7db59ce8f1402
+  title: "Cigarette promotional offers: who takes advantage?"
+  authors: Victoria M White, Martha White, Karen Freeman, Elizabeth A. Gilpin, John P Pierce
+  conference: American journal of preventive medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/16476638
+
+
+- id: 07d7cbe04be94050ff3c6af5a1df2143222ff5e5
+  title: Cigarette Promotional OffersWho Takes Advantage
+  authors: Victoria White, Martha White, Karen Freeman, Elizabeth A. Gilpin, John P Pierce
+  conference: 
+  pdf: http://doi.org/10.1016/j.amepre.2005.11.001
+
+
+- id: ebb471755d9396836788701444e4f861b3e8d67e
+  title: "Trends in smoking among Hispanic women in California: Relationship to English language use."
+  authors: Dennis R. Trinidad, Elizabeth A. Gilpin, Karen S. Messer, Martha White, John P Pierce
+  conference: American journal of preventive medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/16905038
+
+
+- id: e949b83e66888a86637b8cf62019cf947bf29719
+  title: What contributed to the major decline in per capita cigarette consumption during California's comprehensive tobacco control programme?
+  authors: Elizabeth A. Gilpin, Karen S. Messer, Martha White, John P Pierce
+  conference: Tobacco control
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/16885580
+
+
+- id: 36a032291d4c3170868841c1df98c2766b55bac4
+  title: "Adolescents' perceptions about quitting and nicotine replacement therapy: findings from the California Tobacco Survey."
+  authors: Wael K. Al-Delaimy, Martha White, John P Pierce
+  conference: "The Journal of adolescent health : official publication of the Society for Adolescent Medicine"
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/16549315
+
+
+- id: 588fe6c6018f27e640065db1ce0f903864f49e7c
+  title: Optimal Unbiased Estimators for Evaluating Agent Performance
+  authors: Martin Zinkevich, Michael H. Bowling, Nolan Bard, Morgan Kan, Darse Billings
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/588f/e6c6018f27e640065db1ce0f903864f49e7c.pdf
+
+
+- id: 430dff460bb81e7c9577af2431c38f5b67da49b9
+  title: Boosting Expert Ensembles for Rapid Concept Recall
+  authors: Achim Rettinger, Martin Zinkevich, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/64c1/c7e868e5274ec76139bfa793f51112531dd0.pdf
+
+
+- id: 10cf45394cddcca6a762a6a3b73cae70c5e92ec0
+  title: Bayesian Calibration for Monte Carlo Localization
+  authors: Armita Kaboli, Michael H. Bowling, Petr Musílek
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/c0a7/1af28d638eee53a90ab1ae8995c2e24bf6a6.pdf
+
+
+- id: 1fb9edf177f22e17c716899e8d049da9b6e656ad
+  title: Machine learning and games
+  authors: Michael H. Bowling, Johannes Fürnkranz, Thore Graepel, Ron Musick
+  conference: Machine Learning
+  pdf: http://doi.org/10.1007/s10994-006-8919-x
+
+
+- id: 54a6f539397cb82f8b1e897fa6d3b95430b79b8d
+  title: Robust game play against unknown opponents
+  authors: Nathan R. Sturtevant, Michael H. Bowling
+  conference: AAMAS
+  pdf: http://dl.acm.org/citation.cfm?id=1160761
+
+
+- id: 21b3cbc7f789afdfc37764b1e9669dbc4963900d
+  title: "Prob-Maxn: Playing N-Player Games with Opponent Models"
+  authors: Nathan R. Sturtevant, Martin Zinkevich, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/621d/bcda43f56c6519092c96c3c326e9b07e1513.pdf
+
+
+- id: 64c9ba448a4e62a3eaa0a1cf2998f1f9d0cf65a5
+  title: Learning predictive state representations using non-blind policies
+  authors: Michael H. Bowling, Peter McCracken, Michael James, James Neufeld, Dana F. Wilkinson
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1143861
+

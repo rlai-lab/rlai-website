@@ -1,0 +1,416 @@
+yearname: 2015
+publications:
+
+
+- id: 90886fef6288f8d9789feaff6c9a96403c324498
+  title: An Empirical Evaluation of True Online TD({\lambda})
+  authors: Harm van Seijen, Ashique Rupam Mahmood, Patrick M. Pilarski, Richard S. Sutton
+  conference: 
+  pdf: https://arxiv.org/pdf/1507.00353.pdf
+
+
+- id: 4b6331036713db7a794c17010bf8f6eb8f81105b
+  title: Off-policy learning based on weighted importance sampling with linear computational complexity
+  authors: Ashique Rupam Mahmood, Richard S. Sutton
+  conference: UAI
+  pdf: https://pdfs.semanticscholar.org/581d/837ced41fd3849a7e2b676189bd92fa28ec0.pdf
+
+
+- id: 66cedcc488afe5514c9164d5957ff9bbc02e903d
+  title: Emphatic Temporal-Difference Learning
+  authors: Ashique Rupam Mahmood, Huizhen Yu, Martha White, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1507.01569.pdf
+
+
+- id: 8c61de01a98223050038bfdacfaf6c761e2df501
+  title: Learning to Predict Independent of Span
+  authors: Hado van Hasselt, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1508.04582.pdf
+
+
+- id: 5a247ebe05e04f72b467e36b6592487cdcc74346
+  title: An Empirical Evaluation of True Online TD(λ)
+  authors: Harm van Seijen, Ashique Rupam Mahmood, Patrick M. Pilarski, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://pdfs.semanticscholar.org/5a24/7ebe05e04f72b467e36b6592487cdcc74346.pdf
+
+
+- id: 07cfdecd05a7aa8d31dee8019d640b620c42b2e1
+  title: "True Online Emphatic TD(λ): Quick Reference and Implementation Guide"
+  authors: Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1507.07147.pdf
+
+
+- id: 4d49385ab9e7285318a480e2bfd3982796df07b7
+  title: L EARNING WITH A DVERSARY
+  authors: Ruitong Huang, Dale Schuurmans
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/4d49/385ab9e7285318a480e2bfd3982796df07b7.pdf
+
+
+- id: 676d577de2b585f7068a45a9313c92a1fc14adfe
+  title: Towards Investigating Global Warming Impact on Human Health Using Derivatives of Photoplethysmogram Signals
+  authors: Mohamed Elgendi, Ian Norton, Matt Brearley, R. R. Fletcher, Derek Abbott, Nigel H. Lovell, Dale Schuurmans, Paul B Tchounwou
+  conference: International journal of environmental research and public health
+  pdf: https://pdfs.semanticscholar.org/e65d/6579d77709c426d54ca7aa9294ab79984be9.pdf
+
+
+- id: dc03fd7c3be31441aa8471a66c48f7f535f3b750
+  title: Embedding inference for structured multilabel prediction
+  authors: Farzaneh Mirzazadeh, Siamak Ravanbakhsh, Nan Ding, Dale Schuurmans
+  conference: NIPS 2015
+  pdf: http://papers.nips.cc/paper/5675-embedding-inference-for-structured-multilabel-prediction
+
+
+- id: d995e35afe0e75863a892224e75a046efefdc7d2
+  title: L EARNING WITH A S TRONG A DVERSARY
+  authors: Ruitong Huang, Bing Xu, Dale Schuurmans, Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/d995/e35afe0e75863a892224e75a046efefdc7d2.pdf
+
+
+- id: 7329a616e0c0155ff2a71abb8ebcd706e117b346
+  title: On Time Domain Analysis of Photoplethysmogram Signals for Monitoring Heat Stress
+  authors: Mohamed Elgendi, Richard Ribon Fletcher, Ian Norton, Matt Brearley, Derek Abbott, Nigel H. Lovell, Dale Schuurmans
+  conference: Sensors
+  pdf: https://pdfs.semanticscholar.org/7329/a616e0c0155ff2a71abb8ebcd706e117b346.pdf
+
+
+- id: 58ef0c54f01073e43ae5e9662f450002540355e9
+  title: Semi-Supervised Zero-Shot Classification with Label Representation Learning
+  authors: Xin Li, Yuhong Guo, Dale Schuurmans
+  conference: 2015 IEEE International Conference on Computer Vision (ICCV)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410836
+
+
+- id: d87422549a4e7596c6b6b59458d1a52f69d9fa33
+  title: Learning with a Strong Adversary
+  authors: Ruitong Huang, Bing Xu, Dale Schuurmans, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1511.03034.pdf
+
+
+- id: 73c1cb6a1e69b0ef26c2075e5c8134259aa5f48f
+  title: Variance Reduction via Antithetic Markov Chains
+  authors: James Neufeld, Dale Schuurmans, Michael H. Bowling
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/dacf/03ab705e2b293ffc1ecd05ffdd8d24c47cbf.pdf
+
+
+- id: 6ff071a98d1908cb8a7a189e559d8c150e71b943
+  title: Optimal Estimation of Multivariate ARMA Models
+  authors: Martha White, Junfeng Wen, Michael H. Bowling, Dale Schuurmans
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/6ff0/71a98d1908cb8a7a189e559d8c150e71b943.pdf
+
+
+- id: 79eb875562967957abbbfce54a079b38195a5794
+  title: Scalable Metric Learning for Co-Embedding
+  authors: Farzaneh Mirzazadeh, Martha White, András György, Dale Schuurmans
+  conference: ECML/PKDD
+  pdf: https://pdfs.semanticscholar.org/756b/f884ff9effc45867b1b17078fc6ae1e3e62d.pdf
+
+
+- id: fabbb017ae16e53c0336d9f76cb2cc183ff89018
+  title: Frequency analysis of photoplethysmogram and its derivatives
+  authors: Mohamed Elgendi, Richard Ribon Fletcher, Ian Norton, Matt Brearley, Derek Abbott, Nigel H. Lovell, Dale Schuurmans
+  conference: Computer Methods and Programs in Biomedicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/26498064
+
+
+- id: 32d7208fc024e1094361b52f8a4aaf90e28024fe
+  title: The unique heart sound signature of children with pulmonary artery hypertension.
+  authors: Mohamed Elgendi, Prashant Raviprakash Bobhate, Shreepal Ambalal Jain, Long Bao Guo, Shine Kumar, Jennifer M. Rutledge, Yashu Coe, Roger J. Zemp, Dale Schuurmans, Ian Adatia
+  conference: Pulmonary circulation
+  pdf: https://pdfs.semanticscholar.org/32d7/208fc024e1094361b52f8a4aaf90e28024fe.pdf
+
+
+- id: 4032f05d1faf73cc79e2d56f02ed9d00045386ff
+  title: Correcting Covariate Shift with the Frank-Wolfe Algorithm
+  authors: Junfeng Wen, Russell Greiner, Dale Schuurmans
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/4032/f05d1faf73cc79e2d56f02ed9d00045386ff.pdf
+
+
+- id: aab9d62a67444fc0511529a1760129d3a7c6c139
+  title: Generalization in Unsupervised Learning
+  authors: Karim T. Abou-Moustafa, Dale Schuurmans
+  conference: ECML/PKDD
+  pdf: https://pdfs.semanticscholar.org/aab9/d62a67444fc0511529a1760129d3a7c6c139.pdf
+
+
+- id: 65b05437f1c1d55e299dd7bf2ad744737f0f020a
+  title: On Identifying Good Options under Combinatorially Structured Feedback in Finite Noisy Environments
+  authors: Yifan Wu, András György, Csaba Szepesvári
+  conference: ICML
+  pdf: https://pdfs.semanticscholar.org/f4c3/75ace42a898cb3f4f765054ce1d6fb3cb92c.pdf
+
+
+- id: 0033b2f9fded3dd48b87890da74ca2db8be8b55c
+  title: Combinatorial Cascading Bandits
+  authors: Branislav Kveton, Zheng Wen, Azin Ashkan, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://arxiv.org/pdf/1507.04208.pdf
+
+
+- id: 2e04b54120438a7c8499e1a3dee144b3001e8090
+  title: Markov Decision Processes under Bandit Feedback
+  authors: Gergely Neu, András György, Csaba Szepesvári, András Antos
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/2e04/b54120438a7c8499e1a3dee144b3001e8090.pdf
+
+
+- id: 15b15083809a1a951d63821a21cbbc12af8dddef
+  title: Toward Minimax Off-policy Value Estimation
+  authors: Lihong Li, Rémi Munos, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/7524/36f54c874e7a8876be3c37c39ff632e516e6.pdf
+
+
+- id: 52f1a09de3bcfec33a68dfded253cd943887e15b
+  title: Tight Regret Bounds for Stochastic Combinatorial Semi-Bandits
+  authors: Branislav Kveton, Zheng Wen, Azin Ashkan, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://arxiv.org/pdf/1410.0949.pdf
+
+
+- id: 325b9b1ad5d45f4c55995692f3d2a9bddcbbcd13
+  title: Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path
+  authors: Daniel J. Hsu, Aryeh Kontorovich, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://arxiv.org/pdf/1506.02903.pdf
+
+
+- id: 06ce88a12dcc56b79a1cbaacca88be6f0aa595e5
+  title: Exploiting Symmetries to Construct Efficient MCMC Algorithms With an Application to SLAM
+  authors: Roshan Shariff, András György, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/c61d/796b28579573680e7d6835961ba7558c4db7.pdf
+
+
+- id: 9a9e8bebc460643f5616430888076c5478ed150c
+  title: Pathological Effects of Variance on Classification-Based Policy Iteration
+  authors: Bernardo Ávila Pires, Csaba Szepesvári
+  conference: 
+  pdf: http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10098
+
+
+- id: 7bf5d6122d829dac3721af9fd3886a27c72b9118
+  title: Linear Multi-Resource Allocation with Semi-Bandit Feedback
+  authors: Tor Lattimore, Koby Crammer, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/7bf5/d6122d829dac3721af9fd3886a27c72b9118.pdf
+
+
+- id: 0de29783fdd10dfcdae373724d07c9c6ea1d8be3
+  title: "Cascading Bandits: Learning to Rank in the Cascade Model"
+  authors: Branislav Kveton, Csaba Szepesvári, Zheng Wen, Azin Ashkan
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1502.02763.pdf
+
+
+- id: 3b81c0f2fedf7895c33dc8d6456e2ed68ae2d309
+  title: Fast cross-validation for incremental learning
+  authors: Pooria Joulani, András György, Csaba Szepesvári
+  conference: IJCAI
+  pdf: https://arxiv.org/pdf/1507.00066.pdf
+
+
+- id: 8132a8108708a262349301fd7a2337db13f6bfab
+  title: Cascading Bandits
+  authors: Branislav Kveton, Csaba Szepesvári, Zheng Wen, Azin Ashkan
+  conference: ArXiv
+  pdf: 
+
+
+- id: 7c79fe2f84763681418bbf21cac9e12a17ce070f
+  title: Decision-theoretic Clustering of Strategies
+  authors: Nolan Bard, Deon Nicholas, Csaba Szepesvári, Michael H. Bowling
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/7c79/fe2f84763681418bbf21cac9e12a17ce070f.pdf
+
+
+- id: 2fa06d7403de56579ea01d86c2a4149e4be37b1b
+  title: Online Learning with Gaussian Payoffs and Side Observations
+  authors: Yifan Wu, András György, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://arxiv.org/pdf/1510.08108.pdf
+
+
+- id: 3e1327a0c44a96c2a55bd4d08acbeaca2f41d909
+  title: Deterministic Independent Component Analysis
+  authors: Ruitong Huang, András György, Csaba Szepesvári
+  conference: ICML
+  pdf: https://pdfs.semanticscholar.org/3e13/27a0c44a96c2a55bd4d08acbeaca2f41d909.pdf
+
+
+- id: 793d760948bbeb62cab6f7c5183c610df86a799d
+  title: Bayesian Optimal Control of Smoothly Parameterized Systems
+  authors: Yasin Abbasi-Yadkori, Csaba Szepesvári
+  conference: UAI
+  pdf: https://pdfs.semanticscholar.org/821a/a3978f1948eda254e324fd4ab219e91b63b5.pdf
+
+
+- id: 851790bfad677076d59df2e607e1750391c8301c
+  title: Near-optimal max-affine estimators for convex regression
+  authors: Gábor Balázs, András György, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/8517/90bfad677076d59df2e607e1750391c8301c.pdf
+
+
+- id: 7433ec32568ea9cc3f803b1fdc5b8cb0d7d0697a
+  title: A Collaborative Approach to the Simultaneous Multi-joint Control of a Prosthetic Arm
+  authors: Craig Sherstan, Joseph Modayil, Patrick M. Pilarski
+  conference: 2015 IEEE International Conference on Rehabilitation Robotics (ICORR)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7281168
+
+
+- id: 7d6539bd627e658465ce82716f5dd7204817e96a
+  title: Prosthetic Devices as Goal-Seeking Agents
+  authors: Patrick M. Pilarski
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/c7ef/896ba9b0a79f89441ba28c5078530c7c237d.pdf
+
+
+- id: d0b55c610bf45f06e2973b3aa4fac5d76ce6d596
+  title: "Intelligent laser welding through representation , prediction , and control learning: An architecture with deep neural networks and reinforcement learning"
+  authors: Johannes Günther, Patrick M. Pilarski, Gerhard Helfrich, Hao Shen, Klaus Diepold
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/d0b5/5c610bf45f06e2973b3aa4fac5d76ce6d596.pdf
+
+
+- id: 942d262a27fcb5dd5e274762f780f0250eb2c7cc
+  title: Design considerations for a high efficiency 3 kW LLC resonant DC/DC transformer
+  authors: Qiong Wang, Xuning Zhang, Rolando Burgos, Dushan Boroyevich, Adam M. White, Mustansir H. Kheraluwala
+  conference: 2015 IEEE Energy Conversion Congress and Exposition (ECCE)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7310427
+
+
+- id: 170052e04966d418be29d7f4215415a68904b147
+  title: Design and implementation of interleaved Vienna rectifier with greater than 99% efficiency
+  authors: Qiong Wang, Xuning Zhang, Rolando Burgos, Dushan Boroyevich, Adam M. White, Mustansir H. Kheraluwala
+  conference: 2015 IEEE Applied Power Electronics Conference and Exposition (APEC)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7104334
+
+
+- id: b997b99713ad2d045d9d755a39c06efc0c16b68c
+  title: "COM-Based SBCs : The Superior Architecture for Small Form Factor Embedded Systems"
+  authors: Adam White
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/b997/b99713ad2d045d9d755a39c06efc0c16b68c.pdf
+
+
+- id: b8b1881927930253cba00f23f55d2ca6337d12ed
+  title: "Leveraging Cellphones for Wayfinding and Journey Planning in Semi-formal Bus Systems: Lessons from Digital Matatus in Nairobi"
+  authors: Jacqueline M. Klopp, Sarah Williams, Peter Wagacha Waiganjo, Daniel Orwa, Adam White
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/10a7/c10f556b36f2c097ffd1e9bc8f8b22f22fb3.pdf
+
+
+- id: fa2ae17c537ae255396e67aef6f4f2e4aa3e7f05
+  title: "The digital matatu project : Using cell phones to create an open source data for Nairobi ' s semi-formal bus system"
+  authors: Sarah Williams, Adam White, Peter Wagacha Waiganjo, Daniel Orwa, Jacqueline M. Klopp
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/fa2a/e17c537ae255396e67aef6f4f2e4aa3e7f05.pdf
+
+
+- id: 0e9b539a268e8133c00faf875f1ba33c4444f7a9
+  title: "Wearable Sensor/Device (Fitbit One) and SMS Text-Messaging Prompts to Increase Physical Activity in Overweight and Obese Adults A Randomized Controlled Trial."
+  authors: Julie B. Wang, Lisa A Cadmus-Bertram, Loki Natarajan, Martha White, Hala Madanat, Jeanne Nichols, Guadalupe Xochitl Ayala, John P Pierce
+  conference: "Telemedicine journal and e-health: the official journal of the American Telemedicine Association"
+  pdf: https://pdfs.semanticscholar.org/0e9b/539a268e8133c00faf875f1ba33c4444f7a9.pdf
+
+
+- id: ff13c75aaefb76d5878a7d8404e6b5d9c3799f7e
+  title: Trends in use of little cigars or cigarillos and cigarettes among U.S. smokers, 2002-2011.
+  authors: Karen S Messer, Martha White, David R. Strong, Baoguang Wang, Yuyan Shi, Kevin P. Conway, John P Pierce
+  conference: "Nicotine & tobacco research: official journal of the Society for Research on Nicotine and Tobacco"
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25239955
+
+
+- id: 7a05f12fb8627a3c3016b397b1b060a653d7ccda
+  title: Cigarette smoking cessation attempts among current US smokers who also use smokeless tobacco.
+  authors: Karen S Messer, Maya Vijayaraghavan, Martha White, Yuyan Shi, Cindy M C Chang, Kevin P. Conway, Anne Marcia Hartman, Megan J. Schroeder, Wilson M. Compton, John P Pierce
+  conference: Addictive behaviors
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/26253939
+
+
+- id: 93ee6492914e741c88cb4370afacd12299e7a3a7
+  title: "Measurement of multiple nicotine dependence domains among cigarette, non-cigarette and poly-tobacco users: Insights from item response theory."
+  authors: David R. Strong, Karen S Messer, Sheri J Hartman, Kevin P. Conway, Allison C Hoffman, Nikolas Pharris-Ciurej, Martha White, Victoria R Green, Wilson M. Compton, John P Pierce
+  conference: Drug and alcohol dependence
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/26005043
+
+
+- id: c69b773158c911a90114e0c9e2966b6d21d88776
+  title: Predictive Validity of the Expanded Susceptibility to Smoke Index.
+  authors: David R. Strong, Sheri J Hartman, Jesse N. Nodora, Karen S Messer, Lisa James, Martha White, David B. Portnoy, Conrad J. Choinière, Genevieve C. Vullo, John P Pierce
+  conference: "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25481915
+
+
+- id: b694c67188dfb118afea56f9d742fc816c03bb29
+  title: Safety of sublingual immunotherapy Timothy grass tablet in subjects with allergic rhinitis with or without conjunctivitis and history of asthma.
+  authors: Jennifer S Maloney, Stephen Durham, David Skoner, Ronald Dahl, Albrecht Bufe, David A. Bernstein, Kevin S Murphy, Susan Waserman, Gary D Berman, Martha White, Amarjot Kaur, Hendrik Nolte
+  conference: Allergy
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25495666
+
+
+- id: 211a067ac28bbc837be5ce8774cef83d1238696a
+  title: Improving Exploration in UCT Using Local Manifolds
+  authors: Sriram Srinivasan, Erik Talvitie, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/4295/350b74321829273d85c7792f61c7f4b62498.pdf
+
+
+- id: b86b5da1e14c53968571e60f98890a6cec762422
+  title: Pairwise Relative Offset Features for Atari 2600 Games
+  authors: Erik Talvitie, Michael H. Bowling
+  conference: "AAAI Workshop: Learning for General Competency in Video Games"
+  pdf: https://pdfs.semanticscholar.org/b86b/5da1e14c53968571e60f98890a6cec762422.pdf
+
+
+- id: cc2d378e8472abd558a13dbc6aab559bf53ff9b1
+  title: "Policy Tree: Adaptive Representation for Policy Gradient"
+  authors: Ujjwal Das Gupta, Erik Talvitie, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/e663/43d66d8ff63f10303b3fb08f65bebd222c02.pdf
+
+
+- id: 28386ad2b37548a480ff43b94fef33ac132f20b4
+  title: Solving Games with Functional Regret Estimation
+  authors: Kevin Waugh, Dustin Morrill, J. Andrew Bagnell, Michael H. Bowling
+  conference: "AAAI Workshop: Computer Poker and Imperfect Information"
+  pdf: https://arxiv.org/pdf/1411.7974.pdf
+
+
+- id: 164f1802d58e2e9dd8764036290f063e8e29c563
+  title: Approximate Linear Programming for Constrained Partially Observable Markov Decision Processes
+  authors: Pascal Poupart, Aarti Malhotra, Pei Pei, Kee-Eung Kim, Bongseok Goh, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/7190/d3e96e02e515b2cc5cb67375002a17a0cfa2.pdf
+
+
+- id: a86fcb8c2aec1596434cb1cc5db47741f59d4cb3
+  title: Domain-Independent Optimistic Initialization for Reinforcement Learning
+  authors: Marlos C. Machado, Sriram Srinivasan, Michael H. Bowling
+  conference: "AAAI Workshop: Learning for General Competency in Video Games"
+  pdf: https://arxiv.org/pdf/1410.4604.pdf
+
+
+- id: 98a74f0e1d1a3965ba61992239d69adaf2f921ae
+  title: Solving Heads-Up Limit Texas Hold'em
+  authors: Oskari Tammelin, Neil Burch, Michael Johanson, Michael H. Bowling
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/98a7/4f0e1d1a3965ba61992239d69adaf2f921ae.pdf
+
+
+- id: 01b3e52bfce3be2f9c09f139f26943d08294961d
+  title: Online Monte Carlo Counterfactual Regret Minimization for Search in Imperfect Information Games
+  authors: Viliam Lisý, Marc Lanctot, Michael H. Bowling
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/01b3/e52bfce3be2f9c09f139f26943d08294961d.pdf
+

@@ -1,0 +1,269 @@
+yearname: 2008
+publications:
+
+
+- id: 6dc3387e5521eae71f0eb509c3a52052f58c47d6
+  title: Sample-based learning and search with permanent and transient memories
+  authors: David Silver, Richard S. Sutton, Martin Müller
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1390278
+
+
+- id: 23127b07fe2f434ec345b8cfa8ea75a9c24b8b9d
+  title: Reinforcement Learning in Environments with Independent Delayed-sense Dynamics Reinforcement Learning in Environments with Independent Delayed-sense Dynamics
+  authors: Masoud Shahamiri, Richard S. Sutton, Martin Jägersand, Sirish Shah
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/2312/7b07fe2f434ec345b8cfa8ea75a9c24b8b9d.pdf
+
+
+- id: 1a0d0ec1bfec7b6c1a27a8f7a871eba5f2899bbb
+  title: Agent Learning using Action-Dependent Learning Rates in Computer Role-Playing Games
+  authors: Maria Cutumisu, Duane Szafron, Michael H. Bowling, Richard S. Sutton
+  conference: 
+  pdf: http://www.aaai.org/Library/AIIDE/2008/aiide08-004.php
+
+
+- id: 61af1c8ea6ef32d8410216901fb271aa99f95bcc
+  title: A Convergent O(n) Temporal-difference Algorithm for Off-policy Learning with Linear Function Approximation
+  authors: Richard S. Sutton, Csaba Szepesvári, Hamid Reza Maei
+  conference: 
+  pdf: http://papers.nips.cc/paper/3626-a-convergent-on-temporal-difference-algorithm-for-off-policy-learning-with-linear-function-approximation
+
+
+- id: 162099c170a29f0211ec0e1e489d2ea5f9dad266
+  title: A computational model of hippocampal function in trace conditioning
+  authors: Elliot A. Ludvig, Richard S. Sutton, Eric Verbeek, E. James Kehoe
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/7fc8/e2a35ae97fbf9fa1c876f312929b52ff6ac0.pdf
+
+
+- id: 62766b0b3e1430dc09988aee9a323742b2bb407d
+  title: Dyna-Style Planning with Linear Function Approximation and Prioritized Sweeping
+  authors: Richard S. Sutton, Csaba Szepesvári, Alborz Geramifard, Michael H. Bowling
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1206.3285.pdf
+
+
+- id: 76d412799769462f5b34b7a0ede963f82b47f316
+  title: Magnitude and timing of nictitating membrane movements during classical conditioning of the rabbit (Oryctolagus cuniculus).
+  authors: E. James Kehoe, Elliot A. Ludvig, Joanne Dudeney, James Neufeld, Richard S. Sutton
+  conference: Behavioral neuroscience
+  pdf: https://pdfs.semanticscholar.org/76d4/12799769462f5b34b7a0ede963f82b47f316.pdf
+
+
+- id: 3d1cfd242cf22c2c5be70f57254a1f5f6eb17a3e
+  title: Stimulus Representation and the Timing of Reward-Prediction Errors in Models of the Dopamine System
+  authors: Elliot A. Ludvig, Richard S. Sutton, E. James Kehoe
+  conference: Neural Computation
+  pdf: http://doi.org/10.1162/neco.2008.11-07-654
+
+
+- id: 0d31a7a58c61ebe6f80d64a7b2e3e59a59d33a82
+  title: A Convergent O ( n ) Algorithm for Off-policy Temporal-difference Learning with Linear Function Approximation
+  authors: Richard S. Sutton, Csaba Szepesvári, Hamid Reza Maei
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/2977/acb2b3249e697de3aec0e62d6963094e4f6e.pdf
+
+
+- id: bac4bec63def29d0b1d33e1b6fb6608c033e23dc
+  title: SELECTED BIBLIOGRAPHY ON CONNECTIONISM
+  authors: Oliver G. Selfridge, Richard S. Sutton, Charles W. Anderson
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/bac4/bec63def29d0b1d33e1b6fb6608c033e23dc.pdf
+
+
+- id: ccdc2fb3b912752daf7832b90ee818ae91ff4008
+  title: Efficient global optimization for exponential family PCA and low-rank matrix factorization
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: 2008 46th Annual Allerton Conference on Communication, Control, and Computing
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4797683
+
+
+- id: f29900e83b606c0e67f0fb0ebbe3e8629ac0d317
+  title: Policy Iteration for Learning an Exercise Policy for American Options
+  authors: Yuxi Li, Dale Schuurmans
+  conference: EWRL
+  pdf: https://pdfs.semanticscholar.org/f299/00e83b606c0e67f0fb0ebbe3e8629ac0d317.pdf
+
+
+- id: 7a8475e88bef685273bfc0795f6ac68adf210a2a
+  title: Semi-Supervised Convex Training for Dependency Parsing
+  authors: Qin Iris Wang, Dale Schuurmans, Dekang Lin
+  conference: ACL 2008
+  pdf: http://www.aclweb.org/anthology/P08-1061
+
+
+- id: f96fd395cd155ac841954045d59ec70c9281146b
+  title: Efficient Stopping Rules
+  authors: Volodymyr Mnih, Csaba Szepesvári, Dale Schuurmans
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/f96f/d395cd155ac841954045d59ec70c9281146b.pdf
+
+
+- id: 0c7e98ba2b5439cd307cbaec38367372dd434c03
+  title: Online Optimization in X-Armed Bandits
+  authors: Sébastien Bubeck, Rémi Munos, Gilles Stoltz, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/0c7e/98ba2b5439cd307cbaec38367372dd434c03.pdf
+
+
+- id: 412b2ad7495ce42a7a2c58753b308cf24591f830
+  title: Empirical Bernstein stopping
+  authors: Volodymyr Mnih, Csaba Szepesvári, Jean-Yves Audibert
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1390241
+
+
+- id: d45ffde57dd8c896a6918cdff01864e2d0b79047
+  title: Active Learning of Group-Structured Environments
+  authors: Gábor Bartók, Csaba Szepesvári, Sandra Zilles
+  conference: ALT
+  pdf: https://pdfs.semanticscholar.org/d5b1/447d13412b31a567abddccf2cce00f60c253.pdf
+
+
+- id: 31b21ed7ad72e8c238799371050c3d196989db6a
+  title: Active Learning in Multi-armed Bandits
+  authors: András Antos, Varun Grover, Csaba Szepesvári
+  conference: ALT
+  pdf: https://pdfs.semanticscholar.org/31b2/1ed7ad72e8c238799371050c3d196989db6a.pdf
+
+
+- id: 13980f9ba77ca3adb59d6ec04844148e977d0884
+  title: European Workshop on Reinforcement Learning
+  authors: Amir Massoud Farahmand, Mohammad Ghavamzadeh, Csaba Szepesvári, Shie Mannor, Olivier Teytaud, Eric Moulines, Alessandra Russo, Peter Vrancx, Tom Croonenborghs
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/1398/0f9ba77ca3adb59d6ec04844148e977d0884.pdf
+
+
+- id: 9ecd34212a59295e50a4948868245bdb3ac49777
+  title: Regularized Policy Iteration
+  authors: Amir Massoud Farahmand, Mohammad Ghavamzadeh, Csaba Szepesvári, Shie Mannor
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/9ecd/34212a59295e50a4948868245bdb3ac49777.pdf
+
+
+- id: 6094d0de529e899acd6e4830c8277ebb3cf8a5a6
+  title: Finite-Time Bounds for Fitted Value Iteration
+  authors: Rémi Munos, Csaba Szepesvári
+  conference: Journal of Machine Learning Research
+  pdf: https://pdfs.semanticscholar.org/6b69/c970d01e93bbeb73b4ed360a759fbfb4befc.pdf
+
+
+- id: 2b2947aaa38ba9834543f20740170be2aa691c44
+  title: Speeding Up Planning in Markov Decision Processes via Automatically Constructed Abstractions
+  authors: Alejandro Isaza, Csaba Szepesvári, Vadim Bulitko, Russell Greiner
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1206.3233.pdf
+
+
+- id: d19e2470edeb6b126922d8957d35d55e23013ac5
+  title: Inherited and acquired variations in the hyaluronan synthase 1 (HAS1) gene may contribute to disease progression in multiple myeloma and Waldenstrom macroglobulinemia.
+  authors: Sophia Adamia, Amanda A Reichert, Hemalatha Kuppusamy, Jitra Kriangkum, Anirban Ghosh, Jennifer J Hodges, Patrick M. Pilarski, Michael J. Mant, T. H. Reiman, Andrew R. Belch, Linda M. Pilarski
+  conference: Blood
+  pdf: https://pdfs.semanticscholar.org/cdf0/dcee56d29f5ea564bed43469e62136747784.pdf
+
+
+- id: 7cdd5a0cdc6e43ed7937ba53806c665e55f34432
+  title: may contribute to disease progression in multiple myeloma and Inherited and acquired variations in the hyaluronan synthase 1 ( HAS 1 )
+  authors: Pilarski, Hodges, Patrick M. Pilarski, Michael J. Mant, T. H. Reiman, Andrew R. Belch, Mike Linda, Sophia Adamia, Amanda A Reichert, Hemalatha Kuppusamy, Jitra Kriangkum, Anirban Ghosh
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/7cdd/5a0cdc6e43ed7937ba53806c665e55f34432.pdf
+
+
+- id: 3c5cb6cfbc89e7676626d404761625cadf41ccfb
+  title: Multiple Myeloma Includes Phenotypically Defined Subsets of Clonotypic CD20+ B Cells that Persist During Treatment with Rituximab
+  authors: Linda M. Pilarski, Eva Baigorri, Michael J. Mant, Patrick M. Pilarski, Penelope J Adamson, Heddy Zola, Andrew R. Belch
+  conference: Clinical medicine. Oncology
+  pdf: https://pdfs.semanticscholar.org/3c5c/b6cfbc89e7676626d404761625cadf41ccfb.pdf
+
+
+- id: bf72676e9ec875b7a83f5cf444143e832d0e0192
+  title: Rapid simulation of wide-angle scattering from mitochondria in single cells.
+  authors: Patrick M. Pilarski, Xuantao Su, D. Moira Glerum, Christopher J. Backhouse
+  conference: Optics express
+  pdf: https://pdfs.semanticscholar.org/bf72/676e9ec875b7a83f5cf444143e832d0e0192.pdf
+
+
+- id: 9c28c6a4b34145843dca41654398df75532ddc3b
+  title: "Indirect interactions between ant-tended hemipterans, a dominant ant Azteca instabilis (Hymenoptera: Formicidae), and shade trees in a tropical agroecosystem."
+  authors: George F. Livingston, Adam M. White, Carley J Kratz
+  conference: Environmental entomology
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/18559179
+
+
+- id: 4493b4f81c4571b1793dd46341d666c63ff30e71
+  title: Sex differences in working memory.
+  authors: Ashley Harness, Lorri Jacot, Shauna Scherf, Adam White, Jason E. Warnick
+  conference: Psychological reports
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/18982954
+
+
+- id: 9d56627cb928195740ff89cd124a801ffebb05b1
+  title: Enabling factors and barriers for the use of health impact assessment in decision-making processes.
+  authors: Balsam Ahmad, David Chappel, Tanja Pless-Mulloli, Martha White
+  conference: Public health
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/17959210
+
+
+- id: 37b05858c8938f9021ba05a625386afcf7885c56
+  title: The effect of smoke-free homes on smoking behavior in the U.S.
+  authors: Karen S Messer, Alice L Mills, Martha White, John P Pierce
+  conference: American journal of preventive medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/18620837
+
+
+- id: f715ca48c5399d525abf10fc0365d41d674dba3e
+  title: Asthma exacerbations in African Americans treated for 1 year with combination fluticasone propionate and salmeterol or fluticasone propionate alone.
+  authors: William Carl Bailey, Mario Castro, Jonathan Matz, Martha White, Mark T. Dransfield, Steve Yancey, Hector G. Ortega
+  conference: Current medical research and opinion
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/18462564
+
+
+- id: cca21fc90f7a4f00eb91dfd38aa5afcebd8cecc4
+  title: Smoking trends among Filipino adults in California, 1990-2002.
+  authors: Romina Anne Africa Romero, Karen S. Messer, Joshua H. West, Martha White, Dennis R. Trinidad
+  conference: Preventive medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/18207227
+
+
+- id: 0d3669be8b29f08023bf73224897ea1dad91c7aa
+  title: Sigma point policy iteration
+  authors: Michael H. Bowling, Alborz Geramifard, David Wingate
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/8c06/68d14994b7eeb1392fe23970174eb612f6b3.pdf
+
+
+- id: 85e279a9821119fc1dd1f06a35bf1347787a83ba
+  title: "Multidisciplinary students and instructors: a second-year games course"
+  authors: Nathan R. Sturtevant, H. James Hoover, Jonathan Schaeffer, Sean Gouglas, Michael H. Bowling, Finnegan Southey, Matthew Bouchard, Ghassan Zabaneh
+  conference: SIGCSE
+  pdf: http://dl.acm.org/citation.cfm?id=1352269
+
+
+- id: 0df8217c994515a0b1861b9e0c6d0e76d8a40854
+  title: Strategy evaluation in extensive games with importance sampling
+  authors: Michael H. Bowling, Michael Johanson, Neil Burch, Duane Szafron
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1390166
+
+
+- id: 45c16943fb8cffd1a23ac45345107cf79ad2bb79
+  title: Apprenticeship learning using linear programming
+  authors: Umar Syed, Michael H. Bowling, Robert E. Schapire
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1390286
+
+
+- id: 0e9a8b5f6e3312a6e9419aa7b11f9e5a35104be5
+  title: Scalable Action Respecting Embedding
+  authors: Michael Biggs, Ali Ghodsi, Dana F. Wilkinson, Michael H. Bowling
+  conference: ISAIM
+  pdf: https://pdfs.semanticscholar.org/0e9a/8b5f6e3312a6e9419aa7b11f9e5a35104be5.pdf
+
+
+- id: 9f15a62f55d3bb3ec4e314a4013fc474cd210246
+  title: "Autonomous geocaching: navigation and goal finding in outdoor domains"
+  authors: James Neufeld, Michael Sokolsky, Jason Roberts, Adam Milstein, Stephen Walsh, Michael H. Bowling
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/9f15/a62f55d3bb3ec4e314a4013fc474cd210246.pdf
+

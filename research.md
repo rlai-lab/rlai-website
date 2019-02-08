@@ -19,8 +19,8 @@
 
 {% endfor %}
 -->
-
-{% for yr_hash in site.data.publications %}
+{% assign sortedyrs = (site.data.publications | sort) %}
+{% for yr_hash in sortedyrs reversed %}
 {% assign yr = yr_hash[1] %}
 
 <h3>{{ yr.yearname }}</h3>
@@ -28,7 +28,7 @@
 <ul>
 {% for pub in yr.publications %}
 <li>
-{{ pub.title }}. {{ pub.authors }}. <i>{{ pub.conference }}</i>, yr.yearname.
+{{ pub.title }}. {{ pub.authors }}. <i>{{ pub.conference }}</i>, {{ yr.yearname }}.
 {% if pub.pdf %}
 <a href=" {{ pub.pdf }}">[pdf]</a>
 {% endif %}
