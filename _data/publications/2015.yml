@@ -38,7 +38,7 @@ publications:
 
 
 - id: 07cfdecd05a7aa8d31dee8019d640b620c42b2e1
-  title: True Online Emphatic TD(λ): Quick Reference and Implementation Guide
+  title: "True Online Emphatic TD(λ): Quick Reference and Implementation Guide"
   authors: Richard S. Sutton
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1507.07147.pdf
@@ -206,7 +206,7 @@ publications:
 
 
 - id: 0de29783fdd10dfcdae373724d07c9c6ea1d8be3
-  title: Cascading Bandits: Learning to Rank in the Cascade Model
+  title: "Cascading Bandits: Learning to Rank in the Cascade Model"
   authors: Branislav Kveton, Csaba Szepesvári, Zheng Wen, Azin Ashkan
   conference: ICML
   pdf: https://arxiv.org/pdf/1502.02763.pdf
@@ -276,7 +276,7 @@ publications:
 
 
 - id: d0b55c610bf45f06e2973b3aa4fac5d76ce6d596
-  title: Intelligent laser welding through representation , prediction , and control learning : An architecture with deep neural networks and reinforcement learning
+  title: "Intelligent laser welding through representation , prediction , and control learning: An architecture with deep neural networks and reinforcement learning"
   authors: Johannes Günther, Patrick M. Pilarski, Gerhard Helfrich, Hao Shen, Klaus Diepold
   conference: 
   pdf: https://pdfs.semanticscholar.org/d0b5/5c610bf45f06e2973b3aa4fac5d76ce6d596.pdf
@@ -304,7 +304,7 @@ publications:
 
 
 - id: b8b1881927930253cba00f23f55d2ca6337d12ed
-  title: Leveraging Cellphones for Wayfinding and Journey Planning in Semi-formal Bus Systems : Lessons from Digital Matatus in Nairobi
+  title: "Leveraging Cellphones for Wayfinding and Journey Planning in Semi-formal Bus Systems: Lessons from Digital Matatus in Nairobi"
   authors: Jacqueline M. Klopp, Sarah Williams, Peter Wagacha Waiganjo, Daniel Orwa, Adam White
   conference: 
   pdf: https://pdfs.semanticscholar.org/10a7/c10f556b36f2c097ffd1e9bc8f8b22f22fb3.pdf
@@ -318,16 +318,16 @@ publications:
 
 
 - id: 0e9b539a268e8133c00faf875f1ba33c4444f7a9
-  title: Wearable Sensor/Device (Fitbit One) and SMS Text-Messaging Prompts to Increase Physical Activity in Overweight and Obese Adults: A Randomized Controlled Trial.
+  title: "Wearable Sensor/Device (Fitbit One) and SMS Text-Messaging Prompts to Increase Physical Activity in Overweight and Obese Adults A Randomized Controlled Trial."
   authors: Julie B. Wang, Lisa A Cadmus-Bertram, Loki Natarajan, Martha White, Hala Madanat, Jeanne Nichols, Guadalupe Xochitl Ayala, John P Pierce
-  conference: Telemedicine journal and e-health : the official journal of the American Telemedicine Association
+  conference: "Telemedicine journal and e-health: the official journal of the American Telemedicine Association"
   pdf: https://pdfs.semanticscholar.org/0e9b/539a268e8133c00faf875f1ba33c4444f7a9.pdf
 
 
 - id: ff13c75aaefb76d5878a7d8404e6b5d9c3799f7e
   title: Trends in use of little cigars or cigarillos and cigarettes among U.S. smokers, 2002-2011.
   authors: Karen S Messer, Martha White, David R. Strong, Baoguang Wang, Yuyan Shi, Kevin P. Conway, John P Pierce
-  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  conference: "Nicotine & tobacco research: official journal of the Society for Research on Nicotine and Tobacco"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/25239955
 
 
@@ -339,7 +339,7 @@ publications:
 
 
 - id: 93ee6492914e741c88cb4370afacd12299e7a3a7
-  title: Measurement of multiple nicotine dependence domains among cigarette, non-cigarette and poly-tobacco users: Insights from item response theory.
+  title: "Measurement of multiple nicotine dependence domains among cigarette, non-cigarette and poly-tobacco users: Insights from item response theory."
   authors: David R. Strong, Karen S Messer, Sheri J Hartman, Kevin P. Conway, Allison C Hoffman, Nikolas Pharris-Ciurej, Martha White, Victoria R Green, Wilson M. Compton, John P Pierce
   conference: Drug and alcohol dependence
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/26005043
@@ -348,7 +348,7 @@ publications:
 - id: c69b773158c911a90114e0c9e2966b6d21d88776
   title: Predictive Validity of the Expanded Susceptibility to Smoke Index.
   authors: David R. Strong, Sheri J Hartman, Jesse N. Nodora, Karen S Messer, Lisa James, Martha White, David B. Portnoy, Conrad J. Choinière, Genevieve C. Vullo, John P Pierce
-  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  conference: "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/25481915
 
 
@@ -369,12 +369,12 @@ publications:
 - id: b86b5da1e14c53968571e60f98890a6cec762422
   title: Pairwise Relative Offset Features for Atari 2600 Games
   authors: Erik Talvitie, Michael H. Bowling
-  conference: AAAI Workshop: Learning for General Competency in Video Games
+  conference: "AAAI Workshop: Learning for General Competency in Video Games"
   pdf: https://pdfs.semanticscholar.org/b86b/5da1e14c53968571e60f98890a6cec762422.pdf
 
 
 - id: cc2d378e8472abd558a13dbc6aab559bf53ff9b1
-  title: Policy Tree: Adaptive Representation for Policy Gradient
+  title: "Policy Tree: Adaptive Representation for Policy Gradient"
   authors: Ujjwal Das Gupta, Erik Talvitie, Michael H. Bowling
   conference: AAAI
   pdf: https://pdfs.semanticscholar.org/e663/43d66d8ff63f10303b3fb08f65bebd222c02.pdf
@@ -383,7 +383,7 @@ publications:
 - id: 28386ad2b37548a480ff43b94fef33ac132f20b4
   title: Solving Games with Functional Regret Estimation
   authors: Kevin Waugh, Dustin Morrill, J. Andrew Bagnell, Michael H. Bowling
-  conference: AAAI Workshop: Computer Poker and Imperfect Information
+  conference: "AAAI Workshop: Computer Poker and Imperfect Information"
   pdf: https://arxiv.org/pdf/1411.7974.pdf
 
 
@@ -397,7 +397,7 @@ publications:
 - id: a86fcb8c2aec1596434cb1cc5db47741f59d4cb3
   title: Domain-Independent Optimistic Initialization for Reinforcement Learning
   authors: Marlos C. Machado, Sriram Srinivasan, Michael H. Bowling
-  conference: AAAI Workshop: Learning for General Competency in Video Games
+  conference: "AAAI Workshop: Learning for General Competency in Video Games"
   pdf: https://arxiv.org/pdf/1410.4604.pdf
 
 
