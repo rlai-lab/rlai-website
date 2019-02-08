@@ -1,0 +1,255 @@
+yearname: 2011
+publications:
+
+
+- id: 153dcdb9ffbd61f7f90cae0d44c154b3c0146359
+  title: Online human training of a myoelectric prosthesis controller via actor-critic reinforcement learning
+  authors: Patrick M. Pilarski, Michael Rory Dawson, Thomas Degris, Farbod Fahimi, Jason P. Carey, Richard S. Sutton
+  conference: 2011 IEEE International Conference on Rehabilitation Robotics
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5975338
+
+
+- id: ff0108d7d8c95303ee1fcbfb840b70f2bd8c67ee
+  title: Beyond Reward: The Problem of Knowledge and Data
+  authors: Richard S. Sutton
+  conference: ILP
+  pdf: https://pdfs.semanticscholar.org/ff01/08d7d8c95303ee1fcbfb840b70f2bd8c67ee.pdf
+
+
+- id: d51907684b6b189a6eddc718f9ac44fa7833fac3
+  title: Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction
+  authors: Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White, Doina Precup
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/d519/07684b6b189a6eddc718f9ac44fa7833fac3.pdf
+
+
+- id: 341e606f33e711eb17376cc02214ba514cceedd3
+  title: Real-Time Discriminative Background Subtraction
+  authors: Li Cheng, Minglun Gong, Dale Schuurmans, Terry Caelli
+  conference: IEEE Transactions on Image Processing
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5604690
+
+
+- id: 0452492ed4322e2684a2580abf47bf8dd322603f
+  title: Adaptive large margin training for multilabel classification
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: AAAI 2011
+  pdf: http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3455
+
+
+- id: 6423591f15f7e09b4b1d690e000d177e08eaf426
+  title: Modular community detection in networks
+  authors: Wenye Li, Dale Schuurmans
+  conference: IJCAI 2011
+  pdf: http://doi.org/10.5591/978-1-57735-516-8%2FIJCAI11-231
+
+
+- id: 238ac8feb02e0016fcfa8f71a684da0d15660d2c
+  title: Convex Sparse Coding, Subspace Learning, and Semi-Supervised Extensions
+  authors: Xinhua Zhang, Yaoliang Yu, Martha White, Ruitong Huang, Dale Schuurmans
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/238a/c8feb02e0016fcfa8f71a684da0d15660d2c.pdf
+
+
+- id: 0123de562ceed2c23638e9b264e23872a59e7007
+  title: Advances in Large Margin Classifiers
+  authors: Alexander J. Smola, Peter Bartlett, Bernhard Schölkopf, Dale Schuurmans, Alex Smola
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/0123/de562ceed2c23638e9b264e23872a59e7007.pdf
+
+
+- id: 3e45710dfb1101b6842c51b1b6b0e2c5a51560ec
+  title: Rank/Norm Regularization with Closed-Form Solutions: Application to Subspace Clustering
+  authors: Yaoliang Yu, Dale Schuurmans
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1202.3772.pdf
+
+
+- id: d171424c1c87afdd3d169b4df781797820eeec62
+  title: MapReduce for Parallel Reinforcement Learning
+  authors: Yuxi Li, Dale Schuurmans
+  conference: EWRL
+  pdf: https://pdfs.semanticscholar.org/d171/424c1c87afdd3d169b4df781797820eeec62.pdf
+
+
+- id: b1d047026a083856a1b75d8a493f1060e3b42f2e
+  title: Editors' Introduction
+  authors: Jyrki Kivinen, Csaba Szepesvári, Esko Ukkonen, Thomas Zeugmann
+  conference: ALT
+  pdf: http://doi.org/10.1007/978-3-642-24412-4_1
+
+
+- id: 05d5d1fa3b4b723994e4fb9238c4dcde62d6cd00
+  title: Regret Bounds for the Adaptive Control of Linear Quadratic Systems
+  authors: Yasin Abbasi-Yadkori, Csaba Szepesvári
+  conference: COLT
+  pdf: https://pdfs.semanticscholar.org/e874/eeba5e13c1cab66669e9413ef56bcb3f83a2.pdf
+
+
+- id: 03c3150b9dbdbd27350be28be587db0da5b284f4
+  title: Agnostic KWIK learning and efficient approximate reinforcement learning
+  authors: István Szita, Csaba Szepesvári
+  conference: COLT
+  pdf: https://pdfs.semanticscholar.org/769a/88591a60d816d5b58b0350039c80f34f9c1d.pdf
+
+
+- id: 95cf5515627fbeac4110b126a48623878dc21aa8
+  title: Regularized Least-Squares Regression : Learning from a β-mixing Sequence
+  authors: Amir-massoud Farahmand, Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/244d/b45b7cd61e0717be7032e78c6a612ef3b49a.pdf
+
+
+- id: 5ff112d4dd277f6c3372e249886d282d9f49d5b5
+  title: Online Least Squares Estimation with Self-Normalized Processes: An Application to Bandit Problems
+  authors: Yasin Abbasi-Yadkori, Dávid Pál, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1102.2670.pdf
+
+
+- id: 49397e939fc17690f2e4b4941537254f8258ce0a
+  title: PAC-Bayesian Policy Evaluation for Reinforcement Learning
+  authors: Mahdi Milani Fard, Joelle Pineau, Csaba Szepesvári
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1202.3717.pdf
+
+
+- id: 53ada43743cfdc20ad9b0aa7018ed2bf0ec81f1c
+  title: Minimax Regret of Finite Partial-Monitoring Games in Stochastic Environments
+  authors: Gábor Bartók, Dávid Pál, Csaba Szepesvári
+  conference: COLT
+  pdf: https://pdfs.semanticscholar.org/8cf9/8188d29e5bfb0b210d8b289da79db1f611e0.pdf
+
+
+- id: fd44111d9f6b69029660a70ebc5c73869629b5af
+  title: Improved Algorithms for Linear Stochastic Bandits (extended version)
+  authors: Yasin Abbasi-Yadkori, Dr. Abhay Charan Pal, Csaba Szepesvári
+  conference: 
+  pdf: 
+
+
+- id: 294bdb20df196f402a4f5e54a1375c4ac2765fe3
+  title: Non-trivial two-armed partial-monitoring games are bandits
+  authors: András Antos, Gábor Bartók, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1108.4961.pdf
+
+
+- id: b2b427219bed5c0f83ad3fe5a3d285313759f5d2
+  title: Least Squares Temporal Difference Learning and Galerkin ’ s Method
+  authors: Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/b2b4/27219bed5c0f83ad3fe5a3d285313759f5d2.pdf
+
+
+- id: 11465688b3e2ce4ac0208c6f016861973ffaab6e
+  title: Improved Algorithms for Linear Stochastic Bandits
+  authors: Yasin Abbasi-Yadkori, Dávid Pál, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/461a/789e3590933f09f6cb55292ae22fcc23694b.pdf
+
+
+- id: 5326d829fb0e1b2881023c5a676b5305656ef9c6
+  title: Invited Talk: Towards Robust Reinforcement Learning Algorithms
+  authors: Csaba Szepesvári
+  conference: 
+  pdf: http://doi.org/10.1007/978-3-642-29946-9_4
+
+
+- id: 52cb621f6d81244815f71da2fc020bd894ae994c
+  title: Sequential learning for optimal monitoring of multi-channel wireless networks
+  authors: Pallavi Arora, Csaba Szepesvári, Rong Zheng
+  conference: 2011 Proceedings IEEE INFOCOM
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5934892
+
+
+- id: 158c1f09213b2faed2d1312d096d6908e23494df
+  title: X-Armed Bandits
+  authors: Sébastien Bubeck, Rémi Munos, Gilles Stoltz, Csaba Szepesvári
+  conference: Journal of Machine Learning Research
+  pdf: https://arxiv.org/pdf/1001.4475.pdf
+
+
+- id: 81426c3176e87de5885713f8efadd783425fa121
+  title: Complex Interactions and Ecosystem Function: Auto-regulation of an Insect Community in a Coffee Agroecosystem by
+  authors: Heidi Liere, John H. Vandermeer, Robyn J. Burnham, Ivette Perfecto, Braulio Chilel, Gabriel Dominguez, George R. Livingston, Carley J Kratz, Adam White, StacyM. Philpott
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/8142/6c3176e87de5885713f8efadd783425fa121.pdf
+
+
+- id: f18288dfa051b470fba60dfcfa9bbe3fa44d7dc0
+  title: Prevalence and correlates of suicidal ideation among outpatients at a comprehensive cancer center.
+  authors: J. Michael Randall, Lyudmila Bazhenova, Martha White, Anjali A Bharne, Kelly Anne Shimabukuro, Yuri Matusov, Karen S Messer, Amy E. Lowery, Matthew J Loscalzo, Karen Lynn Clark, Wayne A. Bardwell
+  conference: 
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/28021643
+
+
+- id: e99afe82413abc846d337126306672b2bbf18920
+  title: Obesity increases and physical activity decreases lower urinary tract symptom risk in older men: the Osteoporotic Fractures in Men study.
+  authors: J Kellogg Parsons, Karen Messer, Martha White, Elizabeth Barrett-Connor, Doug Bauer, Lynn M Marshall
+  conference: European urology
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/21802828
+
+
+- id: 75fbbbdcee0d37be3c9a6461fba37a99f1496947
+  title: Prevalence of heavy smoking in California and the United States, 1965-2007.
+  authors: John P Pierce, Karen S. Messer, Martha White, David W. Cowling, David P Thomas
+  conference: JAMA
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/21406647
+
+
+- id: b995ff0297c2c05e4c9e10f75d58fda6a5b7213c
+  title: TRY – a global database of plant traits
+  authors: Jens Kattge, Sandra Díaz, Sandra Lavorel, I Colin Prentice, Paul W. Leadley, Gerhard Boenisch, Eric Garnier, Mark Westoby, Peter B. Reich, Ian J Wright, Johannes H C Cornelissen, Cyrille Violle, Sandy P Harrison, Peter M van Bodegom, Markus Reichstein, Brian J. Enquist, Nadejda A. Soudzilovskaia, David D. Ackerly, Madhur Anand, Owen K Atkin, Michael Bahn, Timothy R. Baker, D. Baldocchi, Renée Bekker, Carolina C. Blanco, Benjamin Blonder, William J Bond, R. A. Bradstock, Daniel E. Bunker, Fernando Casanoves, Jeannine Cavender-Bares, Jeffrey Q. Chambers, F. Stuart Chapin, Jérôme Chave, David Anthony Coomes, William K. Cornwell, Joseph M. Craine, Barbara H. Dobrin, Lina Duarte, Walter Durka, Jim Elser, Gabrielle Esser, M. Angels Estiarte, William F. Fagan, Jiacheng Fang, Felipe Fernández-Méndez, Anthony Fidelis, Bryan Finegan, Olivier Flores, Heather Ford, Daniel Frank, Grégoire T Freschet, Nikolaos M. Fyllas, Rachael V. Gallagher, William A. Green, Alvaro G. Gutiérrez, Thomas Hickler, Steven Ian Higgins, John G Hodgson, Adel Jalili, Stephanie Jansen, Carlos A. Joly, Andrew J. Kerkhoff, Donald Kirkup, Kaoru Kitajima, Michael Kleyer, Stefan Klotz, Johannes M. H. Knops, K Kramer, Ingolf Kühn, Hiroko Kurokawa, Dan Laughlin, Tsung D. Lee, Michelle R Leishman, Frederic Lens, Thomas Lenz, Simon L. Lewis, Jananee Lloyd, Joan Llusià, Frédérique Louault, Shuqing Ma, Miguel D. Mahecha, Pete Manning, Tara Joy Massad, Belinda E Medlyn, Julie Messier, Angela T. Moles, Sandra Cristina Müller, Karin Nadrowski, Shahid Naeem, Ülo Niinemets, S Nöllert, A Nüske, Romà Ogaya, Jacek Oleksyn, Vladimir G. Onipchenko, Yusuke Onoda, J. Ordonez, Gritt Overbeck, Wim A Ozinga, Sandra Patiño, Susana Paula, Juli G. Pausas, Josep Peñuelas, Oliver L Phillips, Valério D. Pillar, Hendrik Poorter, Lourens Poorter, Peter Poschlod, Andreas Prinzing, Raphaël Proulx, Anja Rammig, Sabine Reinsch, Björn Reu, Lawren Sack, Beatriz Salgado-Negret, Jordi Sardans, Satomi Shiodera, Bill Shipley, Andrew Siefert, Enio E. Sosinski, J. Soussana, Emily K. Swaine, Natalia Swenson, Ken Thompson, Pat Thornton, Michael Waldram, Evan Weiher, Martha White, Sarah White, S Joseph Wright, Benjamin Yguel, Sönke Zaehle, Amy E. Zanne, Chris Wirth
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/a166/7dda16fb4d572d26d1f630c0106fe45ee3e1.pdf
+
+
+- id: 48e9b40ee2fa7f69881c8934d762713dff4b69a0
+  title: A nationwide analysis of US racial/ethnic disparities in smoking behaviors, smoking cessation, and cessation-related factors.
+  authors: Dennis R. Trinidad, Eliseo J. Pérez-Stable, Martha White, Sherry L Emery, Karen S Messer
+  conference: American journal of public health
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/21330593
+
+
+- id: f5cab1f44c4b0298a801881efea12693fcbd3424
+  title: Increasing hookah use in California.
+  authors: Joshua R. Smith, Steven Edland, Thomas E. Novotny, C. Richard Hofstetter, Martha White, Suzanne Lindsay, Wael K. Al-Delaimy
+  conference: American journal of public health
+  pdf: https://pdfs.semanticscholar.org/f5ca/b1f44c4b0298a801881efea12693fcbd3424.pdf
+
+
+- id: a67c1205933e14ad44497f9e8b8d90ad574c4acd
+  title: Home smoking bans among U.S. households with children and smokers. Opportunities for intervention.
+  authors: Alice L Mills, Martha White, John P Pierce, Karen S. Messer
+  conference: American journal of preventive medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/22099231
+
+
+- id: 2964eafda3fef0c690e04b51ed7a7cd4d800d38c
+  title: The lemonade stand game competition: solving unsolvable games
+  authors: Martin Zinkevich, Michael H. Bowling, Michael Wunder
+  conference: SIGecom Exchanges
+  pdf: http://dl.acm.org/citation.cfm?id=1978730
+
+
+- id: 101199b83e752feac98746b9ee60eaf7c028f7ae
+  title: Variance Reduction in Monte-Carlo Tree Search
+  authors: Joel Veness, Marc Lanctot, Michael H. Bowling
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/9b95/deab7b8760624772fe84ff83b98eb9f046dd.pdf
+
+
+- id: 565e999e30f4f7f50dbf3bb3a89076e210e45816
+  title: Euclidean Heuristic Optimization
+  authors: D. Chris Rayner, Michael H. Bowling, Nathan R. Sturtevant
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/e721/f0180d98f352e266fcdbfc0acccd1298965c.pdf
+
+
+- id: 43c9c2b585b79682bc2e97aa9fe72905bc47e10a
+  title: Accelerating Best Response Calculation in Large Extensive Games
+  authors: Michael Johanson, Kevin Waugh, Michael H. Bowling, Martin Zinkevich
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/89ef/8be7c7f5e1787e10ca14b4c9ef8283f05ee8.pdf
+

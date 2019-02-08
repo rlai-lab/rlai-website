@@ -1,0 +1,213 @@
+yearname: 2004
+publications:
+
+
+- id: e485276f7e7ae26ced5b93f2ffe7ebe5f4407af7
+  title: TD Networks
+  authors: Richard S. Sutton, Brian Tanner
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/e485/276f7e7ae26ced5b93f2ffe7ebe5f4407af7.pdf
+
+
+- id: c9404262274a05987366a5b9085d14a66266f4f4
+  title: Introduction: The challenge of reinforcement learning
+  authors: Richard S. Sutton
+  conference: Machine Learning
+  pdf: http://doi.org/10.1007/BF00992695
+
+
+- id: 1a5b991229bbdb3481341ab843adeed5a96d36ee
+  title: Associative search network: A reinforcement learning associative memory
+  authors: Andrew G. Barto, Richard S. Sutton, Peter S. Brouwer
+  conference: Biological Cybernetics
+  pdf: http://doi.org/10.1007/BF00453370
+
+
+- id: 5d0a7ebd3bc2d25deee869e8ef3dd80f9278607d
+  title: Reinforcement learning with replacing eligibility traces
+  authors: Satinder P. Singh, Richard S. Sutton
+  conference: Machine Learning
+  pdf: http://doi.org/10.1007/BF00114726
+
+
+- id: 43de47e495d1359044057cab4687dd72ea2877ee
+  title: Temporal-Difference Networks
+  authors: Richard S. Sutton, Brian Tanner
+  conference: NIPS
+  pdf: https://arxiv.org/pdf/1504.05539.pdf
+
+
+- id: 7ec8876f219b3b3d5c894a3f395c89c382029cc5
+  title: Appeared in Proceedings of the Seventh Yale Workshop on Adaptive and Learning Systems pp Gain Adaptation Beats Least Squares
+  authors: Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/7ec8/876f219b3b3d5c894a3f395c89c382029cc5.pdf
+
+
+- id: ef63d8c4fedf4b05a4e3c7cea24965b97f0459e7
+  title: Exploiting syntactic, semantic and lexical regularities in language modeling via directed Markov random fields
+  authors: Shaojun Kang, Shaomin Wang, Russell Greiner, Dale Schuurmans, Li Cheng
+  conference: ISCSLP
+  pdf: http://doi.org/10.1109/CHINSL.2004.1409647
+
+
+- id: dc977d1bf359897894a1c9b75269cd8eedcd6a39
+  title: Learning mixture models with the regularized latent maximum entropy principle
+  authors: Shaojun Wang, Dale Schuurmans, Fuchun Peng, Yunxin Zhao
+  conference: IEEE Transactions on Neural Networks
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1310362
+
+
+- id: 2d3deb0030f0f3ca92c0d389624819e62b11f31a
+  title: Dynamic Web log session identification with statistical language models
+  authors: Xiangji Huang, Fuchun Peng, Aijun An, Dale Schuurmans
+  conference: JASIST
+  pdf: http://doi.org/10.1002/asi.20084
+
+
+- id: e5942044f0a3f9a7966259b6e262e202892a6641
+  title: Transformation-Invariant Embedding for Image Analysis
+  authors: Ali Ghodsi, Jiayuan Huang, Dale Schuurmans
+  conference: ECCV
+  pdf: https://pdfs.semanticscholar.org/e594/2044f0a3f9a7966259b6e262e202892a6641.pdf
+
+
+- id: 5f93423c41914639a147ad8dd589967daf2ea877
+  title: Maximum Margin Clustering
+  authors: Linli Xu, James Neufeld, Bryce Larson, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/6d2a/86a57f3a8b0a51f7592df8d67414c254d873.pdf
+
+
+- id: b031676367331cd6ec32d45af9c65a3b163f1afc
+  title: Augmenting Naive Bayes Classifiers with Statistical Language Models
+  authors: Fuchun Peng, Dale Schuurmans, Shaojun Wang
+  conference: Information Retrieval
+  pdf: http://doi.org/10.1023/B%3AINRT.0000011209.19643.e2
+
+
+- id: 45f53c0b4290bc48f2ad2c144b1ff73292736df2
+  title: Exploiting syntactic, semantic and lexical regularities in language modeling via directed Markov random fields
+  authors: Shaojun Wang, Shaomin Wang, Russell Greiner, Dale Schuurmans, Li Cheng
+  conference: 2004 International Symposium on Chinese Spoken Language Processing
+  pdf: http://dl.acm.org/citation.cfm?id=1102471
+
+
+- id: 6f81f1c8eda56cb251c4cd2ae06182452d4bb074
+  title: Computer Aided Diagnosis of Clustered Microcalci fi cations Using Arti fi cial Neural Nets
+  authors: Erich Sorantin, Ferdinand Schmidt, Heinz Mayer, Michael Becker, Csaba Szepesvári, E. Graif, Peter Winkler
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/6f81/f1c8eda56cb251c4cd2ae06182452d4bb074.pdf
+
+
+- id: d8692ed38ba1b66612328e0e69e161eb9e05728f
+  title: Shortest Path Discovery Problems: A Framework, Algorithms and Experimental Results
+  authors: Csaba Szepesvári
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/d9a5/f77fb2f2c17127678c077f7abf4b28061d47.pdf
+
+
+- id: 2816368ceb86f74c7b28e0a069158767fcaa0625
+  title: Interpolation-based Q-learning
+  authors: Csaba Szepesvári, William D. Smart
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1015445
+
+
+- id: 28b14178690587c7a1b7ca4ba359f303aed83981
+  title: Kernel Machine Based Feature Extraction Algorithms for Regression Problems
+  authors: Csaba Szepesvári, András Kocsor, Kornél Kovács
+  conference: ECAI
+  pdf: https://pdfs.semanticscholar.org/63c2/6d45b6b1c79509893b12308246b2dde31b1f.pdf
+
+
+- id: 2468ab99fbdef0dde10af0cb9ab05c5413e6aa86
+  title: Enhancing Particle Filters Using Local Likelihood Sampling
+  authors: Péter Torma, Csaba Szepesvári
+  conference: eccv 2004
+  pdf: http://doi.org/10.1007/978-3-540-24670-1_2
+
+
+- id: 3d368cd0f64e77a6fe5b71c503f3738681aa550a
+  title: Margin Maximizing Discriminant Analysis
+  authors: András Kocsor, Kornél Kovács, Csaba Szepesvári
+  conference: ECML
+  pdf: https://pdfs.semanticscholar.org/54e9/e2a8136a00cb2858f73b6f3d44072a38699f.pdf
+
+
+- id: 41b16eb5cad45d38d9b3ebea47fa8246dbfda487
+  title: Hyaluronan Synthases and RHAMM as Synergistic Mediators of Malignancy in B Lineage Cancers
+  authors: Linda M. Pilarski, Sophia Adamia, Christopher A Maxwell, Patrick M. Pilarski, T. H. Reiman, Andrew R. Belch
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/41b1/6eb5cad45d38d9b3ebea47fa8246dbfda487.pdf
+
+
+- id: f660a29854b15162c9f6fd182daaa25e45bed5bf
+  title: Improved Diagnosis and Monitoring of Cancer Using Portable Microfluidics Platforms
+  authors: Linda M. Pilarski, Sophia Adamia, Patrick M. Pilarski, Ranjit Prakash, Jana Lauzon, Christopher J. Backhouse
+  conference: 2004 International Conference on MEMS, NANO and Smart Systems (ICMENS'04)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1508971
+
+
+- id: 478283f901a09acea0480b6bc67c83b1e26f0951
+  title: OSS through Java as an Implementation of NGOSS A White Paper
+  authors: Adam White
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/4782/83f901a09acea0480b6bc67c83b1e26f0951.pdf
+
+
+- id: 5c9b1a38759af4a273471ea49d2ce3818d1ecdd3
+  title: Efficacy and safety of fluticasone propionate/salmeterol HFA 134A MDI in patients with mild-to-moderate persistent asthma.
+  authors: David S. Pearlman, David Peden, John J. Condemi, Steven Weinstein, Martha White, Leslie A Baitinger, Catherine Scott, Suzanne Ho, Karen House, Paul M Dorinsky
+  conference: The Journal of asthma : official journal of the Association for the Care of Asthma
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/15641629
+
+
+- id: 9df0a3da1f2937b0d104a57750fef423c10d73eb
+  title: Patient-centered communication: do patients really prefer it?
+  authors: Sara L. Swenson, Stephanie Buell, Patti Zettler, Martha White, Delaney C. Ruston, Bernard Lo
+  conference: Journal of general internal medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/15566435
+
+
+- id: 149a748f024abbe0024cb3631ddd7e813b453be0
+  title: STP : Skills , tactics and plays for multi-robot control in adversarial environments
+  authors: Brett Browning, James Bruce, Michael H. Bowling, Manuela M. Veloso
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/149a/748f024abbe0024cb3631ddd7e813b453be0.pdf
+
+
+- id: d8fe28c0def554733ec6042b561430607c0331c6
+  title: Game-Tree Search with Adaptation in Stochastic Imperfect-Information Games
+  authors: Darse Billings, Aaron Davidson, Terence Schauenberg, Neil Burch, Michael H. Bowling, Robert C. Holte, Jonathan Schaeffer, Duane Szafron
+  conference: Computers and Games
+  pdf: http://doi.org/10.1007/11674399_2
+
+
+- id: 5663693c64f4059e02746872447879cc7e028fe6
+  title: Safe Strategies for Agent Modelling in Games
+  authors: Peter McCracken, Michael H. Bowling
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/5663/693c64f4059e02746872447879cc7e028fe6.pdf
+
+
+- id: 713b0556c57ae3e415b92623303ab979657c86fd
+  title: Convergence and No-Regret in Multiagent Learning
+  authors: Michael H. Bowling
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/7bcb/1225984a26dfe1a343b180269c6d62c6ec46.pdf
+
+
+- id: 0d0aec8b2d01d6df2329d78255b777bf84a8934e
+  title: Existence of Multiagent Equilibria with Limited Agents
+  authors: Michael H. Bowling, Manuela M. Veloso
+  conference: J. Artif. Intell. Res.
+  pdf: https://arxiv.org/pdf/1107.0033.pdf
+
+
+- id: 0216f51e5b43ce5c1f3f67347215b67de2171719
+  title: Plays as Effective Multiagent Plans Enabling Opponent-Adaptive Play Selection
+  authors: Michael H. Bowling, Brett Browning, Manuela M. Veloso
+  conference: ICAPS
+  pdf: https://pdfs.semanticscholar.org/31d6/bdeba5bc8d5cd253b42bf0a145a7d79339e0.pdf
+

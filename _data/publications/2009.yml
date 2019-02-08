@@ -1,0 +1,311 @@
+yearname: 2009
+publications:
+
+
+- id: 6a40ffc156aea0c9abbd92294d6b729d2e5d5797
+  title: Natural actor-critic algorithms
+  authors: Shalabh Bhatnagar, Richard S. Sutton, Mohammad Ghavamzadeh, Mark Lee
+  conference: Automatica
+  pdf: http://doi.org/10.1016/j.automatica.2009.07.008
+
+
+- id: c55325ae70a6374500384242a5a04abdef879579
+  title: Natural Actor – Crit ic Algorithms
+  authors: Shalabh Bhatnagar, Richard S. Sutton, Mohammad Ghavamzadeh, M. Lee
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/c553/25ae70a6374500384242a5a04abdef879579.pdf
+
+
+- id: 22e1202d0bd277afe702b924a8df15f9328fc206
+  title: Fast gradient-descent methods for temporal-difference learning with linear function approximation
+  authors: Richard S. Sutton, Hamid Reza Maei, Doina Precup, Shalabh Bhatnagar, David Silver, Csaba Szepesvári, Eric Wiewiora
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1553501
+
+
+- id: fd572975fa664d559a2496e709822291eb340601
+  title: Multi-Step Dyna Planning for Policy Evaluation and Control
+  authors: Hengshuai Yao, Richard S. Sutton, Shalabh Bhatnagar, Diao Dongcui, Csaba Szepesvári
+  conference: 
+  pdf: http://papers.nips.cc/paper/3670-multi-step-dyna-planning-for-policy-evaluation-and-control
+
+
+- id: 08ac954ed1628d97548a125b4d95d871efff219c
+  title: Convergent Temporal-Difference Learning with Arbitrary Smooth Function Approximation
+  authors: Hamid Reza Maei, Csaba Szepesvári, Shalabh Bhatnagar, Doina Precup, David Silver, Richard S. Sutton
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/ee01/131db47b15e79a55680a403e69f0e8a306c9.pdf
+
+
+- id: fcf250f91a8a84faec0800461c94be97e73d5a94
+  title: The Grand Challenge of Predictive Empirical Abstract Knowledge
+  authors: Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/fcf2/50f91a8a84faec0800461c94be97e73d5a94.pdf
+
+
+- id: 204eda86dd94cebef2b8a322d06c05179f26c39a
+  title: Scalar timing varies with response magnitude in classical conditioning of the nictitating membrane response of the rabbit (Oryctolagus cuniculus).
+  authors: E. James Kehoe, Kirk N. Olsen, Elliot A. Ludvig, Richard S. Sutton
+  conference: Behavioral neuroscience
+  pdf: https://pdfs.semanticscholar.org/204e/da86dd94cebef2b8a322d06c05179f26c39a.pdf
+
+
+- id: ab96ac9914aefd0e85124e5630bec3f2aa8112f9
+  title: Magnitude and timing of conditioned responses in delay and trace classical conditioning of the nictitating membrane response of the rabbit (Oryctolagus cuniculus).
+  authors: E. James Kehoe, Elliot A. Ludvig, Richard S. Sutton
+  conference: Behavioral neuroscience
+  pdf: https://pdfs.semanticscholar.org/ab96/ac9914aefd0e85124e5630bec3f2aa8112f9.pdf
+
+
+- id: 416bc4094a1f43cfefe5d9267561afd02e84dd12
+  title: Dual Temporal Difference Learning
+  authors: Min Yang, Yuxi Li, Dale Schuurmans
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/416b/c4094a1f43cfefe5d9267561afd02e84dd12.pdf
+
+
+- id: 31ab1acec9b10db1112c9f711f56fff3a4710146
+  title: Learning Exercise Policies for American Options
+  authors: Yuxi Li, Csaba Szepesvári, Dale Schuurmans
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/31ab/1acec9b10db1112c9f711f56fff3a4710146.pdf
+
+
+- id: 2c5ccb08ca47e74107531ea91f98106e4a1102cf
+  title: Optimal reverse prediction: a unified perspective on supervised, unsupervised and semi-supervised learning
+  authors: Linli Xu, Martha White, Dale Schuurmans
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1553519
+
+
+- id: a60fd4a7830f17a5420bb2b0a242b2533390935b
+  title: Linear Coherent Bi-cluster Discovery via Line Detection and Sample Majority Voting
+  authors: Yi Shi, Zhipeng Cai, Guohui Lin, Dale Schuurmans
+  conference: COCOA
+  pdf: https://pdfs.semanticscholar.org/a60f/d4a7830f17a5420bb2b0a242b2533390935b.pdf
+
+
+- id: 5686a1a56bb19ca9bf1b89ef4c60054b218082d1
+  title: Discriminative Maximum Margin Image Object Categorization with Exact Inference
+  authors: Qinfeng Shi, Luping Zhou, Li Cheng, Dale Schuurmans
+  conference: 2009 Fifth International Conference on Image and Graphics
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5437830
+
+
+- id: 1c7df6c10dcdbd92c98d42958855d283e62e4073
+  title: A General Projection Property for Distribution Families
+  authors: Yaoliang Yu, Yuxi Li, Dale Schuurmans, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/6245/b077bf03cd392891e6e2f6a97640087873f6.pdf
+
+
+- id: 363d74083f74484cb9bbacf7923ce214c77e5ab0
+  title: A Reformulation of Support Vector Machines for General Confidence Functions
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: ACML
+  pdf: https://pdfs.semanticscholar.org/363d/74083f74484cb9bbacf7923ce214c77e5ab0.pdf
+
+
+- id: 0aeb2b66a7c48b2fef5cdf5990d83759b4e080d1
+  title: Convex Relaxation of Mixture Regression with Efficient Algorithms
+  authors: Novi Quadrianto, Tibério S. Caetano, John Lim, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/267a/51ccdffd81261686b397ceec4a068ab19c56.pdf
+
+
+- id: cb0e71c35964b2735ff19f7b75157226d351c71c
+  title: Inference of the structural credit risk model using MLE
+  authors: Yuxi Li, Li Cheng, Dale Schuurmans
+  conference: 2009 IEEE Symposium on Computational Intelligence for Financial Engineering
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4937496
+
+
+- id: 170d7e95582acffa6f0345e616b1dfa80db31373
+  title: Fast normalized cut with linear constraints
+  authors: Linli Xu, Wenye Li, Dale Schuurmans
+  conference: 2009 IEEE Conference on Computer Vision and Pattern Recognition
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206561
+
+
+- id: 469314dc6eba790eb686fdf98c8fc756c25a1578
+  title: Regularized Fitted Q-Iteration for planning in continuous-space Markovian decision problems
+  authors: Amir Massoud Farahmand, Mohammad Ghavamzadeh, Csaba Szepesvári, Shie Mannor
+  conference: 2009 American Control Conference
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5160611
+
+
+- id: 57f795d38660e6ba9e20427902b4473f0d4a8c8e
+  title: Model-based and Model-free Reinforcement Learning for Visual Servoing
+  authors: Amir Massoud Farahmand, Azad Shademan, Martin Jägersand, Csaba Szepesvári
+  conference: ICRA 2009
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5152834
+
+
+- id: 4dd87fa846dc344dcce5fb12de283a0d51dfe140
+  title: Exploration-exploitation tradeoff using variance estimates in multi-armed bandits
+  authors: Jean-Yves Audibert, Csaba Szepesvári
+  conference: Theor. Comput. Sci.
+  pdf: http://doi.org/10.1016/j.tcs.2009.01.016
+
+
+- id: 19bd7fe165d658a0cf0f3f44b92ea7b40152c7ab
+  title: Learning when to stop thinking and do something!
+  authors: Barnabás Póczos, Yasin Abbasi-Yadkori, Csaba Szepesvári, Russell Greiner, Nathan R. Sturtevant
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1553480
+
+
+- id: d02db9617b173c434cf3f9b3b5b9ba357abb1e21
+  title: Training parsers by inverse reinforcement learning
+  authors: Gergely Neu, Csaba Szepesvári
+  conference: Machine Learning
+  pdf: http://doi.org/10.1007/s10994-009-5110-1
+
+
+- id: 0d296cfefec20d0a48861de8f8764341a70168f9
+  title: Reinforcement Learning Algorithms for MDPs
+  authors: Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/3e79/caabc13aed12734ecb9c09067b7524d59de7.pdf
+
+
+- id: 49651833816fd67f5b99004ab6cc3628ad1e4570
+  title: Regularized Fitted Q-iteration: Application to Planning
+  authors: Amir Massoud Farahmand, Mohammad Ghavamzadeh, Csaba Szepesvári, Shie Mannor
+  conference: EWRL
+  pdf: https://pdfs.semanticscholar.org/5ffb/c676dfbc9ed8ee50f0ddd1b8e5e41516a21c.pdf
+
+
+- id: 530b82f9a3dbed0e577a584ca1b75d7866543ea2
+  title: Forced-Exploration Based Algorithms for Playing in Stochastic Linear Bandits
+  authors: Yasin Abbasi-Yadkori, Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/3a89/cc39c9c7f78e4e8828af0d9305bf8b50c58f.pdf
+
+
+- id: 26c14f512b13710100a140222f83bc4ebae3190c
+  title: Learning to segment from a few well-selected training images
+  authors: Alireza Farhangfar, Russell Greiner, Csaba Szepesvári
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1553413
+
+
+- id: 35cf9e34f702a54f94e75c04abfc095d462be9f7
+  title: Regularized Fitted Q-iteration : Application to Bounded Resource Planning
+  authors: Amir Massoud Farahmand, Mohammad Ghavamzadeh, Csaba Szepesvári, Shie Mannor
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/35cf/9e34f702a54f94e75c04abfc095d462be9f7.pdf
+
+
+- id: 0b19c19a5a6dbb816af068d634ed705d007c57e6
+  title: LMS-2: Towards an algorithm that is as cheap as LMS and almost as efficient as RLS
+  authors: Hengshuai Yao, Shalabh Bhatnagar, Csaba Szepesvári
+  conference: Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5400370
+
+
+- id: 234ab850a63219ede22b42ddaead0cb8b7412260
+  title: Workshop summary: On-line learning with limited feedback
+  authors: Jean-Yves Audibert, Peter Auer, Alessandro Lazaric, Rémi Munos, Daniil Ryabko, Csaba Szepesvári
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1553547
+
+
+- id: ba498ce3bf8d6ba65881bfe10e08442465e7d3aa
+  title: Genetic abnormalities in Waldenström's macroglobulinemia.
+  authors: Sophia Adamia, Patrick M. Pilarski, Andrew R. Belch, Linda M. Pilarski
+  conference: Clinical lymphoma & myeloma
+  pdf: https://pdfs.semanticscholar.org/ba49/8ce3bf8d6ba65881bfe10e08442465e7d3aa.pdf
+
+
+- id: 2b9e4c9ee296c884b672caaaff0f7a741a44fc59
+  title: Computational analysis of mitochondrial placement and aggregation effects on wide-angle cell scattering patterns
+  authors: Patrick M. Pilarski, Xuantao Su, D. Moira Glerum, Christopher J. Backhouse
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/2b9e/4c9ee296c884b672caaaff0f7a741a44fc59.pdf
+
+
+- id: 865af2da99c2cc3b9718522fd337368701f12897
+  title: RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments
+  authors: Brian Tanner, Adam M. White
+  conference: Journal of Machine Learning Research
+  pdf: https://pdfs.semanticscholar.org/865a/f2da99c2cc3b9718522fd337368701f12897.pdf
+
+
+- id: 27b54e5a1312a5d3049b1db420022bbbb4ddc999
+  title: Changing age-specific patterns of cigarette consumption in the United States, 1992-2002: association with smoke-free homes and state-level tobacco control activity.
+  authors: John P Pierce, Martha White, Karen S. Messer
+  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/19246423
+
+
+- id: 3b2e30c14415cb2be63d7cf20fe16c5a57690dbd
+  title: Prevalence and correlates of fatigue among patients at a comprehensive cancer center.
+  authors: Anjali A Bharne, Kelly Anne Shimabukuro, Priscilla Vu, Martha White, Paul J. Mills, Wayne A. Bardwell, Karen S Messer, Lyudmila Bazhenova
+  conference: 
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/27963841
+
+
+- id: 079d9552982db71d5808fec260316d359bb81ed4
+  title: Learning a Value Analysis Tool for Agent Evaluation
+  authors: Martha White, Michael H. Bowling
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/3630/a21ec719964417d0b2e2120bdcc4c7d3e57d.pdf
+
+
+- id: d3426896298ab2a4c045820761493ac02c7a3702
+  title: Young adult smoking behavior: implications for future population health.
+  authors: Elizabeth A. Gilpin, Victoria M White, Martha White, John P Pierce
+  conference: American journal of health behavior
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/19296747
+
+
+- id: aef00fbb3e0ecabbb885d4598a11c696358b7e51
+  title: Intermittent and light daily smoking across racial/ethnic groups in the United States
+  authors: Dennis R. Trinidad, Eliseo J. Pérez-Stable, Sherry L Emery, Martha White, Rachel A. Grana, Karen S Messer
+  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/19246433
+
+
+- id: 61c088458297b542bb39c80ac84c88b642fa3e67
+  title: A demonstration of the Polaris poker system
+  authors: Michael H. Bowling, Nicholas Abou Risk, Nolan Bard, Darse Billings, Neil Burch, Joshua Davidson, John Alexander Hawkin, Robert C. Holte, Michael Johanson, Morgan Kan, Bryce Paradis, Jonathan Schaeffer, David Schnizlein, Duane Szafron, Kevin Waugh, Martin Zinkevich
+  conference: AAMAS 2009
+  pdf: http://doi.org/10.1145/1558109.1558310
+
+
+- id: 2e1b053416bd36cd9c82965aa94760f87734b121
+  title: A Practical Use of Imperfect Recall
+  authors: Kevin Waugh, Martin Zinkevich, Michael Johanson, Morgan Kan, David Schnizlein, Michael H. Bowling
+  conference: SARA
+  pdf: https://pdfs.semanticscholar.org/6922/c190de7b71b5df77ca0cb1e0a83c020316ff.pdf
+
+
+- id: 4a46decfd9062777b2507f64d447fa8ee4ebb26c
+  title: Abstraction pathologies in extensive games
+  authors: Kevin Waugh, David Schnizlein, Michael H. Bowling, Duane Szafron
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/af44/15a022818ac8d4709874ad66ded14fa0b86c.pdf
+
+
+- id: 0088aea75b76d7ecd3fa9680ebe778e271c4efcb
+  title: Strategy Grafting in Extensive Games
+  authors: Kevin Waugh, Nolan Bard, Michael H. Bowling
+  conference: NIPS 2009
+  pdf: http://papers.nips.cc/paper/3634-strategy-grafting-in-extensive-games
+
+
+- id: 118cd747fc6af42012a0b40d6b4e0ce2cba0d302
+  title: Monte Carlo Sampling for Regret Minimization in Extensive Games
+  authors: Marc Lanctot, Kevin Waugh, Martin Zinkevich, Michael H. Bowling
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/8a04/bffa11295ed9a2602e22abe002258b01eb60.pdf
+
+
+- id: 020a0a774448c6e6c2ae26d5a66ba6863c6fbc2d
+  title: Data Biased Robust Counter Strategies
+  authors: Michael Johanson, Michael H. Bowling
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/295b/b6e23e80fa86b2c71a43acde9b36f124e2a1.pdf
+

@@ -1,0 +1,381 @@
+yearname: 2014
+publications:
+
+
+- id: ed8cba806100ff5dea78392f3085b5e157886240
+  title: movements during acquisition , extinction , and reacquisition Time course of the rabbit ' s conditioned nictitating membrane
+  authors: James L. Kehoe, Elliot A. Ludvig, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/ed8c/ba806100ff5dea78392f3085b5e157886240.pdf
+
+
+- id: c2c2f74cc3acaf8d5a6453dd112889c3f8d905a0
+  title: Off-policy TD( l) with a true online equivalence
+  authors: Hado van Hasselt, Ashique Rupam Mahmood, Richard S. Sutton
+  conference: UAI
+  pdf: https://pdfs.semanticscholar.org/cf61/31e76680776bd1fb46dab8ab01cd31ff5bd1.pdf
+
+
+- id: 090ff339dede635306cc794046725ad4c5a9916b
+  title: Universal Option Models
+  authors: Hengshuai Yao, Csaba Szepesvári, Richard S. Sutton, Joseph Modayil, Shalabh Bhatnagar
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/efdf/34cf2a8384bbe41c54ec0e8253b61fddd492.pdf
+
+
+- id: 0a38f96395575730abc7c82996d3ed2d89235ef8
+  title: True Online TD ( λ ) Harm
+  authors: van Seijen, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/0a38/f96395575730abc7c82996d3ed2d89235ef8.pdf
+
+
+- id: 5d3dc5306112b216a81afa161afb4cda241f5e1f
+  title: A new Q ( � ) with interim forward view and Monte Carlo equivalence
+  authors: Richard S. Sutton, Ashique Rupam Mahmood
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/5d3d/c5306112b216a81afa161afb4cda241f5e1f.pdf
+
+
+- id: 361acc53b2856ba6f76f4a2f8093701a57dfa3f2
+  title: ADAPTIVE SWITCHING IN PRACTICE : IMPROVING MYOELECTRIC PROSTHESIS PERFORMANCE THROUGH REINFORCEMENT LEARNING
+  authors: Ann L. Edwards, Michael Rory Dawson, Jacqueline S. Hebert, Richard S. Sutton, K. Ming Chan, Patrick M. Pilarski
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/361a/cc53b2856ba6f76f4a2f8093701a57dfa3f2.pdf
+
+
+- id: 12d26ed5bc498f46ac384efc9bd5e7899a395510
+  title: A new Q(lambda) with interim forward view and Monte Carlo equivalence
+  authors: Richard S. Sutton, Ashique Rupam Mahmood, Doina Precup, Hado van Hasselt
+  conference: 
+  pdf: http://jmlr.org/proceedings/papers/v32/sutton14.html
+
+
+- id: a93b14e44980f6e0177ba3ea7ac037daf909408b
+  title: True Online TD(lambda)
+  authors: Harm van Seijen, Richard S. Sutton
+  conference: 
+  pdf: http://jmlr.org/proceedings/papers/v32/seijen14.html
+
+
+- id: 530f8df2b90d3e1c1bd2aeb39747d1fb95274b03
+  title: True Online TD ( λ )
+  authors: Harm van Seijen, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/530f/8df2b90d3e1c1bd2aeb39747d1fb95274b03.pdf
+
+
+- id: 22162abb8f5868938f8da391d3a1d603b3d8ac4c
+  title: Prediction Driven Behavior : Learning Predictions that Drive Fixed Responses
+  authors: Joseph Modayil, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/2216/2abb8f5868938f8da391d3a1d603b3d8ac4c.pdf
+
+
+- id: 51120bb9d14a0e7322c19e6e4353fda41d34f39d
+  title: Weighted importance sampling for off-policy learning with linear function approximation
+  authors: Ashique Rupam Mahmood, Hado van Hasselt, Richard S. Sutton
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/2be7/00f497c1d4ec4905158341a6dcab92a85b6f.pdf
+
+
+- id: 2af4b79131a9b9904d29773380cdfd546908ec5c
+  title: Surprise and Curiosity for Big Data Robotics
+  authors: Adam White, Joseph Modayil, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/2af4/b79131a9b9904d29773380cdfd546908ec5c.pdf
+
+
+- id: 15e01db1331ff9f114250aaf1ddb563e538c2029
+  title: Multi-timescale Nexting in a Reinforcement Learning Robot
+  authors: Joseph Modayil, Adam White, Richard S. Sutton
+  conference: Adaptive Behaviour
+  pdf: https://arxiv.org/pdf/1112.1133.pdf
+
+
+- id: 63b31a2e1e4949fad1d195e11efdec356e1cc7d6
+  title: Time course of the rabbit's conditioned nictitating membrane movements during acquisition, extinction, and reacquisition.
+  authors: E. James Kehoe, Elliot A. Ludvig, Richard S. Sutton
+  conference: Learning & memory
+  pdf: https://pdfs.semanticscholar.org/7e4e/13ea01747626c8813ac2f230cffe81fb8d36.pdf
+
+
+- id: 5316a280fbdb139039034cdfcefa5e6a0b00206e
+  title: Spectral analysis of the heart sounds in children with and without pulmonary artery hypertension.
+  authors: Mohamed Elgendi, Prashant Raviprakash Bobhate, Shreepal Ambalal Jain, Long Bao Guo, Jennifer M. Rutledge, Yashu Coe, Roger J. Zemp, Dale Schuurmans, Ian Adatia
+  conference: International journal of cardiology
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/24630336
+
+
+- id: 02b4a0f8d748a258a7ae5fa9a86dc0e41201ae16
+  title: Adaptive Monte Carlo via Bandit Allocation
+  authors: James Neufeld, András György, Dale Schuurmans, Csaba Szepesvári
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1405.3318.pdf
+
+
+- id: 001f3ddd97c3591cd68758fb174a029bf6c3a12c
+  title: Detection of a and b waves in the acceleration photoplethysmogram
+  authors: Mohamed Elgendi, Ian Norton, Matt Brearley, Derek Abbott, Dale Schuurmans
+  conference: Biomedical engineering online
+  pdf: https://pdfs.semanticscholar.org/0b96/a02567b6a7fda6a685c711e163d00749791b.pdf
+
+
+- id: 34a256eb89fde78d61c2184787f5c3183dae49cc
+  title: Convex Co-embedding
+  authors: Farzaneh Mirzazadeh, Yuhong Guo, Dale Schuurmans
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/4883/fd78a80b30967018add6b7b9511def4fb03e.pdf
+
+
+- id: f487ee1f484a3edd50790e37169e581859b5439c
+  title: Time-domain analysis of heart sound intensity in children with and without pulmonary artery hypertension: a pilot study using a digital stethoscope.
+  authors: Mohamed Elgendi, Prashant Raviprakash Bobhate, Shreepal Ambalal Jain, Jennifer M. Rutledge, James Y. Coe, Roger J. Zemp, Dale Schuurmans, Ian Adatia
+  conference: Pulmonary circulation
+  pdf: https://pdfs.semanticscholar.org/f487/ee1f484a3edd50790e37169e581859b5439c.pdf
+
+
+- id: 0408e7fa336af32f96d4b42d7b1405e590bd9b42
+  title: Convex Deep Learning via Normalized Kernels
+  authors: Özlem Aslan, Xinhua Zhang, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/b674/24fce73406dbd7aa274ace2de3a45b498df2.pdf
+
+
+- id: 1a1905bade3d0f34f26e906f13a14869eaba2210
+  title: On Minimax Optimal Offline Policy Evaluation
+  authors: Lihong Li, Rémi Munos, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1409.3653.pdf
+
+
+- id: b54594757a07f0906dea8fa785766fd644e9818f
+  title: Guest Editors' introduction
+  authors: Jyrki Kivinen, Csaba Szepesvári, Thomas Zeugmann
+  conference: Theor. Comput. Sci.
+  pdf: http://doi.org/10.1016/j.tcs.2013.09.018
+
+
+- id: d5f603e9b8fe68005fe19ad032a7a2fd1a1aaa26
+  title: Generalization Bounds for Partially Linear Models
+  authors: Ruitong Huang, Csaba Szepesvári
+  conference: ISAIM
+  pdf: https://pdfs.semanticscholar.org/d5f6/03e9b8fe68005fe19ad032a7a2fd1a1aaa26.pdf
+
+
+- id: 80f6dc72a17b05896561fac340058acbeacb01f3
+  title: Bayesian Optimal Control of Smoothly Parameterized Systems: The Lazy Posterior Sampling Algorithm
+  authors: Yasin Abbasi-Yadkori, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1406.3926.pdf
+
+
+- id: 20c49fcdfbb38790ed607570688c8af0ec4f1071
+  title: On Learning the Optimal Waiting Time
+  authors: Tor Lattimore, András György, Csaba Szepesvári
+  conference: ALT
+  pdf: https://pdfs.semanticscholar.org/20c4/9fcdfbb38790ed607570688c8af0ec4f1071.pdf
+
+
+- id: 20f9c6c1de10c7d72c37224099b997cfcc2fd5e0
+  title: Sequential Learning for Multi-Channel Wireless Network Monitoring With Channel Switching Costs
+  authors: Thanh Le, Csaba Szepesvári, Rong Zheng
+  conference: IEEE Transactions on Signal Processing
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6898027
+
+
+- id: 0f6f770fd698d855631d3395352042b6b759387a
+  title: Online Learning in Markov Decision Processes with Changing Cost Sequences
+  authors: Travis Dick, András György, Csaba Szepesvári
+  conference: ICML
+  pdf: https://pdfs.semanticscholar.org/0f6f/770fd698d855631d3395352042b6b759387a.pdf
+
+
+- id: 091499c8914e2fe66ac53a21ad5a155edb2194d8
+  title: A Finite-Sample Generalization Bound for Semiparametric Regression: Partially Linear Models
+  authors: Ruitong Huang, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/978c/fa34afc03a7c4a4dbdf352c3d7742b464a13.pdf
+
+
+- id: 132ccdbd22018e7333e83ae9fafb46e781d7bb3c
+  title: Partial Monitoring - Classification, Regret Bounds, and Algorithms
+  authors: Gábor Bartók, Dean P. Foster, Dávid Pál, Alexander Rakhlin, Csaba Szepesvári
+  conference: Math. Oper. Res.
+  pdf: https://pdfs.semanticscholar.org/132c/cdbd22018e7333e83ae9fafb46e781d7bb3c.pdf
+
+
+- id: 6484fe16f29be27d6f89382f6c1f9f58e5004cbd
+  title: Pseudo-MDPs and factored linear action models
+  authors: Hengshuai Yao, Csaba Szepesvári, Bernardo Ávila Pires, Xinhua Zhang
+  conference: 2014 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7010633
+
+
+- id: 4e71c970c2dc2513fd4a0d084d1318aa5b32bdd7
+  title: Optimal Resource Allocation with Semi-Bandit Feedback
+  authors: Tor Lattimore, Koby Crammer, Csaba Szepesvári
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1406.3840.pdf
+
+
+- id: 81cfac924960125a51d8b9a2839b91bdbc2a16fe
+  title: Constructivist Foundations 9(2)
+  authors: Olivier L. Georgeon, Patrick M. Pilarski, Gordana Dodig-Crnkovic
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/81cf/ac924960125a51d8b9a2839b91bdbc2a16fe.pdf
+
+
+- id: 0000fbe3b6b596e6c1b5eb7426c470580eafabcb
+  title: A genome-wide aberrant RNA splicing in patients with acute myeloid leukemia identifies novel potential disease markers and therapeutic targets.
+  authors: Sophia Adamia, Benjamin Haibe-Kains, Patrick M. Pilarski, Michal Bar-Natan, Samuel J. Pevzner, Hervé Avet-Loiseau, Laurence Lodé, Sigitas J. Verselis, Edward Alan Fox, John Burke, Ilene Galinsky, Ibiayi Dagogo-Jack, Martha Wadleigh, David P Steensma, Gabriela Motyckova, Daniel J. Deangelo, John Quackenbush, Richard M Stone, James D Griffin
+  conference: Clinical cancer research : an official journal of the American Association for Cancer Research
+  pdf: https://pdfs.semanticscholar.org/4a23/890ca35d42bdf0ee0e051dc2dae8656ca56f.pdf
+
+
+- id: 45431ddf66be167fb3d161375e5a77dc5667512b
+  title: Proceedings of the first workshop on Peripheral Machine Interfaces: going beyond traditional surface electromyography
+  authors: Claudio Castellini, Panagiotis K. Artemiadis, Michael Wininger, Arash Ajoudani, Merkur Alimusaj, Antonio Bicchi, Barbara Caputo, William Craelius, Strahinja Dosen, Kevin B. Englehart, Dario Farina, Arjan Gijsberts, Sasha Blue Godfrey, Levi J. Hargrove, Mark Ison, Todd A. Kuiken, Marko Marković, Patrick M. Pilarski, Rüdiger Rupp, Erik J. Scheme
+  conference: Front. Neurorobot.
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25177292
+
+
+- id: 4303529498713fdfda2b1cf37670a312df54b88a
+  title: learning by experiencing versus learning by Registering olivier l . Georgeon Radical Constructivism
+  authors: Patrick M. Pilarski
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/4303/529498713fdfda2b1cf37670a312df54b88a.pdf
+
+
+- id: 2bb28e68660acf55bda0f316b66e1a5f49a1610b
+  title: Using Learned Predictions as Feedback to Improve Control and Communication with an Artificial Limb: Preliminary Findings.
+  authors: Adam S. R. Parker, Ann L. Edwards, Patrick M. Pilarski
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1408.1913.pdf
+
+
+- id: 72fdb40f49eb0a79ee9bd955369aa77deb21b63a
+  title: Multilayer General Value Functions for Robotic Prediction and Control
+  authors: Craig Sherstan, Patrick M. Pilarski
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/72fd/b40f49eb0a79ee9bd955369aa77deb21b63a.pdf
+
+
+- id: d4039b8f9528d9ff84d5719d1a913f0dad4fe907
+  title: NOTCH2 and FLT3 gene mis-splicings are common events in patients with acute myeloid leukemia (AML): new potential targets in AML.
+  authors: Sophia Adamia, Michal Bar-Natan, Benjamin Haibe-Kains, Patrick M. Pilarski, Christian Bach, Samuel J. Pevzner, Teresa Calimeri, Hervé Avet-Loiseau, Laurence Lodé, Sigitas J. Verselis, Edward Alan Fox, Ilene Galinsky, Steven M. Mathews, Ibiayi Dagogo-Jack, Martha Wadleigh, David P Steensma, Gabriela Motyckova, Daniel J. Deangelo, John Quackenbush, Daniel G Tenen, Richard M Stone, James D Griffin
+  conference: Blood
+  pdf: https://pdfs.semanticscholar.org/d403/9b8f9528d9ff84d5719d1a913f0dad4fe907.pdf
+
+
+- id: 04b36e0f5d8d8ca4129b09c7fa914fb00d43e260
+  title: AGenome-WideAberrantRNASplicing inPatientswithAcute MyeloidLeukemia Identi fi esNovelPotentialDiseaseMarkers and Therapeutic Targets
+  authors: Sophia Adamia, Benjamin Haibe-Kains, Patrick M. Pilarski, Michal Bar-Natan, Samuel J. Pevzner, Hervé Avet-Loiseau, Laurence Lodé, Sigitas J. Verselis, Edward Alan Fox, John Burke, Ilene Galinsky, Ibiayi Dagogo-Jack, Martha Wadleigh, David P Steensma, Gabriela Motyckova, Daniel J. Deangelo, John Quackenbush, Richard M Stone
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/23bd/e90499fcd5b873e5a250474bfc8a398fe9e5.pdf
+
+
+- id: c6d8a732212030fd6553ff7d6f89de097cd1b4ba
+  title: DEVELOPMENT OF THE BENTO ARM : AN IMPROVED ROBOTIC ARM FOR MYOELECTRIC TRAINING AND RESEARCH
+  authors: Michael Rory Dawson, Craig Sherstan, Jason P. Carey, Jacqueline S. Hebert, Patrick M. Pilarski
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/c6d8/a732212030fd6553ff7d6f89de097cd1b4ba.pdf
+
+
+- id: e092be2e3e97ff33995b79adb3868f4cd9d0a565
+  title: DEALING WITH CHANGING CONTEXTS IN MYOELECTRIC CONTROL
+  authors: Anna Koop, Alexandra Kearney, Michael H. Bowling, Patrick M. Pilarski
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/e092/be2e3e97ff33995b79adb3868f4cd9d0a565.pdf
+
+
+- id: 6630a7f41a659ccb4930e06a5843c41448af27ec
+  title: Efficiency evaluation of two-level and three-level bridgeless PFC boost rectifiers
+  authors: Qiong Wang, Bo Wen, Rolando Burgos, Dushan Boroyevich, Adam M. White
+  conference: 2014 IEEE Applied Power Electronics Conference and Exposition - APEC 2014
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6803566
+
+
+- id: 48b952823539fa43befe1229116c904e94e52ec9
+  title: National trends in smoking behaviors among Mexican, Puerto Rican, and Cuban men and women in the United States.
+  authors: Lyzette Blanco, Robert Garcia, Eliseo J. Pérez-Stable, Martha White, Karen S Messer, John P Pierce, Dennis R. Trinidad
+  conference: American journal of public health
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/24625159
+
+
+- id: 5cd5867a0e2c321d15cc3f03739867a3de9c0a3c
+  title: The efficacy and safety of the short ragweed sublingual immunotherapy tablet MK-3641 is similar in asthmatic and nonasthmatic subjects treated for allergic rhinitis with/without conjunctivitis
+  authors: Jennifer S Maloney, David I. Bernstein, Jacques Hebert, Martha White, R. N. Fisher, Thomas B. Casale, Amarjot Kaur, Hendrik Nolte
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/5cd5/867a0e2c321d15cc3f03739867a3de9c0a3c.pdf
+
+
+- id: 1e3551662fb8098e27f4aca99e3d23674fbfaae2
+  title: Curiosity predicts smoking experimentation independent of susceptibility in a US national sample.
+  authors: Jesse N. Nodora, Sheri J Hartman, David R. Strong, Karen S Messer, Lisa E Vera, Martha White, David B. Portnoy, Conrad J. Choinière, Genevieve C. Vullo, John P Pierce
+  conference: Addictive behaviors
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25117844
+
+
+- id: 66ac14c22dcdea98fd8ed332f06e0dda82d6c3b4
+  title: Increases in light and intermittent smoking among Asian Americans and non-Hispanic Whites.
+  authors: Lyzette Blanco, Liesl A. Nydegger, Kari-Lyn Kobayakawa Sakuma, Elisa K. Tong, Martha White, Dennis R. Trinidad
+  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/24638853
+
+
+- id: b899bc09f9c0f3d9f82acdbcc4c3cb0f3a4369e8
+  title: Differential use of other tobacco products among current and former cigarette smokers by income level.
+  authors: Maya Vijayaraghavan, John P Pierce, Martha White, Karen S Messer
+  conference: Addictive behaviors
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/24930053
+
+
+- id: 85540ee596f249382eff6ec8a573d01845b69498
+  title: Integrating Representation Learning and Temporal Difference Learning : A Matrix Factorization Approach
+  authors: Martha White
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/8554/0ee596f249382eff6ec8a573d01845b69498.pdf
+
+
+- id: 6bd3feddd0782d1b9ff485538ef7cacad5919cce
+  title: A factorization perspective for learning representations in reinforcement learning
+  authors: Martha White
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/6bd3/feddd0782d1b9ff485538ef7cacad5919cce.pdf
+
+
+- id: 795ede0edb981d873a3f4b421a0d506530a8470f
+  title: Search in Imperfect Information Games Using Online Monte Carlo Counterfactual Regret Minimization
+  authors: Marc Lanctot, Viliam Lisý, Michael H. Bowling
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/a980/add2db7010eedd70825527ad70d70848c276.pdf
+
+
+- id: 7fa14e1a4d0b3fadf01f8ebdcd53399fca6c5a00
+  title: Asymmetric abstractions for adversarial settings
+  authors: Nolan Bard, Michael Johanson, Michael H. Bowling
+  conference: AAMAS
+  pdf: https://pdfs.semanticscholar.org/7fa1/4e1a4d0b3fadf01f8ebdcd53399fca6c5a00.pdf
+
+
+- id: 267edda1c2d21fdedff9073e5c0d661b09edcf50
+  title: Do pokers players know how good they are? Accuracy of poker skill estimation in online and offline players
+  authors: T. L. MacKay, Nolan Bard, Michael H. Bowling, D. C. Hodgins
+  conference: Computers in Human Behavior
+  pdf: http://doi.org/10.1016/j.chb.2013.11.006
+
+
+- id: 23678186da7d9d060f7de5ee27a6062cdb23db79
+  title: Solving Imperfect Information Games Using Decomposition
+  authors: Neil Burch, Michael Johanson, Michael H. Bowling
+  conference: AAAI
+  pdf: https://arxiv.org/pdf/1303.4441.pdf
+
+
+- id: 0100006203866840094140bad6aa84c708e8e4fe
+  title: Using Response Functions to Measure Strategy Strength
+  authors: Trevor Davis, Neil Burch, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/0100/006203866840094140bad6aa84c708e8e4fe.pdf
+

@@ -1,0 +1,430 @@
+yearname: 2017
+publications:
+
+
+- id: 7ac5950d9aca61b291be295705accb34365539e0
+  title: Some Recent Applications of Reinforcement Learning
+  authors: Andrew G. Barto, Philip S. Thomas, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/290f/1fee89ddea6ce7b427184466eebde2c0b277.pdf
+
+
+- id: a29d278e97f8fe7dace94564cb8aea771411e16e
+  title: A Deeper Look at Experience Replay
+  authors: Shangtong Zhang, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1712.01275.pdf
+
+
+- id: 5f0fbe8e37dc21deed6fae461858fc9621f30092
+  title: Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks
+  authors: Vivek Veeriah, Shangtong Zhang, Richard S. Sutton
+  conference: ECML/PKDD
+  pdf: https://arxiv.org/pdf/1612.02879.pdf
+
+
+- id: 752061caf191cd0ec3a7739a6aa5a7637cef8bac
+  title: On Generalized Bellman Equations and Temporal-Difference Learning
+  authors: Huizhen Yu, Ashique Rupam Mahmood, Richard S. Sutton
+  conference: Journal of Machine Learning Research
+  pdf: https://arxiv.org/pdf/1704.04463.pdf
+
+
+- id: f3515ab3a34ecff883b18dc6406759e054ecc434
+  title: P552 An online educational portal improves concerns of inflammatory bowel disease patients regarding pregnancy and medication.
+  authors: Richard S. Sutton, Kelsey Wierstra, Lucio D ‘ Ambrosio, Levinus Albert Dieleman, Richard N Fedorak, Brendan Halloran, Karen Ivy Kroeker, Karen Wong, K-A Berga, Vivian Wai-Mei Huang
+  conference: 
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/28175175
+
+
+- id: de60cfb06a81e0411cf9b2d752360d09cd98354e
+  title: Integral Policy Iterations for Reinforcement Learning Problems in Continuous Time and Space
+  authors: Jae Young Lee, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1705.03520.pdf
+
+
+- id: 8d86bf0554e4086d9fe29a698db3b3287d54b458
+  title: A First Empirical Study of Emphatic Temporal Difference Learning
+  authors: Sina Ghiassian, Banafsheh Rafiee, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1705.04185.pdf
+
+
+- id: 903813920c77af657e2584b87a1fb045f74298a6
+  title: Multi-step Off-policy Learning Without Importance Sampling Ratios
+  authors: Ashique Rupam Mahmood, Huizhen Yu, Richard S. Sutton
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1702.03006.pdf
+
+
+- id: 7d53b560d976e5bffd6f2e0f9e3dc93a7f5e2d05
+  title: GQ($\lambda$) Quick Reference and Implementation Guide
+  authors: Adam White, Richard S. Sutton
+  conference: 
+  pdf: https://arxiv.org/pdf/1705.03967.pdf
+
+
+- id: c62b466ede107d02aff3e0ee5e0b694407884ab5
+  title: GQ($λ$) Quick Reference and Implementation Guide
+  authors: Adam White, Richard S. Sutton
+  conference: ArXiv
+  pdf: 
+
+
+- id: 1d2aad806526fc372df2a644b976baf1e24e4d7a
+  title: Forward Actor-Critic for Nonlinear Function Approximation in Reinforcement Learning
+  authors: Vivek Veeriah, Harm van Seijen, Richard S. Sutton
+  conference: AAMAS 2017
+  pdf: http://dl.acm.org/citation.cfm?id=3091207
+
+
+- id: 0d71bd0656cc70dca2ad1dfee0c2abdaf20a178f
+  title: Associative Learning from Replayed Experience
+  authors: Elliot A. Ludvig, Mahdieh S. Mirian, E. James Kehoe, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/0d71/bd0656cc70dca2ad1dfee0c2abdaf20a178f.pdf
+
+
+- id: 863fb00c154006bf30789d691370cdfe13bf5aa3
+  title: Communicative Capital for Prosthetic Agents.
+  authors: Patrick M. Pilarski, Richard S. Sutton, Kory Wallace Mathewson, Craig Sherstan, Adam S. R. Parker, Ann L. Edwards
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1711.03676.pdf
+
+
+- id: 43e268c118ac25f1f0e984b57bc54f0119ded520
+  title: Generalized Conditional Gradient for Sparse Estimation
+  authors: Yaoliang Yu, Xinhua Zhang, Dale Schuurmans
+  conference: Journal of Machine Learning Research
+  pdf: https://arxiv.org/pdf/1410.4828.pdf
+
+
+- id: 3f00dd71e8f2ac2b8dbdafbcefc696bf2368fbf2
+  title: Formalizing Anthropomorphism Through Games: A Study in Deep Neural Networks
+  authors: Martin A. Zinkevich, Dale Schuurmans
+  conference: AAAI Workshops
+  pdf: http://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15228
+
+
+- id: d0afdeb2ea5a987c247c551bceac68830d58e976
+  title: Resampled Proposal Distributions for Variational Inference and Learning
+  authors: Aditya Grover, Ramki Gummadi, Miguel Lázaro-Gredilla, Dale Schuurmans, Stefano Ermon
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/d0af/deb2ea5a987c247c551bceac68830d58e976.pdf
+
+
+- id: eeb9f3dce2a79f548f7e6c8f7157ae68233ccb2c
+  title: Logistic Markov Decision Processes
+  authors: Martin Mladenov, Craig Boutilier, Dale Schuurmans, Ofer Meshi, Gal Elidan, Tyler Lu
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/eeb9/f3dce2a79f548f7e6c8f7157ae68233ccb2c.pdf
+
+
+- id: 9d015551cf88fed48e6cd12deb5072ff5940bf46
+  title: Holographic Feature Representations of Deep Networks
+  authors: Martin A. Zinkevich, Alex Davies, Dale Schuurmans
+  conference: UAI
+  pdf: https://pdfs.semanticscholar.org/9d01/5551cf88fed48e6cd12deb5072ff5940bf46.pdf
+
+
+- id: 419e0201331da397b34c2908b96408063a51d470
+  title: Bridging the Gap Between Value and Policy Based Reinforcement Learning
+  authors: Ofir Nachum, Mohammad Norouzi, Kelvin Xu, Dale Schuurmans
+  conference: NIPS
+  pdf: https://arxiv.org/pdf/1702.08892.pdf
+
+
+- id: cf51fad494aa5a762ec702ed374caa36786316c1
+  title: Multi-view Matrix Factorization for Linear Dynamical System Estimation
+  authors: Mahdi Karami, Martha White, Dale Schuurmans, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/7345/37d36f017addb2c65816ad48fab5c53e522a.pdf
+
+
+- id: 6a5b433e74e339fc49223891182f0d6336cb59a0
+  title: Trust-PCL: An Off-Policy Trust Region Method for Continuous Control
+  authors: Ofir Nachum, Mohammad Norouzi, Kelvin Xu, Dale Schuurmans
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1707.01891.pdf
+
+
+- id: 0071ff265a12c8a9d672fe0887383b15886d0396
+  title: Safe Exploration for Identifying Linear Systems via Robust Optimization
+  authors: Tyler Lu, Martin Zinkevich, Craig Boutilier, Binz Roy, Dale Schuurmans
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1711.11165.pdf
+
+
+- id: 814bb7fb952402a7fc213d0ee872fb79b4244fed
+  title: Unsupervised Sequential Sensor Acquisition
+  authors: Manjesh Kumar Hanawal, Csaba Szepesvári, Venkatesh Saligrama
+  conference: AISTATS
+  pdf: https://pdfs.semanticscholar.org/814b/b7fb952402a7fc213d0ee872fb79b4244fed.pdf
+
+
+- id: 43b54ff0b3ab333664856ead0ede60213848221a
+  title: Bandits with Delayed Anonymous Feedback
+  authors: Ciara Pike-Burke, Shipra Agrawal, Csaba Szepesvári, Steffen Grünewälder
+  conference: ArXiv
+  pdf: 
+
+
+- id: 3437fcd63b567fb135aa87187ba71fbb9aff16da
+  title: Stochastic Rank-1 Bandits
+  authors: Sumeet Katariya, Branislav Kveton, Csaba Szepesvári, Claire Vernade, Zheng Wen
+  conference: AISTATS
+  pdf: https://arxiv.org/pdf/1608.03023.pdf
+
+
+- id: 6351807959b22a8181470e57a1e91fdeb687943c
+  title: Following the Leader and Fast Rates in Online Linear Prediction: Curved Constraint Sets and Other Regularities
+  authors: Ruitong Huang, Tor Lattimore, András György, Csaba Szepesvári
+  conference: Journal of Machine Learning Research
+  pdf: https://pdfs.semanticscholar.org/6351/807959b22a8181470e57a1e91fdeb687943c.pdf
+
+
+- id: 7005b57e663299267c20061aa3b7d33dfb6e7847
+  title: An a Priori Exponential Tail Bound for k-Folds Cross-Validation
+  authors: Karim T. Abou-Moustafa, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1706.05801.pdf
+
+
+- id: dd0d74c3b45bd269cb73d8d7b9972a6fc14cc186
+  title: Linear Stochastic Approximation: Constant Step-Size and Iterate Averaging
+  authors: Chandrashekar Lakshminarayanan, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1709.04073.pdf
+
+
+- id: a3663bab064aa5ae788534f5437b18e929896163
+  title: A Modular Analysis of Adaptive (Non-)Convex Optimization: Optimism, Composite Objectives, and Variational Bounds
+  authors: Pooria Joulani, András György, Csaba Szepesvári
+  conference: ALT
+  pdf: https://arxiv.org/pdf/1709.02726.pdf
+
+
+- id: 99d1f2aadf06c20f6a45e9439ce3f6e4f6da2a7c
+  title: The End of Optimism? An Asymptotic Analysis of Finite-Armed Linear Bandits
+  authors: Tor Lattimore, Csaba Szepesvári
+  conference: AISTATS
+  pdf: https://arxiv.org/pdf/1610.04491.pdf
+
+
+- id: afac5223ed4b6d1436740ed1210273cebacfa5bd
+  title: Structured Best Arm Identification with Fixed Confidence
+  authors: Ruitong Huang, Mohammad M. Ajallooeian, Csaba Szepesvári, Martin Müller
+  conference: ALT
+  pdf: https://arxiv.org/pdf/1706.05198.pdf
+
+
+- id: 29f4a921ad704bd14a10e5780535eb094608466a
+  title: Stochastic Low-Rank Bandits
+  authors: Branislav Kveton, Csaba Szepesvári, Anup Rao, Zheng Wen, Yasin Abbasi-Yadkori, S. Muthukrishnan
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1712.04644.pdf
+
+
+- id: 13554f8fd86a75220f132f199ac5126752af8d7f
+  title: Online Learning to Rank in Stochastic Click Models
+  authors: Mohammad Ghavamzadeh, Branislav Kveton, Csaba Szepesvári, Tomás Tunys, Zheng Wen, Masrour Zoghi
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1703.02527.pdf
+
+
+- id: e14c5cdb7b8868224258408446cd92309c9c5b75
+  title: Bernoulli Rank-1 Bandits for Click Feedback
+  authors: Sumeet Katariya, Branislav Kveton, Csaba Szepesvári, Claire Vernade, Zheng Wen
+  conference: IJCAI
+  pdf: https://arxiv.org/pdf/1703.06513.pdf
+
+
+- id: dd4bce84bce559820380c9a0ab1ec492e0c1563b
+  title: Crowdsourcing with Sparsely Interacting Workers
+  authors: Yao Ma, Alexander Olshevsky, Venkatesh Saligrama, Csaba Szepesvári
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1706.06660.pdf
+
+
+- id: 9d76060f97690cff46bdaf058f791a70bda1c114
+  title: Editorial: Peripheral Nervous System-Machine Interfaces (PNS-MI)
+  authors: Michael Wininger, Panagiotis K. Artemiadis, Claudio Castellini, Patrick M. Pilarski
+  conference: Front. Neurorobot.
+  pdf: https://pdfs.semanticscholar.org/9d76/060f97690cff46bdaf058f791a70bda1c114.pdf
+
+
+- id: 55b895ce9be3e14878d0992361baee99fb7097d5
+  title: Assessment of feature selection and classification methods for recognizing motor imagery tasks from electroencephalographic signals
+  authors: Roberto Vega, Touqir Sajed, Kory Wallace Mathewson, Kriti Khare, Patrick M. Pilarski, Russ Greiner, Gildardo Sánchez-Ante, Javier Mauricio Antelis
+  conference: Artif. Intell. Research
+  pdf: https://pdfs.semanticscholar.org/55b8/95ce9be3e14878d0992361baee99fb7097d5.pdf
+
+
+- id: bf28ee101b5e2ccf2e79f34bc77f0471174e21f2
+  title: Representing high-dimensional data to intelligent prostheses and other wearable assistive robots: A first comparison of tile coding and selective Kanerva coding
+  authors: Jaden B. Travnik, Patrick M. Pilarski
+  conference: 2017 International Conference on Rehabilitation Robotics (ICORR)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8009451
+
+
+- id: 2b6d72f2da59d8b7be1118c170a49400cdc14771
+  title: Learning from demonstration: Teaching a myoelectric prosthesis with an intact limb via reinforcement learning
+  authors: Gautham Vasan, Patrick M. Pilarski
+  conference: 2017 International Conference on Rehabilitation Robotics (ICORR)
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8009453
+
+
+- id: 557c2686af05e15f2cc3bc75689ce53ac40f31c4
+  title: Actor-Critic Reinforcement Learning with Simultaneous Human Control and Feedback
+  authors: Kory Wallace Mathewson, Patrick M. Pilarski
+  conference: ArXiv
+  pdf: https://arxiv.org/pdf/1703.01274.pdf
+
+
+- id: 598e0dc73d20c3fb4c78bdc6ba2a7ffe92c8e2f3
+  title: DEVELOPMENT OF THE HANDI HAND : AN INEXPENSIVE , MULTI-ARTICULATING , SENSORIZED HAND FOR MACHINE LEARNING RESEARCH IN MYOELECTRIC CONTROL
+  authors: Jintao Shen, Michael Rory Dawson, Patrick M. Pilarski
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/598e/0dc73d20c3fb4c78bdc6ba2a7ffe92c8e2f3.pdf
+
+
+- id: 6da28ad364879d1978d0b5f15a3f9a7fa4a543b6
+  title: Reinforcement Learning Based Embodied Agents Modelling Human Users Through Interaction and Multi-Sensory Perception
+  authors: Kory Wallace Mathewson, Patrick M. Pilarski
+  conference: AAAI Spring Symposia
+  pdf: https://arxiv.org/pdf/1701.02369.pdf
+
+
+- id: 41afaffc73de8df7e88d411a7af6d6be365b2063
+  title: Accelerated Gradient Temporal Difference Learning
+  authors: Yangchen Pan, Adam M. White, Martha White
+  conference: AAAI
+  pdf: https://arxiv.org/pdf/1611.09328.pdf
+
+
+- id: b9ceff852739d9c4a022b2fd284f285024c83891
+  title: Re-entry Prediction Uncertainties derived from Environmental and Observation considerations
+  authors: Noelia Sánchez-Ortiz, Núria López, Ignacio H. López Grande, Luis Felipe Tabera, Adam White, Stijn Lemmens
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/b9ce/ff852739d9c4a022b2fd284f285024c83891.pdf
+
+
+- id: 050fdd44745ce22a430797d4a68c430c614ac210
+  title: Pre-adolescent Receptivity to Tobacco Marketing and Its Relationship to Acquiring Friends Who Smoke and Cigarette Smoking Initiation.
+  authors: David R. Strong, Karen S Messer, Sheri J Hartman, Jesse N. Nodora, Lisa E Vera, Martha White, Eric C. Leas, Nikolas Pharris-Ciurej, Nicolette Borek, John P Pierce
+  conference: Annals of behavioral medicine : a publication of the Society of Behavioral Medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/28255935
+
+
+- id: 47afab4a19d5f0d24f1ad0ddc677f6f70491f884
+  title: Susceptibility to tobacco product use among youth in wave 1 of the population Assessment of tobacco and health (PATH) study.
+  authors: Dennis R. Trinidad, John P Pierce, James Sargent, Martha White, David R. Strong, David B. Portnoy, Victoria R Green, Cassandra A Stanton, Kelvin Choi, Maansi Bansal-Travers, Yuyan Shi, Jennifer L Pearson, Annette R Kaufman, Nicolette Borek, Blair N. Coleman, Andrew J. Hyland, Charles P Carusi, Sheila Kealey, Eric C. Leas, Madison L. Noble, Karen S Messer
+  conference: Preventive medicine
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/28526392
+
+
+- id: f8c69b61701428be361f6fc8632312d5fe8cde05
+  title: Associations Between Cigarette Print Advertising and Smoking Initiation Among African Americans.
+  authors: Dennis R. Trinidad, Lyzette Blanco, Sherry L Emery, Pebbles Fagan, Martha White, Mark B. Reed
+  conference: Journal of racial and ethnic health disparities
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/27337978
+
+
+- id: 77e0c0d01acc69950e403cc7767fbbb5bd7b8430
+  title: Learning Sparse Representations in Reinforcement Learning with Sparse Coding
+  authors: Lei Le, Raksha Kumaraswamy, Martha White
+  conference: IJCAI
+  pdf: https://arxiv.org/pdf/1707.08316.pdf
+
+
+- id: a0b1ddd3fcbe320ac880f3b06233884ebee3cf8e
+  title: Unifying task specification in reinforcement learning
+  authors: Martha White
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1609.01995.pdf
+
+
+- id: 27aa0474da30c924e8aadd0fee3661c083ec57fe
+  title: Receptivity to Tobacco Advertising and Susceptibility to Tobacco Products.
+  authors: John P Pierce, James Sargent, Martha White, Nicolette Borek, David B. Portnoy, Victoria R Green, Annette R Kaufman, Cassandra A Stanton, Maansi Bansal-Travers, David R. Strong, Jennifer L Pearson, Blair N. Coleman, Eric C. Leas, Madison L. Noble, Dennis R. Trinidad, Meghan B. Moran, Charles P Carusi, Andrew J. Hyland, Karen S Messer
+  conference: Pediatrics
+  pdf: https://pdfs.semanticscholar.org/27aa/0474da30c924e8aadd0fee3661c083ec57fe.pdf
+
+
+- id: ce6e8bd0e643c18b023c85f70c1f873b1caee765
+  title: Exercise Decreases and Smoking Increases Bladder Cancer Mortality.
+  authors: Michael Andre Liss, Martha White, Loki Natarajan, J Kellogg Parsons
+  conference: Clinical genitourinary cancer
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/28007367
+
+
+- id: 485fab5085e689f3301935a4e57dfa4762bbdad0
+  title: Adapting Kernel Representations Online Using Submodular Maximization
+  authors: Matthew Schlegel, Yangchen Pan, Jiecao Chen, Martha White
+  conference: ICML
+  pdf: https://pdfs.semanticscholar.org/485f/ab5085e689f3301935a4e57dfa4762bbdad0.pdf
+
+
+- id: 061616dbd8826867eaa182ba6234f4c9f0b7c9ec
+  title: Recovering True Classifier Performance in Positive-Unlabeled Learning
+  authors: Shantanu Jain, Martha White, Predrag Radivojac
+  conference: AAAI
+  pdf: https://arxiv.org/pdf/1702.00518.pdf
+
+
+- id: 82f84de4e4c9a5e685414bfece170f05903148ed
+  title: Effective sketching methods for value function approximation.
+  authors: Yangchen Pan, Erfan Sadeqi Azer, Martha White
+  conference: UAI 2017
+  pdf: https://arxiv.org/pdf/1708.01298.pdf
+
+
+- id: 29f94f5a209294554615d925a53c53b3a9649dd1
+  title: AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games
+  authors: Neil Burch, Martin Schmid, Matej Moravcik, Michael H. Bowling
+  conference: AAAI Workshops
+  pdf: https://arxiv.org/pdf/1612.06915.pdf
+
+
+- id: 454863cc20cadd808176d69acc7e510bf3dec2c6
+  title: Heads-up limit hold'em poker is solved
+  authors: Michael H. Bowling, Neil Burch, Michael Johanson, Oskari Tammelin
+  conference: Commun. ACM
+  pdf: http://doi.org/10.1145/3131284
+
+
+- id: 29558b8341d1af2864637c50e93c3e72e8564280
+  title: Water quality, compliance, and health outcomes among utilities implementing Water Safety Plans in France and Spain.
+  authors: K Setty, Georgia Lyn Kayser, Michael H. Bowling, Jérôme Enault, J. F. Loret, Claudia Puigdomenech Serra, Jordi Alonso, Arnau Pla Mateu, Jamie Bartram
+  conference: International journal of hygiene and environmental health
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/28286083
+
+
+- id: 2f2f609766b18ff441a9cbe904e333fc4e0223fb
+  title: Eqilibrium Approximation Quality of Current No-Limit Poker Bots
+  authors: Viliam Lisý, Michael H. Bowling
+  conference: AAAI Workshops
+  pdf: https://arxiv.org/pdf/1612.07547.pdf
+
+
+- id: 8423cc50c18d68f797adaa4f571f5e4efbe325a5
+  title: A Laplacian Framework for Option Discovery in Reinforcement Learning
+  authors: Marlos C. Machado, Marc G. Bellemare, Michael H. Bowling
+  conference: ICML
+  pdf: https://arxiv.org/pdf/1703.00956.pdf
+
+
+- id: 674e0cf883629c5355a38e6ad35af39d27828c62
+  title: Water, sanitation, and hygiene in schools: Status and implications of low coverage in Ethiopia, Kenya, Mozambique, Rwanda, Uganda, and Zambia.
+  authors: Camille Morgan, Michael H. Bowling, Jamie Bartram, Georgia Lyn Kayser
+  conference: International journal of hygiene and environmental health
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/28539190
+
+
+- id: 0ccc18adb5e7716f2b5622fc453d5d5a51156ae4
+  title: DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker
+  authors: Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, Michael H. Bowling
+  conference: ArXiv
+  pdf: https://pdfs.semanticscholar.org/4312/ae64a058d555ff1656ccad713dbd81200e79.pdf
+

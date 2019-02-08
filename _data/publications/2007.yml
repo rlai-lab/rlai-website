@@ -1,0 +1,283 @@
+yearname: 2007
+publications:
+
+
+- id: c1b0d029c0ada83f7694971a24597b4530cf1df7
+  title: Reinforcement Learning of Local Shape in the Game of Go
+  authors: David Silver, Richard S. Sutton, Martin Müller
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/c1b0/d029c0ada83f7694971a24597b4530cf1df7.pdf
+
+
+- id: 3e3efe35ed81bd764d727f026fa1bfe2a90b8b7e
+  title: Learning to Maximize Rewards : A Review of “ Reinforcement Learning : An Introduction ” by
+  authors: Richard S. Sutton, Andrew G. Barto, Rajesh P. N. Rao
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/3e3e/fe35ed81bd764d727f026fa1bfe2a90b8b7e.pdf
+
+
+- id: ca50d75623b805298a2f7d20d2a6d90c41268153
+  title: The PEAK Project
+  authors: Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/ca50/d75623b805298a2f7d20d2a6d90c41268153.pdf
+
+
+- id: 177f18c0f03099ac875dc56d7aba8d8185cbe707
+  title: Incremental Natural Actor-Critic Algorithms
+  authors: Shalabh Bhatnagar, Richard S. Sutton, Mohammad Ghavamzadeh, Mark Lee
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/177f/18c0f03099ac875dc56d7aba8d8185cbe707.pdf
+
+
+- id: 778bd6ece40490152ca5a31d9bd98940a5061027
+  title: Research Grant Renewal Proposal Reinforcement Learning and Artificial Intelligence chair :
+  authors: Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/778b/d6ece40490152ca5a31d9bd98940a5061027.pdf
+
+
+- id: a617af6ac3a127e5e1aed29fd6e668c6b2c78cf3
+  title: Natural-Gradient Actor-Critic Algorithms
+  authors: Shalabh Bhatnagar, Richard S. Sutton, Mohammad Ghavamzadeh, Mark Lee
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/a617/af6ac3a127e5e1aed29fd6e668c6b2c78cf3.pdf
+
+
+- id: 0481a097cbb640c35f719546bd1e8390c1887022
+  title: On the role of tracking in stationary environments
+  authors: Richard S. Sutton, Anna Koop, David Silver
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1273606
+
+
+- id: 03cdca5dec0bc0135f3e3ae45db9a4792f5b293f
+  title: Investigating Experience: Temporal Coherence and Empirical Knowledge Representation
+  authors: Richard S. Sutton, Marcia L. Spetch
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/03cd/ca5dec0bc0135f3e3ae45db9a4792f5b293f.pdf
+
+
+- id: 6b47691046c89c782f802e5edf8fbaebb6eb9546
+  title: Model-based Reinforcement Learning
+  authors: Leonid Kuvayev, Richard S. Sutton
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/6b47/691046c89c782f802e5edf8fbaebb6eb9546.pdf
+
+
+- id: 7cfe7096e487d1dd118155c85937aef1e17651f2
+  title: Characterizing the benefits of model-based vs . direct-control learning in exploration
+  authors: Dale Schuurmans
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/a574/e763825cdffbf8c7108258360c0227e8bb26.pdf
+
+
+- id: 593ef23a6b63488ec7c4d093a099d0ba8beac5be
+  title: Discriminative Batch Mode Active Learning
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/fc4b/b053e25dcf80c21a2bb8630ba9a78acd1ab6.pdf
+
+
+- id: 8392959dbbfcdd89797c0e9ba29f6d8d1a3adde9
+  title: Greedy importance sampling : A new Monte Carlo inference method
+  authors: Dale Schuurmans
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/8392/959dbbfcdd89797c0e9ba29f6d8d1a3adde9.pdf
+
+
+- id: 535bf3bc1d0a5e98ba7edce4a2ed1a0fe46fa2ea
+  title: Dual Representations for Dynamic Programming and Reinforcement Learning
+  authors: Tao Wang, Michael H. Bowling, Dale Schuurmans
+  conference: 2007 IEEE International Symposium on Approximate Dynamic Programming and Reinforcement Learning
+  pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4220813
+
+
+- id: 0a6e4aa031f079cadfcf4f8e0f5098de5ddd7ea7
+  title: Convex Relaxations of Latent Variable Training
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/4184/0e43b07c5bd76add982fff8e1de10b90627f.pdf
+
+
+- id: 64bb1647bbd2540c077c2ff675c5398c8d978e51
+  title: Automatic gait optimization with Gaussian process regression
+  authors: Daniel J. Lizotte, Tao Wang, Michael H. Bowling, Dale Schuurmans
+  conference: IJCAI 2007
+  pdf: http://ijcai.org/Proceedings/07/Papers/152.pdf
+
+
+- id: 937930d1ee92fa1a55f36d2f903cfa7532c0236e
+  title: Simple training of dependency parsers via structured boosting
+  authors: Qin Iris Wang, Dekang Lin, Dale Schuurmans
+  conference: IJCAI 2007
+  pdf: http://ijcai.org/Proceedings/07/Papers/284.pdf
+
+
+- id: 5657e5a73c450ac62a6cd162ecaf0df4172f1c36
+  title: Stable Dual Dynamic Programming
+  authors: Tao Wang, Daniel J. Lizotte, Michael H. Bowling, Dale Schuurmans
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/c307/27e4f31a5200af8c76a6ac221ae34bdb9c8d.pdf
+
+
+- id: 1352cbf2719ff649ea28aff9fb01901b49b480ee
+  title: Learning Gene Regulatory Networks via Globally Regularized Risk Minimization
+  authors: Yuhong Guo, Dale Schuurmans
+  conference: RECOMB-CG
+  pdf: https://pdfs.semanticscholar.org/8d5e/b98d46fe03ec17388c59313246a65123b224.pdf
+
+
+- id: 00addae5e34e201d103b3ff0e424ecddadb39a76
+  title: Fitted Q-iteration in continuous action-space MDPs
+  authors: András Antos, Rémi Munos, Csaba Szepesvári
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/362c/68dd847ce41ff2875dfe1c5419398e683c0e.pdf
+
+
+- id: 432bddc6cac678a91bc77a2115310a7dd262dddb
+  title: Sequence Prediction Exploiting Similary Information
+  authors: István Bíró, Zoltán Szamonek, Csaba Szepesvári
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/432b/ddc6cac678a91bc77a2115310a7dd262dddb.pdf
+
+
+- id: 4ef4cc84823f3ee1c81da1cd15b3dfe82c4f73eb
+  title: Towards Manifold-Adaptive Learning
+  authors: Amir Massoud Farahmand, Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/59db/e1538328f71cd5c3158ea21e8cd3fce475f8.pdf
+
+
+- id: 401b4aadb946a3d9a0e83e6b7db42eadcaa641c8
+  title: Apprenticeship Learning using Inverse Reinforcement Learning and Gradient Methods
+  authors: Gergely Neu, Csaba Szepesvári
+  conference: UAI
+  pdf: https://arxiv.org/pdf/1206.5264.pdf
+
+
+- id: 0bd8cbe79bd1b6e408d916bcdf4cbed5c9ed58c6
+  title: Improved Rates for the Stochastic Continuum-Armed Bandit Problem
+  authors: Peter Auer, Ronald Ortner, Csaba Szepesvári
+  conference: COLT
+  pdf: https://pdfs.semanticscholar.org/0bd8/cbe79bd1b6e408d916bcdf4cbed5c9ed58c6.pdf
+
+
+- id: 3b94ab8927a5e09e4ffb0d8295770b97e50c6075
+  title: Continuous Time Associative Bandit Problems
+  authors: András György, Levente Kocsis, Ivett Szabó, Csaba Szepesvári
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/9c9f/be94042c905753b34a6d14c1e55f5f5d875e.pdf
+
+
+- id: 0c79dd4713d9c5bbf192f56db4fba04e655d3e98
+  title: Tuning Bandit Algorithms in Stochastic Environments
+  authors: Jean-Yves Audibert, Rémi Munos, Csaba Szepesvári
+  conference: ALT
+  pdf: https://pdfs.semanticscholar.org/5841/ceb5d5d92355602069d6b76a2d08de8a8588.pdf
+
+
+- id: 01edefb3808f451c81329ae401a22f4b42b32874
+  title: Variance estimates and exploration function in multi-armed bandit Estimation de la variance et exploration pour le bandit à plusieurs bras
+  authors: Jean-Yves Audibert, Rémi Munos, Csaba Szepesvári
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/01ed/efb3808f451c81329ae401a22f4b42b32874.pdf
+
+
+- id: 0196b4369e36d91ddfed389fede1cb3426a12c58
+  title: Learning near-optimal policies with Bellman-residual minimization based fitted policy iteration and a single sample path
+  authors: András Antos, Csaba Szepesvári, Rémi Munos
+  conference: Machine Learning
+  pdf: http://doi.org/10.1007/s10994-007-5038-2
+
+
+- id: 12bdd9c9719ff3be4b7fbbbe88b4e9a18aaecffe
+  title: Manifold-Adaptive Dimension Estimation
+  authors: Amir Massoud Farahmand, Csaba Szepesvári, Jean-Yves Audibert
+  conference: ICML
+  pdf: http://dl.acm.org/citation.cfm?id=1273530
+
+
+- id: 9adace00635e0e4c2b9e7eefc88a2cc65abaeb22
+  title: FISH and chips: chromosomal analysis on microfluidic platforms.
+  authors: Vincent J. Sieben, Carina S. Debes Marun, Patrick M. Pilarski, Govind V. Kaigala, Linda M. Pilarski, Christopher J. Backhouse
+  conference: IET nanobiotechnology
+  pdf: https://pdfs.semanticscholar.org/9ada/ce00635e0e4c2b9e7eefc88a2cc65abaeb22.pdf
+
+
+- id: e3b37fb2e9b9330d34734cca24d44a9f11e1a728
+  title: The California Tobacco Control Program's effect on adult smokers: (2) Daily cigarette consumption levels.
+  authors: Wael K. Al-Delaimy, John P Pierce, Karen S. Messer, Martha White, Dennis R. Trinidad, Elizabeth A. Gilpin
+  conference: Tobacco control
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/17400945
+
+
+- id: e1a1962c6c55f377ddcd398ee1870143385d98d0
+  title: Receptivity to tobacco advertising and promotions among young adolescents as a predictor of established smoking in young adulthood.
+  authors: Elizabeth A. Gilpin, Martha White, Karen S. Messer, John P Pierce
+  conference: American journal of public health
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/17600271
+
+
+- id: df8d7e0ec67f76a9da151c083b3edc92f77b6350
+  title: The California Tobacco Control Program's effect on adult smokers: (3) Similar effects for African Americans across states.
+  authors: Dennis R. Trinidad, Karen S. Messer, Elizabeth A. Gilpin, Wael K. Al-Delaimy, Martha White, John P Pierce
+  conference: Tobacco control
+  pdf: https://pdfs.semanticscholar.org/df8d/7e0ec67f76a9da151c083b3edc92f77b6350.pdf
+
+
+- id: 3cc847dc6f7ebd408f8ffaa291f91505ecdafded
+  title: Clinical decision-making: Patients' preferences and experiences.
+  authors: Elizabeth Murray, Lance Pollack, Martha White, Bernard Lo
+  conference: Patient education and counseling
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/16956742
+
+
+- id: 5bd3a8581d6d163d821e0ceb14f40c52ba8c22c0
+  title: , Dennis R levels adult smokers : ( 2 ) Daily cigarette consumption The California Tobacco Control Program ’ s effect on
+  authors: Wael K. Al-Delaimy, John P Pierce, Karen S. Messer, Martha White, Dennis R. Trinidad, Elizabeth A. Gilpin
+  conference: 
+  pdf: https://pdfs.semanticscholar.org/5bd3/a8581d6d163d821e0ceb14f40c52ba8c22c0.pdf
+
+
+- id: c483d99a1e50a3257a6ffa9dbda55e597ea529a5
+  title: IJCAI-07 Reviewers
+  authors: Akinori Abe, Douglas Aberdeen, Neeharika Adabala, Alicia Ageno, Eneko Agirre, David W. Aha, Stuart Aitken, Shotaro Akaho, Osamu Akashi, Rama Akkiraju, Alexandre Albore, Klaus-Dieter Althoff, Jose R. Alvarez, Sanchez, Analía Amandi, Gianni Amati, Leïla Amgoud, Rema Ananthanarayanan, Rie Kubota Ando, Henrik Andreasson, Fabrizio Angiulli, Carlos Ansótegui, Douglas E. Appelt, Raghav Aras, Aluizio F. R. Araújo, J. Arcos, Kai Oliver Arras, Antonio Artés, Mehran Asadi, Naveen Ashish, Hideki Asoh, Gilles Audemard, Anne Auger, Chen Avin, Franz Baader, Fahiem Bacchus, Jorge Baier, Olivier Bailleux, Mark Baillie, Stuart Bain, Bram Bakker, Sreeram Balakrishnan, Christian Balkenius, Antonio Rubio, Bikramjit Banerjee, Subhashis Banerjee, Raju S. Bapi, Chitta Baral, Guilherme De A. Barreto, Anthony Barrett, Leliane Nunes de Barros, Roman Barták, Peter Baumgartner, Ramón Béjar, Boulle, Paolo Bouquet, Michael H. Bowling, Antonio Rafael Braga, Arthur M. B. Braga, Sebastian Brand, Felix Brandt, Karl Branting, Jonathan Bredin, Philippe Bretier, Gerhard Brewka, Christopher Brewster, Darin Brezeale, Derek Bridge, Will Briggs, Ismel Brito, Kendrick T. Brown, Brett Browning, Frank Broz, Daniel Bryce, Sabine Buchholz, Olivier Buffet, Hung Bui, Vadim Bulitko, Ernesto Burattini, Wolfram Burgard, R. Burke, Michael Buro, Roy
+  conference: IJCAI
+  pdf: https://pdfs.semanticscholar.org/c483/d99a1e50a3257a6ffa9dbda55e597ea529a5.pdf
+
+
+- id: b0b287422ab587021db09f835221b3a7be99911c
+  title: Computing Robust Counter-Strategies
+  authors: Michael Johanson, Martin Zinkevich, Michael H. Bowling
+  conference: NIPS 2007
+  pdf: https://pdfs.semanticscholar.org/b0b2/87422ab587021db09f835221b3a7be99911c.pdf
+
+
+- id: 18a0b2acd6ff3e8184b27da3bf3955fbcf50612b
+  title: Regret Minimization in Games with Incomplete Information
+  authors: Martin Zinkevich, Michael Johanson, Michael H. Bowling, Carmelo Piccione
+  conference: NIPS
+  pdf: https://pdfs.semanticscholar.org/2047/2d17870f792887394faf5748bafcf59fb283.pdf
+
+
+- id: 74f152eff2519cbf8c417ab0b8192a02a407e003
+  title: A New Algorithm for Generating Equilibria in Massive Zero-Sum Games
+  authors: Martin Zinkevich, Michael H. Bowling, Neil Burch
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/b9a3/bac1f88dc08eba1e3100c0e46ee4a8608fcf.pdf
+
+
+- id: 267637c50858f58d746f8919e526f5033efaa478
+  title: Particle Filtering for Dynamic Agent Modelling in Simplified Poker
+  authors: Nolan Bard, Michael H. Bowling
+  conference: AAAI
+  pdf: https://pdfs.semanticscholar.org/b8c7/83631948a65f7e1376d65c865d5d4c71628f.pdf
+
+
+- id: 063ee10c67d066e83be6fa399dbfb2851c2c367c
+  title: Computing Robust Counter-Strategies
+  authors: Michael Johanson, Martin Zinkevich, Michael H. Bowling
+  conference: NIPS
+  pdf: http://doi.org/10.7939/R35N5V
+
