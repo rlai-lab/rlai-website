@@ -8,6 +8,12 @@
 
 
 
+
+- name: Andras Gyorgy
+  website: "http://www.szit.bme.hu/~gya/"
+  status: Research Scientist, Deepmind
+  alumni: research associate
+  
 - name: Huizhen Yu
   status: research associate
 
@@ -17,14 +23,96 @@
 - name: Omid Namaki Shoushtari
   status: research associate
 
+- name: Joseph Modayil
+  website: "http://webdocs.cs.ualberta.ca/~jmodayil/"
+  status: Research Scientist, Deepmind
+  alumni: research associate
 
+- name: Elliot Ludvig
+  website: "http://elliot.ludvig.ca/Home.html"
+  status: Associate Professor, University of Warwick
+  alumni: research associate
+  year: 2011
 
 - name: Johannes Günther
   status: postdoc
 
 - name: Ajin George Joseph
   status: postdoc
-   
+
+- name: Tiberio Caetano
+  website: "http://www.tiberiocaetano.com/"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2004
+
+- name: Li Cheng 
+  website: "http://web.bii.a-star.edu.sg/~chengli"
+  status: 
+  alumni: postdoc
+  year: 2005
+
+- name: Thomas Degris-Dard
+  website: "http://people.bordeaux.inria.fr/degris/"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2011
+
+- name: Yuxi Li
+  website: "http://www.cs.ualberta.ca/~yuxi"
+  status: 
+  alumni: postdoc
+  year: 2010
+
+- name: Wenye Li
+  website: "http://staff.ipm.edu.mo/~wyli"
+  status: 
+  alumni: postdoc
+  year: 2009
+
+- name: David Pal
+  website: "http://david.palenica.com/"
+  status: 
+  alumni: postdoc
+  year: 2011
+
+- name: Istvan Szita
+  website: "http://www.ualberta.ca/~szita/"
+  status: 
+  alumni: postdoc
+  year: 2011
+
+- name: Joel Veness
+  website: "http://jveness.info/about_me/default.html"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2012
+
+- name: Hado van Hasselt
+  website: "http://people.cs.uu.nl/hado/"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2014
+
+- name: Harm van Seijen
+  website: "http://webdocs.cs.ualberta.ca/~vanseije/" 
+  status: Research Scientist, Microsoft Research 
+  alumni: postdoc
+  year: 2016
+  
+- name: Tor Lattimore
+  website: "http://tor-lattimore.com"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2016
+
+- name: Xinhua Zhang
+  website: "http://webdocs.cs.ualberta.ca/~xinhua2/"
+  status: 
+  alumni: postdoc
+  year: 
+
+
 
 
 - name: Mohammad Mahdi Ajallooeian

@@ -1,29 +1,51 @@
 <h2>Senior Research Associates</h2>
 <ul>
  	<li><a href="http://markring.com/" target="_blank" rel="noopener">Mark Ring </a></li>
-</ul>
+	</ul>
+
 <h2>Research Associates</h2>
+
 <ul>
- 	<li><a href="http://www.szit.bme.hu/~gya/" target="_blank" rel="noopener">Andras Gyorgy</a></li>
- 	<li><a href="http://webdocs.cs.ualberta.ca/~jmodayil/">Joseph Modayil</a></li>
+{% for af in site.data.people %}
+{% if af.alumni ==  'research associate' %}
+<li>
+{% if af. website %}
+    <a href="{{ af.website }}">
+      {{ af.name }}
+    </a>
+{% else %}
+	{{ af.name }}
+{% endif %}
+{% if af. status %}
+	 ({{ af.status }})
+{% endif %}	
+	</li>
+{% endif %}	
+{% endfor %}
 </ul>
+
+
 <h2>Post-Doctoral Fellows</h2>
+
 <ul>
- 	<li><a href="http://www.tiberiocaetano.com/">Tiberio Caetano</a> (Postdoc, 2004)</li>
- 	<li><a href="http://web.bii.a-star.edu.sg/~chengli">Li Cheng</a> (Postdoc, 2005)</li>
- 	<li><a href="http://people.bordeaux.inria.fr/degris/" target="_blank" rel="noopener">Thomas Degris-Dard</a> (Postdoc, 2011)</li>
- 	<li><a href="http://www.cs.ualberta.ca/~yuxi">Yuxi Li</a> (Postdoc, 2010)</li>
- 	<li><a href="http://staff.ipm.edu.mo/~wyli">Wenye Li</a> (Postdoc, 2009)</li>
- 	<li><a href="http://webdocs.cs.ualberta.ca/~elliot/Elliot/Home.html">Elliot Ludvig</a> (Postdoc, Research Associate, January 2011)</li>
- 	<li><a href="http://david.palenica.com/" target="_blank" rel="noopener">David Pal</a> (Postdoc, 2011)<a href="http://webdocs.cs.ualberta.ca/~dpal/" target="_blank" rel="noopener">
-</a></li>
- 	<li><a href="http://www.ualberta.ca/~szita/">Istvan Szita</a> (Postdoc, May 2011)</li>
- 	<li><a href="http://jveness.info/about_me/default.html">Joel Veness </a>(Postdoc, 2012)</li>
- 	<li><a href="http://people.cs.uu.nl/hado/">Hado van Hasselt</a> (Postdoc, 2014)</li>
- 	<li><a href="http://webdocs.cs.ualberta.ca/~vanseije/">Harm van Seijen</a> (Postdoc, 2016)</li>
- 	<li><a href="http://tor-lattimore.com">Tor Lattimore</a> (Postdoc, 2016)</li>
- 	<li><a href="http://webdocs.cs.ualberta.ca/~xinhua2/" target="_blank" rel="noopener">Xinhua Zhang</a></li>
+{% for af in site.data.people %}
+{% if af.alumni ==  'postdoc %}
+<li>
+{% if af. website %}
+    <a href="{{ af.website }}">
+      {{ af.name }}
+    </a>
+{% else %}
+	{{ af.name }}
+{% endif %}
+{% if af. status %}
+	 ({{ af.status }})
+{% endif %}
+	</li>
+{% endif %}	
+{% endfor %}
 </ul>
+	
 <h2>Ph.D. Students</h2>
 <ul>
  	<li><a href="http://webdocs.cs.ualberta.ca/~abbasiya/" target="_blank" rel="noopener noreferrer">Yasin Abbasi-Yadkori</a></li>
