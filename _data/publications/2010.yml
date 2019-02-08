@@ -17,7 +17,7 @@ publications:
 
 
 - id: 08f991c35f2b3d67cfe219f19e4e791b049f398d
-  title: GQ ( λ ) : A general gradient algorithm for temporal-difference prediction learning with eligibility traces
+  title: "GQ(λ): A general gradient algorithm for temporal-difference prediction learning with eligibility traces"
   authors: Hamid Reza Maei, Richard S. Sutton
   conference: 
   pdf: https://pdfs.semanticscholar.org/08f9/91c35f2b3d67cfe219f19e4e791b049f398d.pdf

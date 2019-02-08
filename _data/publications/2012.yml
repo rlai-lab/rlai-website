@@ -285,7 +285,7 @@ publications:
 - id: 7a2b8ae806db85b09e75a7f6887d456d55a40a2c
   title: "Clouds in Space: Scientific Computing using Windows Azure"
   authors: Steven J. Johnston, Neil S. O'Brien, Hugh G. Lewis, Elizabeth E. Hart, Adam White, Simon J. Cox
-  conference: Journal of Cloud Computing: Advances, Systems and Applications
+  conference: "Journal of Cloud Computing: Advances, Systems and Applications"
   pdf: http://doi.org/10.1186/2192-113X-2-2
 
 
@@ -297,7 +297,7 @@ publications:
 
 
 - id: 158ee323ab1825800d6c39005013bd412b94f0c9
-  title: Hand Lesions : An Unusual Presentation to the Acute Medical Take
+  title: "Hand Lesions : An Unusual Presentation to the Acute Medical Take"
   authors: Adam White, Alison Bateson
   conference: 
   pdf: https://pdfs.semanticscholar.org/158e/e323ab1825800d6c39005013bd412b94f0c9.pdf
