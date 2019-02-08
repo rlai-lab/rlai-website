@@ -17,7 +17,7 @@ publications:
 
 
 - id: 8abb7ce9d4632318c873010a00def7392409a24e
-  title: iLSTD: Eligibility Traces and Convergence Analysis
+  title: "iLSTD: Eligibility Traces and Convergence Analysis"
   authors: Alborz Geramifard, Michael H. Bowling, Martin Zinkevich, Richard S. Sutton
   conference: NIPS
   pdf: https://pdfs.semanticscholar.org/8abb/7ce9d4632318c873010a00def7392409a24e.pdf
@@ -66,7 +66,7 @@ publications:
 
 
 - id: 166419c83558664cf8dbd227bdaa0b4e53d478ef
-  title: Learning to Model Spatial Dependency: Semi-Supervised Discriminative Random Fields
+  title: "Learning to Model Spatial Dependency: Semi-Supervised Discriminative Random Fields"
   authors: Chi-Hoon Lee, Shaojun Wang, Feng Jiao, Dale Schuurmans, Russell Greiner
   conference: NIPS
   pdf: https://pdfs.semanticscholar.org/af32/be8c8beb34bf70ebb6e3fa87ad31f420a1a9.pdf
@@ -87,7 +87,7 @@ publications:
 
 
 - id: 02b36e0afd715fc7976d0d4e883415bfdf509ff6
-  title: Convex Structure Learning for Bayesian Networks: Polynomial Feature Selection and Approximate Ordering
+  title: "Convex Structure Learning for Bayesian Networks: Polynomial Feature Selection and Approximate Ordering"
   authors: Yuhong Guo, Dale Schuurmans
   conference: UAI
   pdf: https://arxiv.org/pdf/1206.6832.pdf
@@ -129,7 +129,7 @@ publications:
 
 
 - id: c98ea1aa7ee63c3185fb7744685ddb7f52d03e10
-  title: Local Importance Sampling: A Novel Technique to Enhance Particle Filtering
+  title: "Local Importance Sampling: A Novel Technique to Enhance Particle Filtering"
   authors: Péter Torma, Csaba Szepesvári
   conference: Journal of Multimedia
   pdf: https://pdfs.semanticscholar.org/d339/f107a8dba1083f3f8e95482840301009126d.pdf
@@ -143,7 +143,7 @@ publications:
 
 
 - id: 20903c7600786ee925da6d55974f3dbff7614f8c
-  title: RSPSA: Enhanced Parameter Optimization in Games
+  title: "RSPSA: Enhanced Parameter Optimization in Games"
   authors: Levente Kocsis, Csaba Szepesvári, Mark H. M. Winands
   conference: ACG
   pdf: https://pdfs.semanticscholar.org/2090/3c7600786ee925da6d55974f3dbff7614f8c.pdf
@@ -192,7 +192,7 @@ publications:
 
 
 - id: 7d5806cb857a9c8dbf58a518ff35cd530a71e86c
-  title: Mercury ITIL Foundation : Mapping ITIL To The Real World
+  title: "Mercury ITIL Foundation : Mapping ITIL To The Real World"
   authors: Adam White
   conference: 
   pdf: https://pdfs.semanticscholar.org/7d58/06cb857a9c8dbf58a518ff35cd530a71e86c.pdf
@@ -206,7 +206,7 @@ publications:
 
 
 - id: 7bbc696186aad1b5caf17544c5e7db59ce8f1402
-  title: Cigarette promotional offers: who takes advantage?
+  title: "Cigarette promotional offers: who takes advantage?"
   authors: Victoria M White, Martha White, Karen Freeman, Elizabeth A. Gilpin, John P Pierce
   conference: American journal of preventive medicine
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/16476638
@@ -220,7 +220,7 @@ publications:
 
 
 - id: ebb471755d9396836788701444e4f861b3e8d67e
-  title: Trends in smoking among Hispanic women in California: Relationship to English language use.
+  title: "Trends in smoking among Hispanic women in California: Relationship to English language use."
   authors: Dennis R. Trinidad, Elizabeth A. Gilpin, Karen S. Messer, Martha White, John P Pierce
   conference: American journal of preventive medicine
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/16905038
@@ -234,9 +234,9 @@ publications:
 
 
 - id: 36a032291d4c3170868841c1df98c2766b55bac4
-  title: Adolescents' perceptions about quitting and nicotine replacement therapy: findings from the California Tobacco Survey.
+  title: "Adolescents' perceptions about quitting and nicotine replacement therapy: findings from the California Tobacco Survey."
   authors: Wael K. Al-Delaimy, Martha White, John P Pierce
-  conference: The Journal of adolescent health : official publication of the Society for Adolescent Medicine
+  conference: "The Journal of adolescent health : official publication of the Society for Adolescent Medicine"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/16549315
 
 
@@ -276,7 +276,7 @@ publications:
 
 
 - id: 21b3cbc7f789afdfc37764b1e9669dbc4963900d
-  title: Prob-Maxn: Playing N-Player Games with Opponent Models
+  title: "Prob-Maxn: Playing N-Player Games with Opponent Models"
   authors: Nathan R. Sturtevant, Martin Zinkevich, Michael H. Bowling
   conference: AAAI
   pdf: https://pdfs.semanticscholar.org/621d/bcda43f56c6519092c96c3c326e9b07e1513.pdf

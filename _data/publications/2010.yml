@@ -3,7 +3,7 @@ publications:
 
 
 - id: cbdf72d2ec7fe1de9f87d1e43648bf90b1ee4206
-  title: Opening remarks 9 : 15-9 : 45 Active Sequential Estimation of Object Dynamics with Tactile Sensory Feedback -
+  title: "Opening remarks 9 : 15-9 : 45 Active Sequential Estimation of Object Dynamics with Tactile Sensory Feedback -"
   authors: Patrick M. Pilarski, Adam White, Thomas Degris, Richard S. Sutton
   conference: 
   pdf: https://pdfs.semanticscholar.org/cbdf/72d2ec7fe1de9f87d1e43648bf90b1ee4206.pdf
@@ -31,14 +31,14 @@ publications:
 
 
 - id: 4adf2a7ce88734857eb4c4c7a67741f4d058170f
-  title: Timing in trace conditioning of the nictitating membrane response of the rabbit (Oryctolagus cuniculus): scalar, nonscalar, and adaptive features.
+  title: "Timing in trace conditioning of the nictitating membrane response of the rabbit (Oryctolagus cuniculus): scalar, nonscalar, and adaptive features."
   authors: E. James Kehoe, Elliot A. Ludvig, Richard S. Sutton
   conference: Learning & memory
   pdf: https://pdfs.semanticscholar.org/9e43/37674690634aa36787a75a7f4db0eca4c72e.pdf
 
 
 - id: 9fd2978bb66fe32e9b6ad684a1a217219592fdf6
-  title: Facility locations revisited: An efficient belief propagation approach
+  title: "Facility locations revisited: An efficient belief propagation approach"
   authors: Wenye Li, Linli Xu, Dale Schuurmans
   conference: 2010 IEEE International Conference on Automation and Logistics
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5585318
@@ -73,7 +73,7 @@ publications:
 
 
 - id: 66ee252c92106da699c8a7a6fdcc5dfaede5fe44
-  title: Relaxed Clipping: A Global Training Method for Robust Regression and Classification
+  title: "Relaxed Clipping: A Global Training Method for Robust Regression and Classification"
   authors: Yaoliang Yu, Min Yang, Linli Xu, Martha White, Dale Schuurmans
   conference: NIPS
   pdf: https://pdfs.semanticscholar.org/8678/22745defeae34e9b14e473be3fc082f6571a.pdf
@@ -122,7 +122,7 @@ publications:
 
 
 - id: 27ae4dbbfd86ea3ef5af1eb4569b936160f48c70
-  title: REGO: Rank-based Estimation of Renyi Information using Euclidean Graph Optimization
+  title: "REGO: Rank-based Estimation of Renyi Information using Euclidean Graph Optimization"
   authors: Barnabás Póczos, Sergey Kirshner, Csaba Szepesvári
   conference: AISTATS
   pdf: https://pdfs.semanticscholar.org/adab/5024f05cd3f270f374c14e0ac59096821000.pdf
@@ -164,7 +164,7 @@ publications:
 
 
 - id: 582e6586e1ec20baa8df804fab8c061728a66a71
-  title: Parametric Bandits: The Generalized Linear Case
+  title: "Parametric Bandits: The Generalized Linear Case"
   authors: Sarah Filippi, Olivier Cappé, Aurélien Garivier, Csaba Szepesvári
   conference: NIPS
   pdf: https://pdfs.semanticscholar.org/aafe/d07d52c795619a274133b5e3938a2a6b2055.pdf
@@ -199,7 +199,7 @@ publications:
 
 
 - id: 09a1e9e41f4144bdea7574d68dee434fd6628dfc
-  title: Towards robust cellular image classification: theoretical foundations for wide-angle  scattering pattern analysis
+  title: "Towards robust cellular image classification: theoretical foundations for wide-angle  scattering pattern analysis"
   authors: Patrick M. Pilarski, Christopher J. Backhouse
   conference: Biomedical optics express
   pdf: https://pdfs.semanticscholar.org/09a1/e9e41f4144bdea7574d68dee434fd6628dfc.pdf
@@ -250,7 +250,7 @@ publications:
 - id: 425669cdf1ef8b03b660971b00a375875a3c4d82
   title: Forty years of faster decline in cigarette smoking in California explains current lower lung cancer rates.
   authors: John P Pierce, Karen Messer, Martha White, Sheila Kealey, David W. Cowling
-  conference: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+  conference: "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology"
   pdf: https://pdfs.semanticscholar.org/4256/69cdf1ef8b03b660971b00a375875a3c4d82.pdf
 
 
@@ -276,7 +276,7 @@ publications:
 
 
 - id: 243357becec2e282528f263a7b0479c171f002d9
-  title: Intensive Case Management Before and After Prison Release is No More Effective Than Comprehensive Pre-Release Discharge Planning in Linking HIV-Infected Prisoners to Care: A Randomized Trial
+  title: "Intensive Case Management Before and After Prison Release is No More Effective Than Comprehensive Pre-Release Discharge Planning in Linking HIV-Infected Prisoners to Care: A Randomized Trial"
   authors: David A Wohl, Anna M. Scheyett, Carol E. Golin, Becky White, Jeanine M Matuszewski, Michael H. Bowling, Paula Smith, Faye Duffin, David S. Rosen, Andrew Kaplan, Jo Anne Earp
   conference: AIDS and Behavior
   pdf: http://doi.org/10.1007/s10461-010-9843-4

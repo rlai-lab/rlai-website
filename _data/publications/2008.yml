@@ -10,7 +10,7 @@ publications:
 
 
 - id: 23127b07fe2f434ec345b8cfa8ea75a9c24b8b9d
-  title: Title of Thesis: Reinforcement Learning in Environments with Independent Delayed-sense Dynamics Reinforcement Learning in Environments with Independent Delayed-sense Dynamics
+  title: Reinforcement Learning in Environments with Independent Delayed-sense Dynamics Reinforcement Learning in Environments with Independent Delayed-sense Dynamics
   authors: Masoud Shahamiri, Richard S. Sutton, Martin Jägersand, Sirish Shah
   conference: 
   pdf: https://pdfs.semanticscholar.org/2312/7b07fe2f434ec345b8cfa8ea75a9c24b8b9d.pdf
@@ -185,7 +185,7 @@ publications:
 
 
 - id: 9c28c6a4b34145843dca41654398df75532ddc3b
-  title: Indirect interactions between ant-tended hemipterans, a dominant ant Azteca instabilis (Hymenoptera: Formicidae), and shade trees in a tropical agroecosystem.
+  title: "Indirect interactions between ant-tended hemipterans, a dominant ant Azteca instabilis (Hymenoptera: Formicidae), and shade trees in a tropical agroecosystem."
   authors: George F. Livingston, Adam M. White, Carley J Kratz
   conference: Environmental entomology
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/18559179
@@ -234,7 +234,7 @@ publications:
 
 
 - id: 85e279a9821119fc1dd1f06a35bf1347787a83ba
-  title: Multidisciplinary students and instructors: a second-year games course
+  title: "Multidisciplinary students and instructors: a second-year games course"
   authors: Nathan R. Sturtevant, H. James Hoover, Jonathan Schaeffer, Sean Gouglas, Michael H. Bowling, Finnegan Southey, Matthew Bouchard, Ghassan Zabaneh
   conference: SIGCSE
   pdf: http://dl.acm.org/citation.cfm?id=1352269
@@ -262,7 +262,7 @@ publications:
 
 
 - id: 9f15a62f55d3bb3ec4e314a4013fc474cd210246
-  title: Autonomous geocaching: navigation and goal finding in outdoor domains
+  title: "Autonomous geocaching: navigation and goal finding in outdoor domains"
   authors: James Neufeld, Michael Sokolsky, Jason Roberts, Adam Milstein, Stephen Walsh, Michael H. Bowling
   conference: AAMAS
   pdf: https://pdfs.semanticscholar.org/9f15/a62f55d3bb3ec4e314a4013fc474cd210246.pdf

@@ -10,7 +10,7 @@ publications:
 
 
 - id: 3e3efe35ed81bd764d727f026fa1bfe2a90b8b7e
-  title: Learning to Maximize Rewards : A Review of “ Reinforcement Learning : An Introduction ” by
+  title: "Learning to Maximize Rewards : A Review of “ Reinforcement Learning : An Introduction ” by"
   authors: Richard S. Sutton, Andrew G. Barto, Rajesh P. N. Rao
   conference: 
   pdf: https://pdfs.semanticscholar.org/3e3e/fe35ed81bd764d727f026fa1bfe2a90b8b7e.pdf
@@ -31,7 +31,7 @@ publications:
 
 
 - id: 778bd6ece40490152ca5a31d9bd98940a5061027
-  title: Research Grant Renewal Proposal Reinforcement Learning and Artificial Intelligence chair :
+  title: Research Grant Renewal Proposal Reinforcement Learning and Artificial Intelligence chair
   authors: Richard S. Sutton
   conference: 
   pdf: https://pdfs.semanticscholar.org/778b/d6ece40490152ca5a31d9bd98940a5061027.pdf
@@ -52,7 +52,7 @@ publications:
 
 
 - id: 03cdca5dec0bc0135f3e3ae45db9a4792f5b293f
-  title: Investigating Experience: Temporal Coherence and Empirical Knowledge Representation
+  title: "Investigating Experience: Temporal Coherence and Empirical Knowledge Representation"
   authors: Richard S. Sutton, Marcia L. Spetch
   conference: 
   pdf: https://pdfs.semanticscholar.org/03cd/ca5dec0bc0135f3e3ae45db9a4792f5b293f.pdf
@@ -80,7 +80,7 @@ publications:
 
 
 - id: 8392959dbbfcdd89797c0e9ba29f6d8d1a3adde9
-  title: Greedy importance sampling : A new Monte Carlo inference method
+  title: "Greedy importance sampling : A new Monte Carlo inference method"
   authors: Dale Schuurmans
   conference: 
   pdf: https://pdfs.semanticscholar.org/8392/959dbbfcdd89797c0e9ba29f6d8d1a3adde9.pdf
@@ -199,14 +199,14 @@ publications:
 
 
 - id: 9adace00635e0e4c2b9e7eefc88a2cc65abaeb22
-  title: FISH and chips: chromosomal analysis on microfluidic platforms.
+  title: "FISH and chips: chromosomal analysis on microfluidic platforms."
   authors: Vincent J. Sieben, Carina S. Debes Marun, Patrick M. Pilarski, Govind V. Kaigala, Linda M. Pilarski, Christopher J. Backhouse
   conference: IET nanobiotechnology
   pdf: https://pdfs.semanticscholar.org/9ada/ce00635e0e4c2b9e7eefc88a2cc65abaeb22.pdf
 
 
 - id: e3b37fb2e9b9330d34734cca24d44a9f11e1a728
-  title: The California Tobacco Control Program's effect on adult smokers: (2) Daily cigarette consumption levels.
+  title: "The California Tobacco Control Program's effect on adult smokers: (2) Daily cigarette consumption levels."
   authors: Wael K. Al-Delaimy, John P Pierce, Karen S. Messer, Martha White, Dennis R. Trinidad, Elizabeth A. Gilpin
   conference: Tobacco control
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/17400945
@@ -220,21 +220,21 @@ publications:
 
 
 - id: df8d7e0ec67f76a9da151c083b3edc92f77b6350
-  title: The California Tobacco Control Program's effect on adult smokers: (3) Similar effects for African Americans across states.
+  title: "The California Tobacco Control Program's effect on adult smokers: (3) Similar effects for African Americans across states."
   authors: Dennis R. Trinidad, Karen S. Messer, Elizabeth A. Gilpin, Wael K. Al-Delaimy, Martha White, John P Pierce
   conference: Tobacco control
   pdf: https://pdfs.semanticscholar.org/df8d/7e0ec67f76a9da151c083b3edc92f77b6350.pdf
 
 
 - id: 3cc847dc6f7ebd408f8ffaa291f91505ecdafded
-  title: Clinical decision-making: Patients' preferences and experiences.
+  title: "Clinical decision-making: Patients' preferences and experiences."
   authors: Elizabeth Murray, Lance Pollack, Martha White, Bernard Lo
   conference: Patient education and counseling
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/16956742
 
 
 - id: 5bd3a8581d6d163d821e0ceb14f40c52ba8c22c0
-  title: , Dennis R levels adult smokers : ( 2 ) Daily cigarette consumption The California Tobacco Control Program ’ s effect on
+  title: "Dennis R levels adult smokers : ( 2 ) Daily cigarette consumption The California Tobacco Control Program ’ s effect on"
   authors: Wael K. Al-Delaimy, John P Pierce, Karen S. Messer, Martha White, Dennis R. Trinidad, Elizabeth A. Gilpin
   conference: 
   pdf: https://pdfs.semanticscholar.org/5bd3/a8581d6d163d821e0ceb14f40c52ba8c22c0.pdf

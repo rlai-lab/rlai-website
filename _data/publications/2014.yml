@@ -38,7 +38,7 @@ publications:
 
 
 - id: 361acc53b2856ba6f76f4a2f8093701a57dfa3f2
-  title: ADAPTIVE SWITCHING IN PRACTICE : IMPROVING MYOELECTRIC PROSTHESIS PERFORMANCE THROUGH REINFORCEMENT LEARNING
+  title: "ADAPTIVE SWITCHING IN PRACTICE : IMPROVING MYOELECTRIC PROSTHESIS PERFORMANCE THROUGH REINFORCEMENT LEARNING"
   authors: Ann L. Edwards, Michael Rory Dawson, Jacqueline S. Hebert, Richard S. Sutton, K. Ming Chan, Patrick M. Pilarski
   conference: 
   pdf: https://pdfs.semanticscholar.org/361a/cc53b2856ba6f76f4a2f8093701a57dfa3f2.pdf
@@ -66,7 +66,7 @@ publications:
 
 
 - id: 22162abb8f5868938f8da391d3a1d603b3d8ac4c
-  title: Prediction Driven Behavior : Learning Predictions that Drive Fixed Responses
+  title: "Prediction Driven Behavior : Learning Predictions that Drive Fixed Responses"
   authors: Joseph Modayil, Richard S. Sutton
   conference: 
   pdf: https://pdfs.semanticscholar.org/2216/2abb8f5868938f8da391d3a1d603b3d8ac4c.pdf
@@ -129,7 +129,7 @@ publications:
 
 
 - id: f487ee1f484a3edd50790e37169e581859b5439c
-  title: Time-domain analysis of heart sound intensity in children with and without pulmonary artery hypertension: a pilot study using a digital stethoscope.
+  title: "Time-domain analysis of heart sound intensity in children with and without pulmonary artery hypertension: a pilot study using a digital stethoscope."
   authors: Mohamed Elgendi, Prashant Raviprakash Bobhate, Shreepal Ambalal Jain, Jennifer M. Rutledge, James Y. Coe, Roger J. Zemp, Dale Schuurmans, Ian Adatia
   conference: Pulmonary circulation
   pdf: https://pdfs.semanticscholar.org/f487/ee1f484a3edd50790e37169e581859b5439c.pdf
@@ -164,7 +164,7 @@ publications:
 
 
 - id: 80f6dc72a17b05896561fac340058acbeacb01f3
-  title: Bayesian Optimal Control of Smoothly Parameterized Systems: The Lazy Posterior Sampling Algorithm
+  title: "Bayesian Optimal Control of Smoothly Parameterized Systems: The Lazy Posterior Sampling Algorithm"
   authors: Yasin Abbasi-Yadkori, Csaba Szepesvári
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1406.3926.pdf
@@ -192,7 +192,7 @@ publications:
 
 
 - id: 091499c8914e2fe66ac53a21ad5a155edb2194d8
-  title: A Finite-Sample Generalization Bound for Semiparametric Regression: Partially Linear Models
+  title: "A Finite-Sample Generalization Bound for Semiparametric Regression: Partially Linear Models"
   authors: Ruitong Huang, Csaba Szepesvári
   conference: AISTATS
   pdf: https://pdfs.semanticscholar.org/978c/fa34afc03a7c4a4dbdf352c3d7742b464a13.pdf
@@ -229,12 +229,12 @@ publications:
 - id: 0000fbe3b6b596e6c1b5eb7426c470580eafabcb
   title: A genome-wide aberrant RNA splicing in patients with acute myeloid leukemia identifies novel potential disease markers and therapeutic targets.
   authors: Sophia Adamia, Benjamin Haibe-Kains, Patrick M. Pilarski, Michal Bar-Natan, Samuel J. Pevzner, Hervé Avet-Loiseau, Laurence Lodé, Sigitas J. Verselis, Edward Alan Fox, John Burke, Ilene Galinsky, Ibiayi Dagogo-Jack, Martha Wadleigh, David P Steensma, Gabriela Motyckova, Daniel J. Deangelo, John Quackenbush, Richard M Stone, James D Griffin
-  conference: Clinical cancer research : an official journal of the American Association for Cancer Research
+  conference: "Clinical cancer research : an official journal of the American Association for Cancer Research"
   pdf: https://pdfs.semanticscholar.org/4a23/890ca35d42bdf0ee0e051dc2dae8656ca56f.pdf
 
 
 - id: 45431ddf66be167fb3d161375e5a77dc5667512b
-  title: Proceedings of the first workshop on Peripheral Machine Interfaces: going beyond traditional surface electromyography
+  title: "Proceedings of the first workshop on Peripheral Machine Interfaces: going beyond traditional surface electromyography"
   authors: Claudio Castellini, Panagiotis K. Artemiadis, Michael Wininger, Arash Ajoudani, Merkur Alimusaj, Antonio Bicchi, Barbara Caputo, William Craelius, Strahinja Dosen, Kevin B. Englehart, Dario Farina, Arjan Gijsberts, Sasha Blue Godfrey, Levi J. Hargrove, Mark Ison, Todd A. Kuiken, Marko Marković, Patrick M. Pilarski, Rüdiger Rupp, Erik J. Scheme
   conference: Front. Neurorobot.
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/25177292
@@ -248,7 +248,7 @@ publications:
 
 
 - id: 2bb28e68660acf55bda0f316b66e1a5f49a1610b
-  title: Using Learned Predictions as Feedback to Improve Control and Communication with an Artificial Limb: Preliminary Findings.
+  title: "Using Learned Predictions as Feedback to Improve Control and Communication with an Artificial Limb: Preliminary Findings."
   authors: Adam S. R. Parker, Ann L. Edwards, Patrick M. Pilarski
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1408.1913.pdf
@@ -262,7 +262,7 @@ publications:
 
 
 - id: d4039b8f9528d9ff84d5719d1a913f0dad4fe907
-  title: NOTCH2 and FLT3 gene mis-splicings are common events in patients with acute myeloid leukemia (AML): new potential targets in AML.
+  title: "NOTCH2 and FLT3 gene mis-splicings are common events in patients with acute myeloid leukemia (AML): new potential targets in AML."
   authors: Sophia Adamia, Michal Bar-Natan, Benjamin Haibe-Kains, Patrick M. Pilarski, Christian Bach, Samuel J. Pevzner, Teresa Calimeri, Hervé Avet-Loiseau, Laurence Lodé, Sigitas J. Verselis, Edward Alan Fox, Ilene Galinsky, Steven M. Mathews, Ibiayi Dagogo-Jack, Martha Wadleigh, David P Steensma, Gabriela Motyckova, Daniel J. Deangelo, John Quackenbush, Daniel G Tenen, Richard M Stone, James D Griffin
   conference: Blood
   pdf: https://pdfs.semanticscholar.org/d403/9b8f9528d9ff84d5719d1a913f0dad4fe907.pdf
@@ -276,7 +276,7 @@ publications:
 
 
 - id: c6d8a732212030fd6553ff7d6f89de097cd1b4ba
-  title: DEVELOPMENT OF THE BENTO ARM : AN IMPROVED ROBOTIC ARM FOR MYOELECTRIC TRAINING AND RESEARCH
+  title: "DEVELOPMENT OF THE BENTO ARM : AN IMPROVED ROBOTIC ARM FOR MYOELECTRIC TRAINING AND RESEARCH"
   authors: Michael Rory Dawson, Craig Sherstan, Jason P. Carey, Jacqueline S. Hebert, Patrick M. Pilarski
   conference: 
   pdf: https://pdfs.semanticscholar.org/c6d8/a732212030fd6553ff7d6f89de097cd1b4ba.pdf
@@ -320,7 +320,7 @@ publications:
 - id: 66ac14c22dcdea98fd8ed332f06e0dda82d6c3b4
   title: Increases in light and intermittent smoking among Asian Americans and non-Hispanic Whites.
   authors: Lyzette Blanco, Liesl A. Nydegger, Kari-Lyn Kobayakawa Sakuma, Elisa K. Tong, Martha White, Dennis R. Trinidad
-  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  conference: "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/24638853
 
 
@@ -332,7 +332,7 @@ publications:
 
 
 - id: 85540ee596f249382eff6ec8a573d01845b69498
-  title: Integrating Representation Learning and Temporal Difference Learning : A Matrix Factorization Approach
+  title: "Integrating Representation Learning and Temporal Difference Learning : A Matrix Factorization Approach"
   authors: Martha White
   conference: 
   pdf: https://pdfs.semanticscholar.org/8554/0ee596f249382eff6ec8a573d01845b69498.pdf

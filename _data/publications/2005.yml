@@ -10,7 +10,7 @@ publications:
 
 
 - id: 7656a3d3f406b75609a8ecda0c29851f6866132f
-  title: TD(lambda) networks: temporal-difference networks with eligibility traces
+  title: "TD(lambda) networks: temporal-difference networks with eligibility traces"
   authors: Brian Tanner, Richard S. Sutton
   conference: ICML
   pdf: http://dl.acm.org/citation.cfm?id=1102463
@@ -150,7 +150,7 @@ publications:
 
 
 - id: 8e359d6622401fc331d1e496b28c5ff1fb101a66
-  title: On using likelihood-adjusted proposals in particle filtering: local importance sampling
+  title: "On using likelihood-adjusted proposals in particle filtering: local importance sampling"
   authors: Péter Torma, Csaba Szepesvári
   conference: ISPA 2005. Proceedings of the 4th International Symposium on Image and Signal Processing and Analysis, 2005.
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1521263
@@ -192,7 +192,7 @@ publications:
 
 
 - id: 8a942675be3418154c4e0c0ffdc632261111b4a5
-  title: Phylogenetic analysis of Pinguicula (Lentibulariaceae): chloroplast DNA sequences and morphology support several geographically distinct radiations.
+  title: "Phylogenetic analysis of Pinguicula (Lentibulariaceae): chloroplast DNA sequences and morphology support several geographically distinct radiations."
   authors: Thomas Cieslak, Jai Santosh Polepalli, Adam White, Kai J. Müller, Thomas Borsch, W Barthlott, Juerg Steiger, Adam D. Marchant, Laurent Legendre
   conference: American journal of botany
   pdf: https://pdfs.semanticscholar.org/8a94/2675be3418154c4e0c0ffdc632261111b4a5.pdf
@@ -206,16 +206,16 @@ publications:
 
 
 - id: 18fe52a39e1fe237177dae60a1ad86f036c5617c
-  title: Facilitating adolescent smoking: who provides the cigarettes?
+  title: "Facilitating adolescent smoking: who provides the cigarettes?"
   authors: Martha White, Elizabeth A. Gilpin, Sherry L Emery, John P Pierce
-  conference: American journal of health promotion : AJHP
+  conference: "American journal of health promotion : AJHP"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/15895538
 
 
 - id: ada84fad26f7d1ea0d455091b5932c6108d148d7
   title: How do smokers control their cigarette expenditures?
   authors: Victoria M White, Elizabeth A. Gilpin, Martha White, John P Pierce
-  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  conference: "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/16085532
 
 
@@ -241,7 +241,7 @@ publications:
 
 
 - id: 24bac83f244cbbff359a271b2fce7cab9ef3d34b
-  title: Bayes' Bluff: Opponent Modelling in Poker
+  title: "Bayes' Bluff: Opponent Modelling in Poker"
   authors: Finnegan Southey, Michael H. Bowling, Bryce Larson, Carmelo Piccione, Neil Burch, Darse Billings, D. Chris Rayner
   conference: UAI
   pdf: https://arxiv.org/pdf/1207.1411.pdf

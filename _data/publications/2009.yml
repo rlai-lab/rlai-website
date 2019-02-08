@@ -73,7 +73,7 @@ publications:
 
 
 - id: 2c5ccb08ca47e74107531ea91f98106e4a1102cf
-  title: Optimal reverse prediction: a unified perspective on supervised, unsupervised and semi-supervised learning
+  title: "Optimal reverse prediction: a unified perspective on supervised, unsupervised and semi-supervised learning"
   authors: Linli Xu, Martha White, Dale Schuurmans
   conference: ICML
   pdf: http://dl.acm.org/citation.cfm?id=1553519
@@ -171,7 +171,7 @@ publications:
 
 
 - id: 49651833816fd67f5b99004ab6cc3628ad1e4570
-  title: Regularized Fitted Q-iteration: Application to Planning
+  title: "Regularized Fitted Q-iteration: Application to Planning"
   authors: Amir Massoud Farahmand, Mohammad Ghavamzadeh, Csaba Szepesvári, Shie Mannor
   conference: EWRL
   pdf: https://pdfs.semanticscholar.org/5ffb/c676dfbc9ed8ee50f0ddd1b8e5e41516a21c.pdf
@@ -192,7 +192,7 @@ publications:
 
 
 - id: 35cf9e34f702a54f94e75c04abfc095d462be9f7
-  title: Regularized Fitted Q-iteration : Application to Bounded Resource Planning
+  title: "Regularized Fitted Q-iteration : Application to Bounded Resource Planning"
   authors: Amir Massoud Farahmand, Mohammad Ghavamzadeh, Csaba Szepesvári, Shie Mannor
   conference: 
   pdf: https://pdfs.semanticscholar.org/35cf/9e34f702a54f94e75c04abfc095d462be9f7.pdf
@@ -206,7 +206,7 @@ publications:
 
 
 - id: 234ab850a63219ede22b42ddaead0cb8b7412260
-  title: Workshop summary: On-line learning with limited feedback
+  title: "Workshop summary: On-line learning with limited feedback"
   authors: Jean-Yves Audibert, Peter Auer, Alessandro Lazaric, Rémi Munos, Daniil Ryabko, Csaba Szepesvári
   conference: ICML
   pdf: http://dl.acm.org/citation.cfm?id=1553547
@@ -234,9 +234,9 @@ publications:
 
 
 - id: 27b54e5a1312a5d3049b1db420022bbbb4ddc999
-  title: Changing age-specific patterns of cigarette consumption in the United States, 1992-2002: association with smoke-free homes and state-level tobacco control activity.
+  title: "Changing age-specific patterns of cigarette consumption in the United States, 1992-2002: association with smoke-free homes and state-level tobacco control activity."
   authors: John P Pierce, Martha White, Karen S. Messer
-  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  conference: "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/19246423
 
 
@@ -255,7 +255,7 @@ publications:
 
 
 - id: d3426896298ab2a4c045820761493ac02c7a3702
-  title: Young adult smoking behavior: implications for future population health.
+  title: "Young adult smoking behavior: implications for future population health."
   authors: Elizabeth A. Gilpin, Victoria M White, Martha White, John P Pierce
   conference: American journal of health behavior
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/19296747
@@ -264,7 +264,7 @@ publications:
 - id: aef00fbb3e0ecabbb885d4598a11c696358b7e51
   title: Intermittent and light daily smoking across racial/ethnic groups in the United States
   authors: Dennis R. Trinidad, Eliseo J. Pérez-Stable, Sherry L Emery, Martha White, Rachel A. Grana, Karen S Messer
-  conference: Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco
+  conference: "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/19246433
 
 

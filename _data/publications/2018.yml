@@ -38,14 +38,14 @@ publications:
 
 
 - id: a5acf5858ae6d07da159255ed0e46a2546d2164f
-  title: Multi-Step Reinforcement Learning: A Unifying Algorithm
+  title: "Multi-Step Reinforcement Learning: A Unifying Algorithm"
   authors: Kristopher De Asis, J. Fernando Hernandez-Garcia, G. Zacharias Holland, Richard S. Sutton
   conference: AAAI
   pdf: https://arxiv.org/pdf/1703.01327.pdf
 
 
 - id: b7dd1960262b03d1ed2efe7975e339cc0928f603
-  title: TIDBD: Adapting Temporal-difference Step-sizes Through Stochastic Meta-descent
+  title: "TIDBD: Adapting Temporal-difference Step-sizes Through Stochastic Meta-descent"
   authors: Alexandra Kearney, Vivek Veeriah, Jaden B. Travnik, Richard S. Sutton, Patrick M. Pilarski
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1804.03334.pdf
@@ -108,7 +108,7 @@ publications:
 
 
 - id: e0484e222f169ec0cba570a5b94b6e84d7ffc036
-  title: The Voice of the Heart: Vowel-Like Sound in Pulmonary Artery Hypertension
+  title: "The Voice of the Heart: Vowel-Like Sound in Pulmonary Artery Hypertension"
   authors: Mohamed Elgendi, Prashant Raviprakash Bobhate, Shreepal Ambalal Jain, Long Bao Guo, Jennifer M. Rutledge, Yashu Coe, Roger J. Zemp, Dale Schuurmans, Ian Adatia
   conference: Diseases
   pdf: https://pdfs.semanticscholar.org/e048/4e222f169ec0cba570a5b94b6e84d7ffc036.pdf
@@ -150,7 +150,7 @@ publications:
 
 
 - id: e28aad781c3ec6b2e119d13479dfbed4c3856be1
-  title: Garbage In, Reward Out: Bootstrapping Exploration in Multi-Armed Bandits
+  title: "Garbage In, Reward Out: Bootstrapping Exploration in Multi-Armed Bandits"
   authors: Branislav Kveton, Csaba Szepesvári, Zheng Wen, Mohammad Ghavamzadeh, Tor Lattimore
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1811.05154.pdf
@@ -171,21 +171,21 @@ publications:
 
 
 - id: 607862ca9a75ee982513be12a90ec05bd01e3641
-  title: LeapsAndBounds: A Method for Approximately Optimal Algorithm Configuration
+  title: "LeapsAndBounds: A Method for Approximately Optimal Algorithm Configuration"
   authors: Gellért Weisz, András György, Csaba Szepesvári
   conference: ICML
   pdf: https://arxiv.org/pdf/1807.00755.pdf
 
 
 - id: c87a934d55ca746caefeffa91dc281a4eec98608
-  title: BubbleRank: Safe Online Learning to Rerank
+  title: "BubbleRank: Safe Online Learning to Rerank"
   authors: Branislav Kveton, Chang Li, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvári, Masrour Zoghi
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1806.05819.pdf
 
 
 - id: a78d6d54f079d1af209aa05f27b8faa31e864db6
-  title: Linear Stochastic Approximation: How Far Does Constant Step-Size and Iterate Averaging Go?
+  title: "Linear Stochastic Approximation: How Far Does Constant Step-Size and Iterate Averaging Go?"
   authors: Chandrashekar Lakshminarayanan, Csaba Szepesvári
   conference: AISTATS
   pdf: https://pdfs.semanticscholar.org/a78d/6d54f079d1af209aa05f27b8faa31e864db6.pdf
@@ -206,7 +206,7 @@ publications:
 
 
 - id: d473e015ce321852307d2848da1b688572bf90b2
-  title: Cleaning up the neighborhood: A full classification for adversarial partial monitoring
+  title: "Cleaning up the neighborhood: A full classification for adversarial partial monitoring"
   authors: Tor Lattimore, Csaba Szepesvári
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1805.09247.pdf
@@ -220,7 +220,7 @@ publications:
 
 
 - id: 6c2c4f0dbce83eaff3a2711fbf1220a879c4e596
-  title: Rigorous Agent Evaluation: An Adversarial Approach to Uncover Catastrophic Failures
+  title: "Rigorous Agent Evaluation: An Adversarial Approach to Uncover Catastrophic Failures"
   authors: Jonathan Uesato, Ananya Kumar, Csaba Szepesvári, Tom Erez, Avraham Ruderman, Keith Anderson, Krishmamurthy Dvijotham, Nicolas Heess, Pushmeet Kohli
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1812.01647.pdf
@@ -234,14 +234,14 @@ publications:
 
 
 - id: e97e8b181d1b4a34e29bfae25ae0f03653a4b195
-  title: TopRank: A practical algorithm for online stochastic ranking
+  title: "TopRank: A practical algorithm for online stochastic ranking"
   authors: Tor Lattimore, Branislav Kveton, Shuai Li, Csaba Szepesvári
   conference: NeurIPS
   pdf: https://arxiv.org/pdf/1806.02248.pdf
 
 
 - id: b6cc30d8abecbfde44643dcbad6cd333ba1b2092
-  title: Monitoring food pathogens: Novel instrumentation for cassette PCR testing
+  title: "Monitoring food pathogens: Novel instrumentation for cassette PCR testing"
   authors: Darin Hunt, Curtis Figley, Dammika P Manage, Jana Lauzon, Rachel Figley, Linda M. Pilarski, lynn M. McMulleN, Patrick M. Pilarski
   conference: PloS one
   pdf: https://pdfs.semanticscholar.org/b6cc/30d8abecbfde44643dcbad6cd333ba1b2092.pdf
@@ -269,7 +269,7 @@ publications:
 
 
 - id: 0fa7a7781382c0b3af3697d937542e8b70ccb76b
-  title: Cluster-based upper body marker models for three-dimensional kinematic analysis: Comparison with an anatomical model and reliability analysis.
+  title: "Cluster-based upper body marker models for three-dimensional kinematic analysis: Comparison with an anatomical model and reliability analysis."
   authors: Quinn A. Boser, Aïda M. Valevicius, Ewen B. Lavoie, Craig S. Chapman, Patrick M. Pilarski, Jacqueline S. Hebert, Albert H. Vette
   conference: Journal of biomechanics
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/29530500
@@ -297,7 +297,7 @@ publications:
 
 
 - id: 41b9408cb69c45689a90d5f7709df4e0afb33660
-  title: Context-Aware Learning from Demonstration: Using Camera Data to Support the Synergistic Control of a Multi-Joint Prosthetic Arm
+  title: "Context-Aware Learning from Demonstration: Using Camera Data to Support the Synergistic Control of a Multi-Joint Prosthetic Arm"
   authors: Gautham Vasan, Patrick M. Pilarski
   conference: 2018 7th IEEE International Conference on Biomedical Robotics and Biomechatronics (Biorob)
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8487979
@@ -339,7 +339,7 @@ publications:
 
 
 - id: ba7a309fcc8dd361bddd27662fdfd68294e58b80
-  title: Organizing Experience: A Deeper Look at Replay Mechanisms for Sample-based Planning in Continuous State Domains
+  title: "Organizing Experience: A Deeper Look at Replay Mechanisms for Sample-based Planning in Continuous State Domains"
   authors: Yangchen Pan, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White
   conference: IJCAI
   pdf: https://arxiv.org/pdf/1806.04624.pdf
@@ -367,21 +367,21 @@ publications:
 
 
 - id: c60eb401875f33673f66d411040ea58181bc9f8b
-  title: Correction: Income disparities in smoking cessation and the diffusion of smoke-free homes among U.S. smokers: Results from two longitudinal surveys
+  title: "Correction: Income disparities in smoking cessation and the diffusion of smoke-free homes among U.S. smokers: Results from two longitudinal surveys"
   authors: Maya Vijayaraghavan, Tarik Benmarhnia, John P Pierce, Martha White, Jennie Kempster, Yuyan Shi, Dennis R. Trinidad, Karen Messer
   conference: PloS one
   pdf: https://pdfs.semanticscholar.org/c60e/b401875f33673f66d411040ea58181bc9f8b.pdf
 
 
 - id: acddb003c077589fe46c615b853153ca4ff9ab8d
-  title: Tobacco control in California compared with the rest of the USA: trends in adult per capita cigarette consumption.
+  title: "Tobacco control in California compared with the rest of the USA: trends in adult per capita cigarette consumption."
   authors: John P Pierce, Yuyan Shi, Erik M. Hendrickson, Martha White, Madison L. Noble, Sheila Kealey, David R. Strong, Dennis R. Trinidad, Anne Marcia Hartman, Karen S Messer
   conference: Tobacco control
   pdf: https://pdfs.semanticscholar.org/acdd/b003c077589fe46c615b853153ca4ff9ab8d.pdf
 
 
 - id: 1ac0e1c340694c6f6134a423494c6649521e38da
-  title: Income disparities in smoking cessation and the diffusion of smoke-free homes among U.S. smokers: Results from two longitudinal surveys
+  title: "Income disparities in smoking cessation and the diffusion of smoke-free homes among U.S. smokers: Results from two longitudinal surveys"
   authors: Maya Vijayaraghavan, Tarik Benmarnhia, John P Pierce, Martha White, Jennie Kempster, Yuyan Shi, Dennis R. Trinidad, Karen S Messer
   conference: PloS one
   pdf: https://pdfs.semanticscholar.org/653b/aaf7acba1962a0ceece7c103f95ce0a8f8cc.pdf
@@ -395,7 +395,7 @@ publications:
 
 
 - id: 048074c8e01164ab53e4dbb4529e01f4c2d53cfa
-  title: Actor-Expert: A Framework for using Action-Value Methods in Continuous Action Spaces
+  title: "Actor-Expert: A Framework for using Action-Value Methods in Continuous Action Spaces"
   authors: Sungsu Lim, PhD Nikola Panic MD, Lei Le, Yangchen Pan, Martha White
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1810.09103.pdf
@@ -423,14 +423,14 @@ publications:
 
 
 - id: fdf58ec8c096f7772ef5b3cf7a9bfcac45e24fd1
-  title: Trends in lung cancer and cigarette smoking: California compared to the rest of the United States.
+  title: "Trends in lung cancer and cigarette smoking: California compared to the rest of the United States."
   authors: John P Pierce, Yuyan Shi, Sara B McMenamin, Tarik Benmarhnia, Dennis R. Trinidad, David R. Strong, Martha White, Sheila Kealey, Erik M. Hendrickson, Matthew D. Stone, Adriana Villaseñor, S. L. Kwong, Xueying Zhang, Karen Messer
   conference: Cancer prevention research
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/30305281
 
 
 - id: 214799f90dcf59c22fccec2e68c20cf9bf6ab37a
-  title: Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents
+  title: "Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents"
   authors: Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew J. Hausknecht, Michael H. Bowling
   conference: J. Artif. Intell. Res.
   pdf: https://pdfs.semanticscholar.org/2147/99f90dcf59c22fccec2e68c20cf9bf6ab37a.pdf
@@ -458,7 +458,7 @@ publications:
 
 
 - id: 3b290ffa1f4f8226e326f00984acecdfbe9e28bf
-  title: Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents
+  title: "Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents"
   authors: Marlos C. Machado, Marc G. Bellemare, Erik Talvitie, Joel Veness, Matthew J. Hausknecht, Michael H. Bowling
   conference: IJCAI
   pdf: https://arxiv.org/pdf/1709.06009.pdf

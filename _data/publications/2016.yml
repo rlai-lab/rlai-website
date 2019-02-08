@@ -17,7 +17,7 @@ publications:
 
 
 - id: 1b018df9f043be45120d8d8d3112c7b5cc90b33c
-  title: Application of real-time machine learning to myoelectric prosthesis control: A case series in adaptive switching.
+  title: "Application of real-time machine learning to myoelectric prosthesis control: A case series in adaptive switching."
   authors: Ann L. Edwards, Michael Rory Dawson, Jacqueline S. Hebert, Craig Sherstan, Richard S. Sutton, K. Ming Chan, Patrick M. Pilarski
   conference: Prosthetics and orthotics international
   pdf: https://pdfs.semanticscholar.org/1b01/8df9f043be45120d8d8d3112c7b5cc90b33c.pdf
@@ -38,7 +38,7 @@ publications:
 
 
 - id: f93b5edacb321ca2e9eec8680b37ef9b70be2fb4
-  title: Face valuing: Training user interfaces with facial expressions and reinforcement learning
+  title: "Face valuing: Training user interfaces with facial expressions and reinforcement learning"
   authors: Vivek Veeriah, Patrick M. Pilarski, Richard S. Sutton
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1606.02807.pdf
@@ -101,7 +101,7 @@ publications:
 
 
 - id: 82547510c702d44383d78db3dc3ee2c80f732026
-  title: Cumulative Prospect Theory Meets Reinforcement Learning: Prediction and Control
+  title: "Cumulative Prospect Theory Meets Reinforcement Learning: Prediction and Control"
   authors: A. L. PrashanthL., Cheng Jie, Michael C. Fu, Steven I. Marcus, Csaba Szepesvári
   conference: ICML
   pdf: https://arxiv.org/pdf/1506.02632.pdf
@@ -143,7 +143,7 @@ publications:
 
 
 - id: 749f45182b955a1256af2bfc30e949339f92871a
-  title: DCM Bandits: Learning to Rank with Multiple Clicks
+  title: "DCM Bandits: Learning to Rank with Multiple Clicks"
   authors: Sumeet Katariya, Branislav Kveton, Csaba Szepesvári, Zheng Wen
   conference: ICML
   pdf: https://arxiv.org/pdf/1602.03146.pdf
@@ -171,7 +171,7 @@ publications:
 
 
 - id: b39ea949bd5351c9516012be35d86558e70d5fa7
-  title: Delay-Tolerant Online Convex Optimization: Unified Analysis and Adaptive-Gradient Algorithms
+  title: "Delay-Tolerant Online Convex Optimization: Unified Analysis and Adaptive-Gradient Algorithms"
   authors: Pooria Joulani, András György, Csaba Szepesvári
   conference: AAAI
   pdf: https://pdfs.semanticscholar.org/b39e/a949bd5351c9516012be35d86558e70d5fa7.pdf
@@ -185,7 +185,7 @@ publications:
 
 
 - id: 2e5ca50e6685d6e6a926f8ff86fa614544881ecf
-  title: Following the Leader and Fast Rates in Linear Prediction: Curved Constraint Sets and Other Regularities
+  title: "Following the Leader and Fast Rates in Linear Prediction: Curved Constraint Sets and Other Regularities"
   authors: Ruitong Huang, Tor Lattimore, András György, Csaba Szepesvári
   conference: NIPS
   pdf: https://arxiv.org/pdf/1702.03040.pdf
@@ -213,7 +213,7 @@ publications:
 
 
 - id: 5d8c5bb2188da0f6a7706b27cb34f396c4e56ae6
-  title: Introspective Agents: Confidence Measures for General Value Functions
+  title: "Introspective Agents: Confidence Measures for General Value Functions"
   authors: Craig Sherstan, Adam White, Marlos C. Machado, Patrick M. Pilarski
   conference: AGI
   pdf: https://arxiv.org/pdf/1606.05593.pdf

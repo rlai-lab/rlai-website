@@ -17,7 +17,7 @@ publications:
 
 
 - id: 5f0fbe8e37dc21deed6fae461858fc9621f30092
-  title: Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks
+  title: "Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks"
   authors: Vivek Veeriah, Shangtong Zhang, Richard S. Sutton
   conference: ECML/PKDD
   pdf: https://arxiv.org/pdf/1612.02879.pdf
@@ -101,7 +101,7 @@ publications:
 
 
 - id: 3f00dd71e8f2ac2b8dbdafbcefc696bf2368fbf2
-  title: Formalizing Anthropomorphism Through Games: A Study in Deep Neural Networks
+  title: "Formalizing Anthropomorphism Through Games: A Study in Deep Neural Networks"
   authors: Martin A. Zinkevich, Dale Schuurmans
   conference: AAAI Workshops
   pdf: http://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15228
@@ -178,7 +178,7 @@ publications:
 
 
 - id: 6351807959b22a8181470e57a1e91fdeb687943c
-  title: Following the Leader and Fast Rates in Online Linear Prediction: Curved Constraint Sets and Other Regularities
+  title: "Following the Leader and Fast Rates in Online Linear Prediction: Curved Constraint Sets and Other Regularities"
   authors: Ruitong Huang, Tor Lattimore, András György, Csaba Szepesvári
   conference: Journal of Machine Learning Research
   pdf: https://pdfs.semanticscholar.org/6351/807959b22a8181470e57a1e91fdeb687943c.pdf
@@ -192,14 +192,14 @@ publications:
 
 
 - id: dd0d74c3b45bd269cb73d8d7b9972a6fc14cc186
-  title: Linear Stochastic Approximation: Constant Step-Size and Iterate Averaging
+  title: "Linear Stochastic Approximation: Constant Step-Size and Iterate Averaging"
   authors: Chandrashekar Lakshminarayanan, Csaba Szepesvári
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1709.04073.pdf
 
 
 - id: a3663bab064aa5ae788534f5437b18e929896163
-  title: A Modular Analysis of Adaptive (Non-)Convex Optimization: Optimism, Composite Objectives, and Variational Bounds
+  title: "A Modular Analysis of Adaptive (Non-)Convex Optimization: Optimism, Composite Objectives, and Variational Bounds"
   authors: Pooria Joulani, András György, Csaba Szepesvári
   conference: ALT
   pdf: https://arxiv.org/pdf/1709.02726.pdf
@@ -262,14 +262,14 @@ publications:
 
 
 - id: bf28ee101b5e2ccf2e79f34bc77f0471174e21f2
-  title: Representing high-dimensional data to intelligent prostheses and other wearable assistive robots: A first comparison of tile coding and selective Kanerva coding
+  title: "Representing high-dimensional data to intelligent prostheses and other wearable assistive robots: A first comparison of tile coding and selective Kanerva coding"
   authors: Jaden B. Travnik, Patrick M. Pilarski
   conference: 2017 International Conference on Rehabilitation Robotics (ICORR)
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8009451
 
 
 - id: 2b6d72f2da59d8b7be1118c170a49400cdc14771
-  title: Learning from demonstration: Teaching a myoelectric prosthesis with an intact limb via reinforcement learning
+  title: "Learning from demonstration: Teaching a myoelectric prosthesis with an intact limb via reinforcement learning"
   authors: Gautham Vasan, Patrick M. Pilarski
   conference: 2017 International Conference on Rehabilitation Robotics (ICORR)
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8009453
@@ -283,7 +283,7 @@ publications:
 
 
 - id: 598e0dc73d20c3fb4c78bdc6ba2a7ffe92c8e2f3
-  title: DEVELOPMENT OF THE HANDI HAND : AN INEXPENSIVE , MULTI-ARTICULATING , SENSORIZED HAND FOR MACHINE LEARNING RESEARCH IN MYOELECTRIC CONTROL
+  title: "DEVELOPMENT OF THE HANDI HAND : AN INEXPENSIVE , MULTI-ARTICULATING , SENSORIZED HAND FOR MACHINE LEARNING RESEARCH IN MYOELECTRIC CONTROL"
   authors: Jintao Shen, Michael Rory Dawson, Patrick M. Pilarski
   conference: 
   pdf: https://pdfs.semanticscholar.org/598e/0dc73d20c3fb4c78bdc6ba2a7ffe92c8e2f3.pdf
@@ -313,7 +313,7 @@ publications:
 - id: 050fdd44745ce22a430797d4a68c430c614ac210
   title: Pre-adolescent Receptivity to Tobacco Marketing and Its Relationship to Acquiring Friends Who Smoke and Cigarette Smoking Initiation.
   authors: David R. Strong, Karen S Messer, Sheri J Hartman, Jesse N. Nodora, Lisa E Vera, Martha White, Eric C. Leas, Nikolas Pharris-Ciurej, Nicolette Borek, John P Pierce
-  conference: Annals of behavioral medicine : a publication of the Society of Behavioral Medicine
+  conference: "Annals of behavioral medicine : a publication of the Society of Behavioral Medicine"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/28255935
 
 
@@ -381,7 +381,7 @@ publications:
 
 
 - id: 29f94f5a209294554615d925a53c53b3a9649dd1
-  title: AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games
+  title: "AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games"
   authors: Neil Burch, Martin Schmid, Matej Moravcik, Michael H. Bowling
   conference: AAAI Workshops
   pdf: https://arxiv.org/pdf/1612.06915.pdf
@@ -416,14 +416,14 @@ publications:
 
 
 - id: 674e0cf883629c5355a38e6ad35af39d27828c62
-  title: Water, sanitation, and hygiene in schools: Status and implications of low coverage in Ethiopia, Kenya, Mozambique, Rwanda, Uganda, and Zambia.
+  title: "Water, sanitation, and hygiene in schools: Status and implications of low coverage in Ethiopia, Kenya, Mozambique, Rwanda, Uganda, and Zambia."
   authors: Camille Morgan, Michael H. Bowling, Jamie Bartram, Georgia Lyn Kayser
   conference: International journal of hygiene and environmental health
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/28539190
 
 
 - id: 0ccc18adb5e7716f2b5622fc453d5d5a51156ae4
-  title: DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker
+  title: "DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker"
   authors: Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, Michael H. Bowling
   conference: ArXiv
   pdf: https://pdfs.semanticscholar.org/4312/ae64a058d555ff1656ccad713dbd81200e79.pdf

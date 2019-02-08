@@ -17,7 +17,7 @@ publications:
 
 
 - id: 1a5b991229bbdb3481341ab843adeed5a96d36ee
-  title: Associative search network: A reinforcement learning associative memory
+  title: "Associative search network: A reinforcement learning associative memory"
   authors: Andrew G. Barto, Richard S. Sutton, Peter S. Brouwer
   conference: Biological Cybernetics
   pdf: http://doi.org/10.1007/BF00453370
@@ -101,7 +101,7 @@ publications:
 
 
 - id: d8692ed38ba1b66612328e0e69e161eb9e05728f
-  title: Shortest Path Discovery Problems: A Framework, Algorithms and Experimental Results
+  title: "Shortest Path Discovery Problems: A Framework, Algorithms and Experimental Results"
   authors: Csaba Szepesvári
   conference: AAAI
   pdf: https://pdfs.semanticscholar.org/d9a5/f77fb2f2c17127678c077f7abf4b28061d47.pdf
@@ -159,12 +159,12 @@ publications:
 - id: 5c9b1a38759af4a273471ea49d2ce3818d1ecdd3
   title: Efficacy and safety of fluticasone propionate/salmeterol HFA 134A MDI in patients with mild-to-moderate persistent asthma.
   authors: David S. Pearlman, David Peden, John J. Condemi, Steven Weinstein, Martha White, Leslie A Baitinger, Catherine Scott, Suzanne Ho, Karen House, Paul M Dorinsky
-  conference: The Journal of asthma : official journal of the Association for the Care of Asthma
+  conference: "The Journal of asthma : official journal of the Association for the Care of Asthma"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/15641629
 
 
 - id: 9df0a3da1f2937b0d104a57750fef423c10d73eb
-  title: Patient-centered communication: do patients really prefer it?
+  title: "Patient-centered communication: do patients really prefer it?"
   authors: Sara L. Swenson, Stephanie Buell, Patti Zettler, Martha White, Delaney C. Ruston, Bernard Lo
   conference: Journal of general internal medicine
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/15566435

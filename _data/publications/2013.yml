@@ -12,12 +12,12 @@ publications:
 - id: 657d9008cc645be0521055f7bdd19821d42c7d91
   title: Representation Search through Generate and Test
   authors: Ashique Rupam Mahmood, Richard S. Sutton
-  conference: AAAI Workshop: Learning Rich Representations from Low-Level Sensors
+  conference: "AAAI Workshop: Learning Rich Representations from Low-Level Sensors"
   pdf: https://pdfs.semanticscholar.org/657d/9008cc645be0521055f7bdd19821d42c7d91.pdf
 
 
 - id: 2a4fbcd16d96713bd2e3cb306f21bd9bbef15d37
-  title: Position Paper: Representation Search through Generate and Test
+  title: "Position Paper: Representation Search through Generate and Test"
   authors: Ashique Rupam Mahmood, Richard S. Sutton
   conference: SARA
   pdf: https://pdfs.semanticscholar.org/2a4f/bcd16d96713bd2e3cb306f21bd9bbef15d37.pdf
@@ -45,7 +45,7 @@ publications:
 
 
 - id: 228c3e3c3e4192fdf2d1152f0f7543dee9beb7ba
-  title: Adaptive artificial limbs: a real-time approach to prediction and anticipation
+  title: "Adaptive artificial limbs: a real-time approach to prediction and anticipation"
   authors: Patrick M. Pilarski, Michael Rory Dawson, Thomas Degris, Jason P. Carey, K. Ming Chan, Jacqueline S. Hebert, Richard S. Sutton
   conference: IEEE Robotics & Automation Magazine
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6476706
@@ -73,7 +73,7 @@ publications:
 
 
 - id: 0f86fa9e8187fe0b558de7991f1ab7ed6598920f
-  title: Learning a Metric Space for Neighbourhood Topology Estimation: Application to Manifold Learning
+  title: "Learning a Metric Space for Neighbourhood Topology Estimation: Application to Manifold Learning"
   authors: Karim T. Abou-Moustafa, Dale Schuurmans, Frank P. Ferrie
   conference: ACML
   pdf: https://pdfs.semanticscholar.org/8868/13b1234098a825ca9d94332ae1d811fd27a7.pdf
@@ -192,7 +192,7 @@ publications:
 
 
 - id: c8bdee25e586c23ea777abd50dc255c23599251a
-  title: Alternative splicing in chronic myeloid leukemia (CML): a novel therapeutic target?
+  title: "Alternative splicing in chronic myeloid leukemia (CML): a novel therapeutic target?"
   authors: Sophia Adamia, Patrick M. Pilarski, Michal Bar-Natan, Richard M Stone, James D Griffin
   conference: Current cancer drug targets
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/23906050
@@ -208,7 +208,7 @@ publications:
 - id: cc0ce3a58b82c602803c20e85e90d652a5723cc4
   title: Randomized controlled trial of ragweed allergy immunotherapy tablet efficacy and safety in North American adults.
   authors: Hendrik Nolte, Jacques Hebert, Gary D Berman, Sandra M Gawchik, Martha White, Amarjot Kaur, Nancy Y. N. Liu, William Raymond Lumry, Jennifer S Maloney
-  conference: Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology
+  conference: "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology"
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/23706715
 
 
@@ -283,7 +283,7 @@ publications:
 
 
 - id: 0ecd4fdce541317b38124967b5c2a259d8f43c91
-  title: The Arcade Learning Environment: An Evaluation Platform for General Agents
+  title: "The Arcade Learning Environment: An Evaluation Platform for General Agents"
   authors: Marc G. Bellemare, Yavar Naddaf, Joel Veness, Michael H. Bowling
   conference: J. Artif. Intell. Res.
   pdf: https://arxiv.org/pdf/1207.4708.pdf

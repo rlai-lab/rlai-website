@@ -10,7 +10,7 @@ publications:
 
 
 - id: ff0108d7d8c95303ee1fcbfb840b70f2bd8c67ee
-  title: Beyond Reward: The Problem of Knowledge and Data
+  title: "Beyond Reward: The Problem of Knowledge and Data"
   authors: Richard S. Sutton
   conference: ILP
   pdf: https://pdfs.semanticscholar.org/ff01/08d7d8c95303ee1fcbfb840b70f2bd8c67ee.pdf
@@ -59,7 +59,7 @@ publications:
 
 
 - id: 3e45710dfb1101b6842c51b1b6b0e2c5a51560ec
-  title: Rank/Norm Regularization with Closed-Form Solutions: Application to Subspace Clustering
+  title: "Rank/Norm Regularization with Closed-Form Solutions: Application to Subspace Clustering"
   authors: Yaoliang Yu, Dale Schuurmans
   conference: UAI
   pdf: https://arxiv.org/pdf/1202.3772.pdf
@@ -94,14 +94,14 @@ publications:
 
 
 - id: 95cf5515627fbeac4110b126a48623878dc21aa8
-  title: Regularized Least-Squares Regression : Learning from a β-mixing Sequence
+  title: "Regularized Least-Squares Regression : Learning from a β-mixing Sequence"
   authors: Amir-massoud Farahmand, Csaba Szepesvári
   conference: 
   pdf: https://pdfs.semanticscholar.org/244d/b45b7cd61e0717be7032e78c6a612ef3b49a.pdf
 
 
 - id: 5ff112d4dd277f6c3372e249886d282d9f49d5b5
-  title: Online Least Squares Estimation with Self-Normalized Processes: An Application to Bandit Problems
+  title: "Online Least Squares Estimation with Self-Normalized Processes: An Application to Bandit Problems"
   authors: Yasin Abbasi-Yadkori, Dávid Pál, Csaba Szepesvári
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1102.2670.pdf
@@ -150,7 +150,7 @@ publications:
 
 
 - id: 5326d829fb0e1b2881023c5a676b5305656ef9c6
-  title: Invited Talk: Towards Robust Reinforcement Learning Algorithms
+  title: "Invited Talk: Towards Robust Reinforcement Learning Algorithms"
   authors: Csaba Szepesvári
   conference: 
   pdf: http://doi.org/10.1007/978-3-642-29946-9_4
@@ -171,7 +171,7 @@ publications:
 
 
 - id: 81426c3176e87de5885713f8efadd783425fa121
-  title: Complex Interactions and Ecosystem Function: Auto-regulation of an Insect Community in a Coffee Agroecosystem by
+  title: "Complex Interactions and Ecosystem Function: Auto-regulation of an Insect Community in a Coffee Agroecosystem by"
   authors: Heidi Liere, John H. Vandermeer, Robyn J. Burnham, Ivette Perfecto, Braulio Chilel, Gabriel Dominguez, George R. Livingston, Carley J Kratz, Adam White, StacyM. Philpott
   conference: 
   pdf: https://pdfs.semanticscholar.org/8142/6c3176e87de5885713f8efadd783425fa121.pdf
@@ -185,7 +185,7 @@ publications:
 
 
 - id: e99afe82413abc846d337126306672b2bbf18920
-  title: Obesity increases and physical activity decreases lower urinary tract symptom risk in older men: the Osteoporotic Fractures in Men study.
+  title: "Obesity increases and physical activity decreases lower urinary tract symptom risk in older men: the Osteoporotic Fractures in Men study."
   authors: J Kellogg Parsons, Karen Messer, Martha White, Elizabeth Barrett-Connor, Doug Bauer, Lynn M Marshall
   conference: European urology
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/21802828
@@ -227,7 +227,7 @@ publications:
 
 
 - id: 2964eafda3fef0c690e04b51ed7a7cd4d800d38c
-  title: The lemonade stand game competition: solving unsolvable games
+  title: "The lemonade stand game competition: solving unsolvable games"
   authors: Martin Zinkevich, Michael H. Bowling, Michael Wunder
   conference: SIGecom Exchanges
   pdf: http://dl.acm.org/citation.cfm?id=1978730

@@ -10,7 +10,7 @@ publications:
 
 
 - id: 3772e468e3ed4d00571818d693b522978e368172
-  title: Reinforcement Learning : An Introduction Second edition , in progress
+  title: "Reinforcement Learning : An Introduction Second edition , in progress"
   authors: Richard S. Sutton, Andrew G. Barto
   conference: 
   pdf: https://pdfs.semanticscholar.org/83c8/b4938ce24eb84f8388faa36810c5432dfa2e.pdf
@@ -87,7 +87,7 @@ publications:
 
 
 - id: 3434f3ca3ea91399eb3eefbc6334856c2d9d1b87
-  title: Between Instruction and Reward: Human-Prompted Switching.
+  title: "Between Instruction and Reward: Human-Prompted Switching."
   authors: Patrick M. Pilarski, Richard S. Sutton
   conference: AAAI 2012
   pdf: http://www.aaai.org/ocs/index.php/FSS/FSS12/paper/view/5496
@@ -108,7 +108,7 @@ publications:
 
 
 - id: aadd07b800c8a13809de309e1c056cd724b6d73f
-  title: Regularizers versus Losses for Nonlinear Dimensionality Reduction: A Factored View with New Convex Relaxations
+  title: "Regularizers versus Losses for Nonlinear Dimensionality Reduction: A Factored View with New Convex Relaxations"
   authors: James Neufeld, Yaoliang Yu, Xinhua Zhang, Ryan Kiros, Dale Schuurmans
   conference: ICML
   pdf: https://arxiv.org/pdf/1206.6455.pdf
@@ -171,7 +171,7 @@ publications:
 
 
 - id: 2049cfdaa00653b5ad71629d7e54ba550ca7914c
-  title: Accelerated Training for Matrix-norm Regularization: A Boosting Approach
+  title: "Accelerated Training for Matrix-norm Regularization: A Boosting Approach"
   authors: Xinhua Zhang, Yaoliang Yu, Dale Schuurmans
   conference: NIPS
   pdf: https://pdfs.semanticscholar.org/b31c/3fda77f1758e95f99ab1826008575345a2e7.pdf
@@ -199,7 +199,7 @@ publications:
 
 
 - id: 1d622cb0a0571a2e11afe66517582b88f3b86907
-  title: Statistical linear estimation with penalized estimators: an application to reinforcement learning
+  title: "Statistical linear estimation with penalized estimators: an application to reinforcement learning"
   authors: Bernardo Ávila Pires, Csaba Szepesvári
   conference: ICML
   pdf: https://arxiv.org/pdf/1206.6444.pdf
@@ -241,7 +241,7 @@ publications:
 
 
 - id: 5208a9c2dd387b0bf9df8ba5f4b5f011b2462917
-  title: The grand challenge of computer Go: Monte Carlo tree search and extensions
+  title: "The grand challenge of computer Go: Monte Carlo tree search and extensions"
   authors: Sylvain Gelly, Levente Kocsis, Marc Schoenauer, Michèle Sebag, David Silver, Csaba Szepesvári, Olivier Teytaud
   conference: Commun. ACM
   pdf: http://dl.acm.org/citation.cfm?id=2093574
@@ -276,21 +276,21 @@ publications:
 
 
 - id: 3bc7f229d6e3411904bdcbb60574d9a56fe98284
-  title: Recruiting a New Substrate for Triacylglycerol Synthesis in Plants: The Monoacylglycerol Acyltransferase Pathway
+  title: "Recruiting a New Substrate for Triacylglycerol Synthesis in Plants: The Monoacylglycerol Acyltransferase Pathway"
   authors: James Robertson Petrie, Thomas Vanhercke, Pushkar Shrestha, Anna El Tahchy, Adam White, Xue-Rong Zhou, Qing Liu, Maged Peter Mansour, Peter David Nichols, Surinder Pal Singh
   conference: PloS one
   pdf: https://pdfs.semanticscholar.org/3bc7/f229d6e3411904bdcbb60574d9a56fe98284.pdf
 
 
 - id: 7a2b8ae806db85b09e75a7f6887d456d55a40a2c
-  title: Clouds in Space: Scientific Computing using Windows Azure
+  title: "Clouds in Space: Scientific Computing using Windows Azure"
   authors: Steven J. Johnston, Neil S. O'Brien, Hugh G. Lewis, Elizabeth E. Hart, Adam White, Simon J. Cox
   conference: Journal of Cloud Computing: Advances, Systems and Applications
   pdf: http://doi.org/10.1186/2192-113X-2-2
 
 
 - id: d4c052630d915760515a8517508287c45c908c7f
-  title: Correction: Recruiting a New Substrate for Triacylglycerol Synthesis in Plants: The Monoacylglycerol Acyltransferase Pathway
+  title: "Correction: Recruiting a New Substrate for Triacylglycerol Synthesis in Plants: The Monoacylglycerol Acyltransferase Pathway"
   authors: James Robertson Petrie, Thomas Vanhercke, Pushkar Shrestha, Anna El Tahchy, Adam White, Xue-Rong Zhou, Qing Liu, Maged Peter Mansour, Peter David Nichols, Surinder Pal Singh
   conference: 
   pdf: 
@@ -304,7 +304,7 @@ publications:
 
 
 - id: e7ed1af9ec9417d6a9c7eec38cb8d40d3d3fb000
-  title: Quitlines and nicotine replacement for smoking cessation: do we need to change policy?
+  title: "Quitlines and nicotine replacement for smoking cessation: do we need to change policy?"
   authors: John P Pierce, Sharon E Cummins, Martha White, Aimee Humphrey, Karen Messer
   conference: Annual review of public health
   pdf: https://pdfs.semanticscholar.org/e7ed/1af9ec9417d6a9c7eec38cb8d40d3d3fb000.pdf
