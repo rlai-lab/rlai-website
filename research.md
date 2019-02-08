@@ -28,7 +28,7 @@
 <ul>
 {% for pub in yr.publications %}
 <li>
-{{ pub.title }}. {{ pub.authors }}. <i>{{ pub.conference }}</i>, yr.yearname.
+{{ pub.title }}. {{ pub.authors }}. <i>{{ pub.conference }}</i>, {{ yr.yearname }}.
 {% if pub.pdf %}
 <a href=" {{ pub.pdf }}">[pdf]</a>
 {% endif %}
