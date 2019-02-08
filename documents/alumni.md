@@ -1,6 +1,3 @@
-## Alumni
-
-
 
 <h2>Research Associate Alumni</h2>
 

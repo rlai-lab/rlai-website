@@ -65,6 +65,15 @@
   alumni: postdoc
   year: 2011
 
+- name: Yaki Engel
+  status: 
+  alumni: postdoc
+
+- name: Mohammad Ghavamzadeh
+  website: "http://chercheurs.lille.inria.fr/~ghavamza/my_website/About_Me.html"
+  status: Senior Research Scientist, Facebook AI Research
+  alumni: postdoc
+  
 - name: Yuxi Li
   website: "http://www.cs.ualberta.ca/~yuxi"
   status: Founder, Attain.ai
@@ -125,6 +134,9 @@
   alumni: postdoc
   year: 2012
 
+- name: Martin Zinkevich
+  status: Software Engineer, Google
+  alumni: postdoc
 
 
 - name: Yasin Abbasi-Yadkori
@@ -178,8 +190,8 @@
   
 - name: Ken Dwyer
   website: "http://webdocs.cs.ualberta.ca/~dwyer/"
-  status: Machine Learning Engineer, Solvvy
-  alumni: phd
+  status: Machine Learning Engineer, Intellipse
+  alumni: msc
 
 - name: Amir massoud Farahmand
   website: "http://academic.sologen.net/Home.html"
@@ -207,7 +219,7 @@
 
 - name: Michael Johanson
   website: "http://webdocs.cs.ualberta.ca/~johanson/"
-  status: Research Scientist, Deepmind
+  status: Senior Research Scientist, Deepmind
   alumni: phd
   
 - name: Pooria Joulani
@@ -302,13 +314,18 @@
   status: Associate Professor, Shanghai Jiao Tong University
   alumni: phd
 
+- name: David Silver
+  website: "http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html"
+  status: Distinguished Research Scientist, Deepmind
+  alumni: phd
+  
 - name: Yi Wan
   website: "https://sites.google.com/ualberta.ca/yiwan/"
   status: phd
 
 - name: Adam White
   website: "http://www.adamwhite.ca/"
-  status: Research Scientist, Deepmind
+  status: Senior Research Scientist, Deepmind
   alumni: phd
 
 - name: Martha White
