@@ -17,7 +17,7 @@ publications:
 
 
 - id: d51907684b6b189a6eddc718f9ac44fa7833fac3
-  title: Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction
+  title: "Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction"
   authors: Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White, Doina Precup
   conference: AAMAS
   pdf: https://pdfs.semanticscholar.org/d519/07684b6b189a6eddc718f9ac44fa7833fac3.pdf

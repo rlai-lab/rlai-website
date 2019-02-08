@@ -171,7 +171,7 @@ publications:
 
 
 - id: 05621cdb2864c607bfe960a94bcdf2315b0ad2e5
-  title: X-mHMM: an efficient algorithm for training mixtures of HMMs when the number of mixtures is unknown
+  title: "X-mHMM:an efficient algorithm for training mixtures of HMMs when the number of mixtures is unknown"
   authors: Zoltán Szamonek, Csaba Szepesvári
   conference: Fifth IEEE International Conference on Data Mining (ICDM'05)
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1565709
