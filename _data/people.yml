@@ -34,6 +34,13 @@
   alumni: research associate
   year: 2011
 
+
+
+- name: Karim Abou-Moustafa
+  status: Research Analyst, AIMCo
+  alumni: postdoc
+  year: 2015
+  
 - name: Johannes Günther
   status: postdoc
 
@@ -48,7 +55,7 @@
 
 - name: Li Cheng 
   website: "http://web.bii.a-star.edu.sg/~chengli"
-  status: 
+  status: Associate Professor, Department of ECE, University of Alberta
   alumni: postdoc
   year: 2005
 
@@ -60,13 +67,13 @@
 
 - name: Yuxi Li
   website: "http://www.cs.ualberta.ca/~yuxi"
-  status: 
+  status: Founder, Attain.ai
   alumni: postdoc
   year: 2010
 
 - name: Wenye Li
   website: "http://staff.ipm.edu.mo/~wyli"
-  status: 
+  status: Assistant Professor, Chinese University of Hong Kong,
   alumni: postdoc
   year: 2009
 
@@ -106,11 +113,17 @@
   alumni: postdoc
   year: 2016
 
-- name: Xinhua Zhang
-  website: "http://webdocs.cs.ualberta.ca/~xinhua2/"
-  status: 
+- name: Linli Xu
+  website: "http://staff.ustc.edu.cn/~linlixu/"
+  status: Associate Professor, University of Science and Technology China
   alumni: postdoc
-  year: 
+  year: 2009
+  
+- name: Xinhua Zhang
+  website: "https://www.cs.uic.edu/~zhangx/"
+  status: Assistant Professor, University of Illinois at Chicago
+  alumni: postdoc
+  year: 2012
 
 
 
@@ -145,7 +158,7 @@
 
 - name: Gabor Balazs
   website: "http://webdocs.cs.ualberta.ca/~gbalazs/"
-  status: 
+  status: Quantitative Analyst, Causality Group
   alumni: phd
 
 - name: Nolan Bard
@@ -165,7 +178,7 @@
   
 - name: Ken Dwyer
   website: "http://webdocs.cs.ualberta.ca/~dwyer/"
-  status: 
+  status: Machine Learning Engineer, Solvvy
   alumni: phd
 
 - name: Amir massoud Farahmand
@@ -189,7 +202,8 @@
   
 - name: Ruitong Huang
   website: "http://webdocs.cs.ualberta.ca/~ruitong/"
-  status: phd
+  status: Research Team Lead, Borealis AI Edmonton
+  alumni: phd
 
 - name: Michael Johanson
   website: "http://webdocs.cs.ualberta.ca/~johanson/"
@@ -236,11 +250,17 @@
   website: "https://armahmood.github.io/"
   status: Lead AI Research, Kindred Inc.
   alumni: phd
-  
+
 - name: Kory Mathewson
   website: "http://korymathewson.com/academic/"
   status: phd
 
+
+- name: Farzaneh Mirzazadeh
+  status: Postdoctoral Researcher, MIT-IBM Watson AI Lab
+  alumni: phd
+  year: 2016
+  
 - name: Dustin Morrill
   website: "http://dmorrill10.github.io/"
   status: phd
@@ -261,6 +281,11 @@
   status: Engineer Platform Scientist, IBM
   alumni: phd
 
+- name: Mark Ring
+  website: "http://markring.com/"
+  status: Founder, Cogitai
+  alumni: research associate
+  
 - name: Matthew Schlegel 
   website: "http://mkschleg.github.io/"
   status: phd
@@ -310,7 +335,7 @@
 
 - name: Qin Iris Wang
   website: "http://sites.google.com/site/qiniriswang"
-  status: 
+  status: Research Scientist, LinkedIn Inc.
   alumni: phd
   year: 2008
 
@@ -450,7 +475,7 @@
   alumni: msc
 
 - name: Vivek Veeriah Jeya Veeraiah
-  website: "https://scholar.google.com/citations?user=1ySfO9MAAAAJ "
+  status: PhD, University of Michigan
   alumni: msc
 
 - name: Yifan Wu

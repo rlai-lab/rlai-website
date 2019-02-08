@@ -1,9 +1,8 @@
-<h2>Senior Research Associates</h2>
-<ul>
- 	<li><a href="http://markring.com/" target="_blank" rel="noopener">Mark Ring </a></li>
-	</ul>
+## Alumni
 
-<h2>Research Associates</h2>
+
+
+<h2>Research Associate Alumni</h2>
 
 <ul>
 {% for af in site.data.people %}
@@ -25,7 +24,7 @@
 </ul>
 
 
-<h2>Post-Doctoral Fellows</h2>
+<h2>Post-Doctoral Fellow Alumni</h2>
 
 <ul>
 {% for af in site.data.people %}
@@ -46,7 +45,7 @@
 {% endfor %}
 </ul>
 	
-<h2>Ph.D. Students</h2>
+<h2>Ph.D. Alumni</h2>
 
 <ul>
 {% for af in site.data.people %}
@@ -69,7 +68,7 @@
 
 
 	
-<h2>M.Sc. Students</h2>
+<h2>M.Sc. Alumni</h2>
 
  <ul>
 {% for af in site.data.people %}
