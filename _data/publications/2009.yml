@@ -199,7 +199,7 @@ publications:
 
 
 - id: 0b19c19a5a6dbb816af068d634ed705d007c57e6
-  title: LMS-2: Towards an algorithm that is as cheap as LMS and almost as efficient as RLS
+  title: "LMS-2: Towards an algorithm that is as cheap as LMS and almost as efficient as RLS"
   authors: Hengshuai Yao, Shalabh Bhatnagar, Csaba Szepesvári
   conference: Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference
   pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5400370
@@ -227,7 +227,7 @@ publications:
 
 
 - id: 865af2da99c2cc3b9718522fd337368701f12897
-  title: RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments
+  title: "RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments"
   authors: Brian Tanner, Adam M. White
   conference: Journal of Machine Learning Research
   pdf: https://pdfs.semanticscholar.org/865a/f2da99c2cc3b9718522fd337368701f12897.pdf
