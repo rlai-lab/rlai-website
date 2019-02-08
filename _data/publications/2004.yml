@@ -10,7 +10,7 @@ publications:
 
 
 - id: c9404262274a05987366a5b9085d14a66266f4f4
-  title: Introduction: The challenge of reinforcement learning
+  title: "Introduction: The challenge of reinforcement learning"
   authors: Richard S. Sutton
   conference: Machine Learning
   pdf: http://doi.org/10.1007/BF00992695
@@ -171,7 +171,7 @@ publications:
 
 
 - id: 149a748f024abbe0024cb3631ddd7e813b453be0
-  title: STP : Skills , tactics and plays for multi-robot control in adversarial environments
+  title: "STP: Skills, tactics and plays for multi-robot control in adversarial environments"
   authors: Brett Browning, James Bruce, Michael H. Bowling, Manuela M. Veloso
   conference: 
   pdf: https://pdfs.semanticscholar.org/149a/748f024abbe0024cb3631ddd7e813b453be0.pdf

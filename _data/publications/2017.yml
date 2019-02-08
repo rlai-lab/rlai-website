@@ -143,7 +143,7 @@ publications:
 
 
 - id: 6a5b433e74e339fc49223891182f0d6336cb59a0
-  title: Trust-PCL: An Off-Policy Trust Region Method for Continuous Control
+  title: "Trust-PCL: An Off-Policy Trust Region Method for Continuous Control"
   authors: Ofir Nachum, Mohammad Norouzi, Kelvin Xu, Dale Schuurmans
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1707.01891.pdf
