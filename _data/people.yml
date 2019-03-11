@@ -8,6 +8,12 @@
 
 
 
+
+- name: Andras Gyorgy
+  website: "http://www.szit.bme.hu/~gya/"
+  status: Research Scientist, Deepmind
+  alumni: research associate
+  
 - name: Huizhen Yu
   status: research associate
 
@@ -17,16 +23,132 @@
 - name: Omid Namaki Shoushtari
   status: research associate
 
+- name: Joseph Modayil
+  website: "http://webdocs.cs.ualberta.ca/~jmodayil/"
+  status: Research Scientist, Deepmind
+  alumni: research associate
+
+- name: Elliot Ludvig
+  website: "http://elliot.ludvig.ca/Home.html"
+  status: Associate Professor, University of Warwick
+  alumni: research associate
+  year: 2011
 
 
+
+- name: Karim Abou-Moustafa
+  status: Research Analyst, AIMCo
+  alumni: postdoc
+  year: 2015
+  
 - name: Johannes Günther
   status: postdoc
 
 - name: Ajin George Joseph
   status: postdoc
-   
+
+- name: Tiberio Caetano
+  website: "http://www.tiberiocaetano.com/"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2004
+
+- name: Li Cheng 
+  website: "http://web.bii.a-star.edu.sg/~chengli"
+  status: Associate Professor, Department of ECE, University of Alberta
+  alumni: postdoc
+  year: 2005
+
+- name: Thomas Degris-Dard
+  website: "http://people.bordeaux.inria.fr/degris/"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2011
+
+- name: Yaki Engel
+  status: 
+  alumni: postdoc
+
+- name: Mohammad Ghavamzadeh
+  website: "http://chercheurs.lille.inria.fr/~ghavamza/my_website/About_Me.html"
+  status: Senior Research Scientist, Facebook AI Research
+  alumni: postdoc
+  
+- name: Yuxi Li
+  website: "http://www.cs.ualberta.ca/~yuxi"
+  status: Founder, Attain.ai
+  alumni: postdoc
+  year: 2010
+
+- name: Wenye Li
+  website: "http://staff.ipm.edu.mo/~wyli"
+  status: Assistant Professor, Chinese University of Hong Kong,
+  alumni: postdoc
+  year: 2009
+
+- name: David Pal
+  website: "http://david.palenica.com/"
+  status: 
+  alumni: postdoc
+  year: 2011
+
+- name: Istvan Szita
+  website: "http://www.ualberta.ca/~szita/"
+  status: 
+  alumni: postdoc
+  year: 2011
+
+- name: Joel Veness
+  website: "http://jveness.info/about_me/default.html"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2012
+
+- name: Hado van Hasselt
+  website: "http://people.cs.uu.nl/hado/"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2014
+
+- name: Harm van Seijen
+  website: "http://webdocs.cs.ualberta.ca/~vanseije/" 
+  status: Research Scientist, Microsoft Research 
+  alumni: postdoc
+  year: 2016
+  
+- name: Tor Lattimore
+  website: "http://tor-lattimore.com"
+  status: Research Scientist, Deepmind
+  alumni: postdoc
+  year: 2016
+
+- name: Linli Xu
+  website: "http://staff.ustc.edu.cn/~linlixu/"
+  status: Associate Professor, University of Science and Technology China
+  alumni: postdoc
+  year: 2009
+  
+- name: Xinhua Zhang
+  website: "https://www.cs.uic.edu/~zhangx/"
+  status: Assistant Professor, University of Illinois at Chicago
+  alumni: postdoc
+  year: 2012
+
+- name: Martin Zinkevich
+  status: Software Engineer, Google
+  alumni: postdoc
 
 
+- name: Yasin Abbasi-Yadkori
+  website: "http://webdocs.cs.ualberta.ca/~abbasiya/" 
+  status: 
+  alumni: phd
+
+- name: Arash Afkanpour 
+  website: "http://webdocs.cs.ualberta.ca/~afkanpou/"
+  status: 
+  alumni: phd
+  
 - name: Mohammad Mahdi Ajallooeian
   website: "https://ca.linkedin.com/in/mohammad-mahdi-ajallooeian-a2679b2a"
   status: phd
@@ -36,13 +158,70 @@
   status: phd
   alumni: msc
 
+- name: Ozlem Aslan
+  website: "http://webdocs.cs.ualberta.ca/~ozlem/"
+  status: Research Scientist, Deepmind
+  alumni: phd
+
+- name: Bernardo Ávila Pires
+  website: "https://scholar.google.ca/citations?user=WpAH4iUAAAAJ&amp;hl=en"
+  status: Research Scientist, Deepmind
+  alumni: phd
+
+- name: Gabor Balazs
+  website: "http://webdocs.cs.ualberta.ca/~gbalazs/"
+  status: Quantitative Analyst, Causality Group
+  alumni: phd
+
+- name: Nolan Bard
+  website: "http://webdocs.cs.ualberta.ca/~nolan/" 
+  status: Research Scientist, Deepmind
+  alumni: phd
+
+- name: Gabor Bartok
+  website: "http://www.ualberta.ca/~bartok/"
+  status: Software Engineer, Google
+  alumni: phd
+
+- name: Marc G. Bellemare
+  website: "http://webdocs.cs.ualberta.ca/~mg17/" 
+  status: Research Scientist, Google Brain
+  alumni: phd
+  
+- name: Ken Dwyer
+  website: "http://webdocs.cs.ualberta.ca/~dwyer/"
+  status: Machine Learning Engineer, Intellipse
+  alumni: msc
+
+- name: Amir massoud Farahmand
+  website: "http://academic.sologen.net/Home.html"
+  status: Research Faculty, Vector
+  alumni: phd
+  year: 2011
+  
+- name: Alireza Farhangfar
+  website: "http://webdocs.cs.ualberta.ca/~farhang/"
+  status: 
+  alumni: phd
+
 - name: Sina Ghiassian
   status: phd
 
+- name: Yuhong Guo
+  website: "http://www.cis.temple.edu/~yuhong"
+  status: Associate Professor, Carelton University
+  alumni: phd
+  
 - name: Ruitong Huang
   website: "http://webdocs.cs.ualberta.ca/~ruitong/"
-  status: phd
+  status: Research Team Lead, Borealis AI Edmonton
+  alumni: phd
 
+- name: Michael Johanson
+  website: "http://webdocs.cs.ualberta.ca/~johanson/"
+  status: Senior Research Scientist, Deepmind
+  alumni: phd
+  
 - name: Pooria Joulani
   website: "http://pooriajoulani.github.io"
   status: phd
@@ -55,22 +234,54 @@
   website: "https://webdocs.cs.ualberta.ca/~kumarasw/"
   status: phd
 
+- name: Marc Lanctot
+  website: "http://webdocs.cs.ualberta.ca/~lanctot/"
+  status:  Research Scientist, Deepmind
+  alumni: phd
+  
 - name: Lei Le
   website: "http://homes.soic.indiana.edu/leile/"
   status: phd
 
+- name: Dan Lizotte
+  website: http://www.csd.uwo.ca/~dlizotte/
+  status: Assistant Professor, University of Western Ontario
+  alumni: phd
+  year: 2008
+  
 - name: Marlos C. Machado
   website: "https://webdocs.cs.ualberta.ca/~machado "
   status: phd
+
+- name: Hamid Reza Maei 
+  status: Staff Research Scientist, Criteo
+  alumni: phd
+  year: 2011
+  
+- name: Ashique Rupam Mahmood
+  website: "https://armahmood.github.io/"
+  status: Lead AI Research, Kindred Inc.
+  alumni: phd
 
 - name: Kory Mathewson
   website: "http://korymathewson.com/academic/"
   status: phd
 
+
+- name: Farzaneh Mirzazadeh
+  status: Postdoctoral Researcher, MIT-IBM Watson AI Lab
+  alumni: phd
+  year: 2016
+  
 - name: Dustin Morrill
   website: "http://dmorrill10.github.io/"
   status: phd
 
+- name: James Neufeld
+  website: "http://webdocs.cs.ualberta.ca/~neufeld/"
+  status: Staff ML Engineer, Twitter
+  alumni: phd
+  
 - name: Yangchen Pan
   status: phd
 
@@ -78,6 +289,19 @@
   website: "http://andnp.github.io/"
   status: phd
 
+- name: Chris Rayner
+  status: Engineer Platform Scientist, IBM
+  alumni: phd
+
+- name: Mark Ring
+  website: "http://markring.com/"
+  status: Founder, Cogitai
+  alumni: research associate
+  
+- name: Matthew Schlegel 
+  website: "http://mkschleg.github.io/"
+  status: phd
+  
 - name: Roshan Shariff
   website: "https://sites.ualberta.ca/~rshariff/"
   status: phd
@@ -86,17 +310,58 @@
   website: "http://sherstan.com "
   status: phd
 
-- name: Matthew Schlegel 
-  website: "http://mkschleg.github.io/"
-  status: phd
+- name: Yi Shi
+  status: Associate Professor, Shanghai Jiao Tong University
+  alumni: phd
 
+- name: David Silver
+  website: "http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html"
+  status: Distinguished Research Scientist, Deepmind
+  alumni: phd
+  
 - name: Yi Wan
   website: "https://sites.google.com/ualberta.ca/yiwan/"
   status: phd
 
-- name: Kenny Youn
+- name: Adam White
+  website: "http://www.adamwhite.ca/"
+  status: Senior Research Scientist, Deepmind
+  alumni: phd
+
+- name: Martha White
+  website: "http://webdocs.cs.ualberta.ca/~whitem/"
+  status: Assistant Professor, University of Alberta
+  alumni: phd
+
+- name: Min Yang
+  status: 
+  alumni: phd
+
+- name: Hengshuai Yao
+  status: Research Scientist, Huawei
+  alumni: phd
+  
+- name: Kenny Young
   website: "https://scholar.google.ca/citations?user=zI2uHi8AAAAJ "
   status: phd
+
+- name: Yaoliang Yu
+  website: https://cs.uwaterloo.ca/~y328yu/
+  status: Assistant Professor, University of Waterloo
+  alumni: phd
+
+- name: Qin Iris Wang
+  website: "http://sites.google.com/site/qiniriswang"
+  status: Research Scientist, LinkedIn Inc.
+  alumni: phd
+  year: 2008
+
+- name: Tao Wang
+  website: "http://www.cs.purdue.edu/~taowang"
+  status: Senior Applied Research Scientist, Apple
+  alumni: phd
+  year: 2007
+
 
 - name: Farzane Aminmansour 
   status: msc
@@ -119,6 +384,15 @@
 - name: Wesley Chung
   status: msc
 
+- name: Michael Delp
+  status: 
+  alumni: msc
+
+- name: Travis Dick
+  website: http://www.cs.cmu.edu/~tdick/
+  status: PhD, CMU
+  alumni: msc
+  
 - name: Michael Disyak
   status: msc
 
@@ -126,6 +400,9 @@
   website: "http://shibhansh.github.io/"
   status: msc
 
+- name: Leah Hackman
+  alumni: msc
+  
 - name: Zach Holland
   website: "https://www.linkedin.com/in/zach-holland/"
   status: Research Engineer, Deepmind
@@ -143,6 +420,11 @@
 
 - name: Shun Jie Lau
   status: msc
+
+- name: Michael Joya
+  website: "http://www.michaeljoya.com"
+  status: 
+  alumni: msc
 
 - name: Fushan Li
   website: "https://fushanli.github.io/"
@@ -164,6 +446,10 @@
   website: "http://chenchloema.github.io/"
   status: msc
 
+- name: Neda Mirian
+  status: Software Engineer, Google
+  alumni: msc
+  
 - name: Abhishek Naik
   website: "http://abhisheknaik96.github.io/"
   status: msc
@@ -186,19 +472,27 @@
   website: "https://amir-19.github.io/"
   status: msc
 
+- name: Brian Tanner
+  website: "http://research.tannerpages.com/"
+  status: Research Engineer, Deepmind
+  alumni: msc
+  
 - name: Tian Tian 
   status: phd
 
 - name: Han Wang
   status: msc
 
-
+- name: Kevin Waugh
+  status: Research Scientist, Deepmind
+  alumni: msc
+  
 - name: Jaden Travnik
   website: "https://sites.ualberta.ca/~travnik/"
   alumni: msc
 
 - name: Vivek Veeriah Jeya Veeraiah
-  website: "https://scholar.google.com/citations?user=1ySfO9MAAAAJ "
+  status: PhD, University of Michigan
   alumni: msc
 
 - name: Yifan Wu
