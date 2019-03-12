@@ -7,3 +7,7 @@ publications:
   conference: AAAI Conference on Artificial Intelligence
   pdf: https://arxiv.org/abs/1811.06626
 
+- id: jacobsen2019metadescent
+  title: Meta-descent for online, continual prediction.
+  authors: Andrew Jacobsen, Matthew Schlegel, Cam Linke, Thomas Degris, Adam White and Martha White.
+  conference: AAAI Conference on Artificial Intelligence

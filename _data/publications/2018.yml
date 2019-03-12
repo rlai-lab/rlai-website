@@ -496,3 +496,8 @@ publications:
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1807.11622.pdf
 
+- id: supervised2018Le
+  title: Supervised autoencoders Improving generalization performance with unsupervised regularizers.
+  authors: Lei Le, Andrew Patterson and Martha White
+  conference: Advances in Neural Information Processing Systems (NIPS)
+  pdf: http://papers.nips.cc/paper/7296-supervised-autoencoders-improving-generalization-performance-with-unsupervised-regularizers
