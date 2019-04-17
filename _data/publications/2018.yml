@@ -485,7 +485,7 @@ publications:
 
 - id: 567eb0ab96fb7f2869e9c4c204da9f2cf422d946
   title: Generalization and Regularization in DQN
-  authors: Alex S Lira, Marlos C. Machado, Michael H. Bowling
+  authors: Jesse Farebrother, Marlos C. Machado, Michael H. Bowling
   conference: ArXiv
   pdf: https://arxiv.org/pdf/1810.00123.pdf
 
