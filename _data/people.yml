@@ -429,6 +429,10 @@
   status: 
   alumni: msc
 
+- name: Alex Lewandowski
+  website: "https://lewandowskialex.com"
+  status: phd
+
 - name: Fushan Li
   website: "https://fushanli.github.io/"
   status: msc
