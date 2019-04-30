@@ -207,6 +207,9 @@
 - name: Sina Ghiassian
   status: phd
 
+- name: Eric Graves
+  status: phd
+
 - name: Yuhong Guo
   website: "http://www.cis.temple.edu/~yuhong"
   status: Associate Professor, Carelton University
@@ -426,6 +429,10 @@
   status: 
   alumni: msc
 
+- name: Alex Lewandowski
+  website: "https://lewandowskialex.com"
+  status: phd
+
 - name: Fushan Li
   website: "https://fushanli.github.io/"
   status: msc
@@ -452,7 +459,7 @@
   
 - name: Abhishek Naik
   website: "http://abhisheknaik96.github.io/"
-  status: msc
+  status: phd
 
 - name: Somjit Nath
   website: "https://sites.google.com/prod/view/somjit77/"
@@ -510,6 +517,10 @@
   alumni: msc
 
 - name: Paniz Behboudian
+  status: msc
+
+- name: Khurram Javed
+  website : "https://sites.ualberta.ca/~kjaved/"
   status: msc
 
  
