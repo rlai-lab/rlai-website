@@ -7,19 +7,7 @@
 
 <h2>Publications by Year</h2>
 
-<!-- Super important: do not indent the content line, because then it -->
-<!-- gets treated like code -->
-<!-- Old stuff now, Alex has a better suggestion
-{% assign sortedyrs = (site.publications | sort: 'name') | reverse %}
-{% for pubyr in sortedyrs %}
-
-<h3>{{ pubyr.name }}</h3>
-
-{{ pubyr.content | markdownify }}
-
-{% endfor %}
--->
-{% assign sortedyrs = (site.data.publications | sort) %}
+{% assign sortedyrs = site.data.publications | sort %}
 {% for yr_hash in sortedyrs reversed %}
 {% assign yr = yr_hash[1] %}
 
