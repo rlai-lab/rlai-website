@@ -4,7 +4,7 @@
 2. Install gunicorn and pyyaml
 3. Install google API tools
 4. Install flask
-5. Close website repo
+5. Clone website repo
 
 To run the server, execute:
 ``` bash
