@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113304739-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-113304739-2');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <!--    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum -scale=1.0, user-scalable=no" />-->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>
+        RLAI
+    </title>
+</head>
+<body>
+<div id="page-wrapper">
+
+    <!-- Header -->
+    <section id="header">
+
+        <nav class="navbar navbar-toggleable-md navbar-expand-md navbar-light bg-light fixed-top bg-faded">
+            <div class="container">
+                <div class="navbar-header">
+
+                    <a class="navbar-brand" href="#"><img alt="Logo" class="d-inline-block align-top"
+                                                          src="{{ url_for('static', filename='images/logo.png') }}"
+                                                          style="width:80px;"></a>
+
+                </div>
+                <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
+                        class="navbar-toggler navbar-toggler-right" data-target="#navbarNav" data-toggle="collapse"
+                        type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./">Home</a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./people.html">People</a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./research.html">Publications</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+    </section>
+    <!-- Main -->
+    <section id="main">
+        <div class="container article">
+            <!---->
+            <h2 align="center" class='heading'>Alumni</h2>
+            <div class="row">
+                <div class="col-md-3">
+
+                            <span class="alumni-name">
+                                <b>Name</b>
+                            </span>
+
+                </div>
+                <div class="col-md-2">
+                        <span class="alumni-role">
+                            <b>Position</b>
+                        </span>
+                </div>
+                <div class="col-md-7">
+
+                        <span class="alumni-now">
+                            <b>Current Position</b>
+                        </span>
+
+                </div>
+            </div>
+
+
+            {% for key, value in people.items() %}
+                <hr>
+
+
+                {% for person in value %}
+                    <div class="row">
+                        <div class="col-md-3">
+
+                            <span class="alumni-name">
+                                {{ person[0] }}
+                            </span>
+
+                        </div>
+                        <div class="col-md-2">
+                        <span class="alumni-role">
+                            {{ person[1] }}
+                        </span>
+                        </div>
+                        <div class="col-md-7">
+                            {% if person[2] is defined %}
+                                <span class="alumni-now">
+                            {{ person[2] }}
+                        </span>
+                            {% endif %}
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </section>
+
+</div>
+</section>
+</div>
+</section>
+
+<hr>
+
+</div>
+
+
+</body>
+</html>

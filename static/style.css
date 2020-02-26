@@ -1,0 +1,163 @@
+
+.paper{
+	background-color:whitesmoke;
+	margin-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin:10px;
+	border-radius:10px;
+	list-style-position:outside;
+
+	/*border-style: solid;*/
+	/*border-color:grey;*/
+
+}
+
+
+
+
+.article{
+	margin-top:20px;
+}
+
+.justify{
+	text-align: justify;
+}
+body {
+	font-family: 'Lora', serif;
+	padding-top: 100px;
+	text-align: justify;
+
+}
+
+h1, h2, h3, h4, h5, h6, .navbar {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+
+
+
+.name{
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.block{
+	/*background-color:whitesmoke;*/
+	margin-top:25px;
+	/*margin-left:-10px;*/
+	/*margin-right:-10px;*/
+	/*padding-left:0px;*/
+	/*padding-right:10px;*/
+	/*padding-bottom:15px;*/
+	/*padding-top:5px;*/
+	/*border-radius:10px;*/
+}
+
+
+.year, .papers-tile{
+	text-align: center;
+	font-weight: bold;
+}
+
+.title{
+	font-weight:bold;
+}
+
+.venue{
+	font-weight: bold;
+	color:darkred;
+	font-style:italic;
+
+}
+
+.authors{
+	color:darkblue;
+	font-style: italic;
+	display:inline-block;
+}
+
+.person{
+	text-align: center;
+	/*background-color:whitesmoke;*/
+	/*border-radius:10px;*/
+	/*margin:4px;*/
+	/*padding: 10px;*/
+	/*margin:5px;*/
+	/*padding-bottom: 10px;*/
+	/*padding-top:10px;*/
+
+}
+.picture{
+	border-radius: 20%;
+	max-width:150px;
+	/*display: table;*/
+	margin:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	object-fit: cover;
+}
+
+.name_link{
+	/*font-weight: bold;*/
+	color:darkblue;
+}
+
+.heading{
+	margin-top:25px;
+	margin-bottom:25px;
+}
+
+.active{
+	background-color: lightgrey;
+	border-radius: 10px;
+	color:white;
+}
+
+.affilication{
+	font-size: .7em;
+	margin-bottom: 10px;
+	padding-bottom:10px
+}
+
+.pdf{
+	float:right;
+
+}
+
+.alumni-name{
+
+}
+.alumni-role{
+
+}
+.alumni-now{
+
+}
+
+.news-article{
+	/*background:whitesmoke;*/
+
+}
+
+.news-date{
+	font-weight: bold;
+}
+.center-link{
+	text-align: center;
+	align-content: center;
+	margin:auto;
+	padding:auto;
+
+}
+
+#please-scroll{
+  height: calc(100vh - 300px);
+  overflow-y: scroll;
+}
+

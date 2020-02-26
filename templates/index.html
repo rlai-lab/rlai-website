@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113304739-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-113304739-2');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <!--    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum -scale=1.0, user-scalable=no" />-->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>
+        RLAI
+    </title>
+</head>
+<body>
+<div id="page-wrapper">
+
+    <!-- Header -->
+    <section id="header">
+
+        <nav class="navbar navbar-toggleable-md navbar-expand-md navbar-light bg-light fixed-top bg-faded">
+            <div class="container">
+                <div class="navbar-header">
+
+                    <a class="navbar-brand" href="#"><img alt="Logo" class="d-inline-block align-top"
+                                                          src="{{ url_for('static', filename='images/logo.png') }}"
+                                                          style="width:80px;"></a>
+
+                </div>
+                <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
+                        class="navbar-toggler navbar-toggler-right" data-target="#navbarNav" data-toggle="collapse"
+                        type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="./">Home</a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./people.html">People</a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./research.html">Publications</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </section>
+
+    <!-- Main -->
+    <section id="main">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <a class="image featured" href="#"><img alt="" src="{{ url_for('static', filename='lab.jpg') }}"
+                                                            width="100%"/></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3 article overflow-auto" id="please-scroll">
+                    <h3>News</h3>
+                    <hr>
+                    {% for key, value in news.items() %}
+
+                        {% for news in value %}
+
+                            <div class="news-article">
+
+                                <div class="news-date">
+                                    {{ news[0] }}
+                                </div>
+
+
+                                <div class="news-content">
+                                    {{ news[1] }}
+                                </div>
+                            </div>
+                            <hr>
+
+
+
+
+                        {% endfor %}
+                    {% endfor %}
+
+                </div>
+
+                <div class="col-md-6 article justify">
+
+
+                    <h3>About Us</h3>
+                    Reinforcement Learning and Artificial Intellgience (RLAI) lab pursues
+                    artificial-intelligence by
+                    formulating it as a large optimal-control problem and approximately solving it using
+                    reinforcement-learning
+                    methods. Reinforcement learning is a new body of theory and techniques for optimal control
+                    that has been developed in the last twenty years primarily within the machine learning and
+                    operations
+                    research communities, and which have separately become important in psychology and
+                    neuroscience.
+                    Reinforcement learning researchers have developed novel methods to approximate solutions to
+                    optimal-control problems that are too large or too ill-defined for classical solution
+                    methods such as dynamic programming. For example, reinforcement-learning methods have
+                    obtained
+                    the best
+                    known solutions in such diverse automation applications as helicopter flying, elevator
+                    scheduling,
+                    playing Go, and resource-constrained scheduling.
+
+                    </p>
+                    <p>
+                        The objectives of the RLAI research program are to create new methods for reinforcement
+                        learning
+                        that remove some of the limitations on its widespread application and to develop
+                        reinforcement
+                        learning as a model of intelligence that could approach human abilities. These objectives
+                        are
+                        pursued through mathematics, through computational experiments, through the development of
+                        robotic
+                        systems, and through the development and testing of computational models of natural learning
+                        processes.
+                    </p>
+
+
+                </div>
+
+                <div class="col-md-3 overflow-auto article">
+                    {#                    <a class="twitter-timeline" data-height="500"#}
+                    {#                       href="https://twitter.com/KhurramJaved_96/lists/rlai-lab?ref_src=twsrc%5Etfw">RLAI Twitter#}
+                    {#                        List</a>#}
+                    {#                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>#}
+
+                    {#                    <a class="twitter-timeline" data-height="500" data-theme="light"#}
+                    {#                       href="https://twitter.com/rlai_lab/lists/rlai-pis?ref_src=twsrc%5Etfw">A Twitter List RLAI PIs</a>#}
+                    {#                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>#}
+
+                    <a class="twitter-timeline" data-height="500"
+                       href="https://twitter.com/rlai_lab?ref_src=twsrc%5Etfw">Tweets by
+                        rlai_lab</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+                    {#                    <a class="twitter-timeline" data-height="500"#}
+                    {#                       href="https://twitter.com/CsabaSzepesvari?ref_src=twsrc%5Etfw">Tweets by RLAI</a>#}
+                    {#                    <script async charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>#}
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <hr>
+
+</body>
+</html>

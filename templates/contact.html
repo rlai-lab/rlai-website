@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113304739-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-113304739-2');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <!--    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum -scale=1.0, user-scalable=no" />-->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>
+        RLAI
+    </title>
+</head>
+<body>
+<div id="page-wrapper">
+
+    <!-- Header -->
+    <section id="header">
+
+        <nav class="navbar navbar-toggleable-md navbar-expand-md navbar-light bg-light fixed-top bg-faded">
+            <div class="container">
+                <div class="navbar-header">
+
+                    <a class="navbar-brand" href="#"><img alt="Logo" class="d-inline-block align-top"
+                                                          src="{{ url_for('static', filename='images/logo.png') }}"
+                                                          style="width:80px;"></a>
+
+                </div>
+                <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
+                        class="navbar-toggler navbar-toggler-right" data-target="#navbarNav" data-toggle="collapse"
+                        type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./">Home</a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./people.html">People</a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./research.html">Publications</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="./contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+    </section>
+    <!-- Main -->
+    <section id="main">
+        <div class="container article">
+
+
+            <br>
+            <p>For general inquiries, please contact the RLAI Administrator, Beverly
+                Balaski at <a href="mailto:balaski@ualberta.ca" rel="noopener"
+                              target="_blank">balaski@ualberta.ca</a>.
+            </p>
+            <p>
+                To join the RLAI group
+                mailing list, see <a href="http://www.mailman.srv.ualberta.ca/mailman/listinfo/rlaigroup">http://www.mailman.srv.ualberta.ca/mailman/listinfo/rlaigroup</a>.
+            </p>
+
+            <h2>Joining RLAI</h2>
+            <p>To apply to study with one of the professors in the RLAI Group, please apply to the <a
+                    href="https://uofa.ualberta.ca/computing-science/graduate-studies/programs-and-admissions"
+                    rel="noopener" target="_blank">Department of Computing Science</a>.</p>
+
+            <p>To view other job openings, see <a href="positions.html">Positions</a>.</p>
+
+            <h2>Mailing Address</h2>
+            <p>Department of Computing Science, <br>
+                2-21 Athabasca Hall, <br>
+                Edmonton, AB, Canada  T6G 2E8
+                <a href="http://www.campusmap.ualberta.ca/" rel="noopener" target="_blank">Campus Map</a> (North
+                Campus)</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.7394173740986!2d-113.52930438415471!3d53.52671058001724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a0213c27fce27f%3A0x3e95253ce2f0a25d!2sReinforcement%20Learning%20and%20Artificial%20Intelligence%20Lab!5e0!3m2!1sen!2sca!4v1571861483933!5m2!1sen!2sca"
+                    width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <br>
+            <p><strong>Phone:</strong> 780-492-5640
+                <strong>Fax:</strong> 780-492-1111</p>
+
+            {##}
+        </div>
+    </section>
+
+    <hr>
+
+</div>
+
+</body>
+</html>
